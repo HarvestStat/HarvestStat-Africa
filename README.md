@@ -94,7 +94,7 @@ For details, please see the paper in the [Citation](#citation) section.
 ## Citation
 The data in this repository is available for free and unrestricted use. Users are encouraged to cite the following:
 
-D. Lee, W. Anderson, X. Chen, F. Davenport, S. Shukla, R. Sahajpale, M. Budde, J. Rowland, J. Verdin, L. You, M. Ahouangbenoni, K. Davis, E. Kebede, S. Ehrmannk, C. Justice, and C. Meyer. (2024), HarvestStat Africa – Harmonized Subnational Crop Statistics for Sub-Saharan Africa. EarthArXiv, [https://doi.org/10.31223/X5M123](https://doi.org/10.31223/X5M123).
+Lee, D., Anderson, W., Chen, X. et al. HarvestStat Africa – Harmonized Subnational Crop Statistics for Sub-Saharan Africa. Sci Data 12, 690 (2025). [https://doi.org/10.1038/s41597-025-05001-z](https://doi.org/10.1038/s41597-025-05001-z).
 
 <details>
 <summary>BibTeX</summary>
@@ -117,11 +117,12 @@ D. Lee, W. Anderson, X. Chen, F. Davenport, S. Shukla, R. Sahajpale, M. Budde, J
                   Justice, Christina and
                   Meyer, Carsten},
   title        = {{HarvestStat Africa – Harmonized Subnational Crop Statistics for Sub-Saharan Africa}},
-  year         = {2024},
-  journal      = {EarthArXiv},
-  note         = {Preprint},
-  doi          = {10.31223/X5M123},
-  url          = {https://doi.org/10.31223/X5M123}
+  year         = {2025},
+  volume       = {12},
+  number       = {690},
+  journal      = {Scientific Data},
+  doi          = {10.1038/s41597-025-05001-z},
+  url          = {https://doi.org/10.1038/s41597-025-05001-z}
 }
 </pre>
 </details>

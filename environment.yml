@@ -1,11 +1,10 @@
 name: hvstat
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python=3.10.10
-  - numpy=1.23.5
-  - pandas=1.4.4
+  - python=3.10
+  - numpy>=1.24
+  - pandas>=2.3
   - scipy
   - matplotlib
   - seaborn
@@ -18,11 +17,11 @@ dependencies:
   - shapely
   - pyshp
   - rasterio
-  - conda-forge::geopandas
-  - conda-forge::fiona
-  - conda-forge::gdal
+  - geopandas
+  - fiona
+  - gdal
   - ipykernel
   - ipywidgets
   - python-kaleido
   - papermill
-  - conda-forge::python-docx
+  - python-docx
