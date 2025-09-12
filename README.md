@@ -8,13 +8,13 @@
 
 ## Overview
 
-The HarvestStat-Africa is a repository that contains cleaned and harmonized subnational global crop production data for Africa from various sources, including the Famine [Early Warning Systems Network (FEWS NET)](https://fews.net/) of the United States Agency for International Development (USAID) and the Food and Agriculture Organization (FAO).</br>
+The HarvestStat-Africa is a repository that contains cleaned and harmonized subnational global crop production data for Africa from various sources, including the Famine [Early Warning Systems Network (FEWS NET)](https://fews.net/) of the U.S. Department of State Office of Global Food Security and the Food and Agriculture Organization (FAO).</br>
 
 This repository provides access to a comprehensive crop dataset that allows researchers, policymakers, and stakeholders to explore trends and patterns from  the subnational to the global level, enabling better-informed decisions related to food security, trade, and development.</br>
 
 ## Data sources
 The data in this repository is compiled from various sources, including:
-- Famine Early Warning Systems Network (FEWS NET) of the United States Agency for International Development (USAID). This is the primary source of information
+- Famine Early Warning Systems Network (FEWS NET). This is the primary source of information
     - [FEWS NET Data Warehouse (FDW)](https://fews.net/data)
 - Food and Agriculture Organization (FAO)
     - [FAOSTAT](https://www.fao.org/faostat/en/#home)
