@@ -895,13 +895,13 @@ def FDW_PD_GrainTypeAgg(list_table, product_category):
 def FDW_PD_MergeCropProductionSystem(area_new, prod_new, cps_remove, cps_final):
     # Area
     area_new = area_new.drop(cps_remove, level=6, axis=1)
-    area_new = area_new.sum(level=[0,1,2,3,4,5], axis=1, min_count=1)
+    area_new = area_new.groupby(level=[0,1,2,3,4,5], axis=1).sum(min_count=1)
     col_new = area_new.columns.to_frame().reset_index(drop=True)
     col_new['crop_production_system'] = cps_final
     area_new.columns = pd.MultiIndex.from_frame(col_new)
     # Production
     prod_new = prod_new.drop(cps_remove, level=6, axis=1)
-    prod_new = prod_new.sum(level=[0,1,2,3,4,5], axis=1, min_count=1)
+    prod_new = prod_new.groupby(level=[0,1,2,3,4,5], axis=1).sum(min_count=1)
     col_new = prod_new.columns.to_frame().reset_index(drop=True)
     col_new['crop_production_system'] = cps_final
     prod_new.columns = pd.MultiIndex.from_frame(col_new)
