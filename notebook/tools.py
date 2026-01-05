@@ -309,7 +309,7 @@ def load_npz(filn, key='data'):
 
 def PrintAdminUnits(shape_all):
     adm_year = shape_all['FNID'].apply(lambda x: str(x)[:8]).value_counts()
-    adm_year = adm_year.to_frame().reset_index().rename(columns={'index':'name','FNID':'count'})
+    adm_year = adm_year.to_frame().reset_index().rename(columns={'FNID':'name'})
     adm_year['year'] = adm_year['name'].apply(lambda x: int(x[2:6]))
     adm1_year = adm_year[adm_year['name'].apply(lambda x: x[-2:] == 'A1')].set_index('year')
     adm2_year = adm_year[adm_year['name'].apply(lambda x: x[-2:] == 'A2')].set_index('year')
@@ -322,7 +322,7 @@ def PrintAdminUnits(shape_all):
     print('- FEWS NET admin shapefiles ------------------- #')
     print('| year\t | Admin1   | # units   | Admin2   | # units   | Admin3   | # units   |')
     for i, (adm1, nadm1, adm2, nadm2, adm3, nadm3) in adm_year.iterrows():
-        print('| %d\t | %s | %d\t| %s\t| %d\t| %s\t| %d\t|' % (i, adm1, nadm1, adm2, nadm2, adm3, nadm3))
+        print('| %d\t | %s | %2d\t| %s\t| %2d\t| %s\t| %2d\t|' % (i, adm1, nadm1, adm2, nadm2, adm3, nadm3))
     print('----------------------------------------------- #')
     return
 
