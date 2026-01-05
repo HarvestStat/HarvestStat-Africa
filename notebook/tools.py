@@ -811,8 +811,8 @@ def FDW_PD_ConnectAdminLink(link_ratio, area, prod, validation=True):
         area_scaled = []
         prod_scaled = []
         for fnid in ratio.columns:
-            area_scaled.append(area[fnid].multiply(ratio[fnid]).droplevel(0,axis=1))
-            prod_scaled.append(prod[fnid].multiply(ratio[fnid]).droplevel(0,axis=1))
+            area_scaled.append(area[fnid].droplevel(0,axis=1).multiply(ratio[fnid]))
+            prod_scaled.append(prod[fnid].droplevel(0,axis=1).multiply(ratio[fnid]))
         # Merge all scaled data
         area_merged = reduce(lambda a, b: a.add(b, fill_value=0), area_scaled)
         prod_merged = reduce(lambda a, b: a.add(b, fill_value=0), prod_scaled)
