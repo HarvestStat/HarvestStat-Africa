@@ -20,10 +20,10 @@ A major data update is planned for the next release.
   ([#75](https://github.com/HarvestStat/HarvestStat-Africa/issues/75), [#83](https://github.com/HarvestStat/HarvestStat-Africa/issues/83)).
 
 ### Changed
-- Country names are hard-coded to follow **ISO 3166-1 short names** using `pycountry`,
+- Country names are hard-coded to follow **ISO 3166-1 short names** using [pycountry](https://pypi.org/project/pycountry/),
   applied consistently across both data and boundary files
   ([#78](https://github.com/HarvestStat/HarvestStat-Africa/issues/78)).
-- Column names in the boundary file are standardized to lower case:
+- Column names in the boundary file are standardized to be consistent with the data file:
   `fnid`, `country`, `country_code`, `admin_1`, `admin_2`.
 - The `public/` folder now contains **only the latest stable release**;
   archived versions are accessible via
