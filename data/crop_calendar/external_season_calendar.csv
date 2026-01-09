@@ -21,9 +21,9 @@ Chad,Main,6,11,0,0
 "Congo, The Democratic Republic of the",Main,1,12,0,0
 Ethiopia,Meher,5,1,-1,-1
 Guinea,Main,5,12,0,0
-Kenya,Annual,1,12,0,-1
+Kenya,Annual,1,12,-1,-1
 Kenya,Long,3,8,0,0
-Kenya,Short,10,3,-1,0
+Kenya,Short,10,3,0,0
 Lesotho,Summer,10,7,-1,0
 Lesotho,Winter,5,11,0,0
 Liberia,Main,4,12,0,0
@@ -44,7 +44,7 @@ Mozambique,Annual,10,6,-1,0
 Mozambique,Cotton season,10,6,-1,0
 Mozambique,Main,10,6,-1,0
 Mozambique,Rice season,10,6,-1,0
-Niger,Dry,6,12,0,0
+Niger,Dry,12,6,0,0
 Niger,Main,6,12,0,0
 Nigeria,Annual,3,10,0,0
 Nigeria,Wet,3,10,0,0
@@ -60,7 +60,7 @@ Somalia,Gu,3,8,0,0
 Somalia,Gu-off,3,9,0,0
 South Africa,Summer,10,4,-1,0
 South Africa,Winter,5,11,0,0
-South Sudan,Main,6,1,-1,0
+South Sudan,Main,6,1,0,0
 South Sudan,Annual,6,5,0,0
 Sudan,Main,6,11,0,0
 Sudan,Winter,11,4,-1,0
