@@ -797,7 +797,42 @@ def FDW_PD_RatioAdminLink(link, prod, over, mdx_pss):
     return link_ratio
 
 
-def FDW_PD_ConnectAdminLink(link_ratio, area, prod, validation=True):
+def FDW_PD_ConnectAdminLink(link_ratio, area, prod, validation=True, threshold_pct=1.0, verbose=False):
+    """
+    Connect linked production data across administrative boundaries.
+    
+    This function redistributes area and production data from old administrative units to new ones
+    using pre-calculated ratios. The redistribution should preserve the total sums, but small
+    discrepancies can occur due to:
+    1. Numerical precision in floating-point operations
+    2. Missing data (NaN) handling during multiplication and addition
+    3. Incomplete ratio coverage (ratios may not sum to exactly 1.0 for some units)
+    
+    Parameters:
+    -----------
+    link_ratio : dict
+        Dictionary mapping new FNIDs to DataFrames containing ratios for redistribution
+    area : pandas.DataFrame
+        Original area data by administrative unit and year
+    prod : pandas.DataFrame
+        Original production data by administrative unit and year
+    validation : bool, default=True
+        Whether to validate that pre- and post-calibration sums are within threshold
+    threshold_pct : float, default=1.0
+        Maximum allowed percentage difference between pre- and post-calibration sums
+    verbose : bool, default=False
+        Whether to print diagnostic information about discrepancies
+        
+    Returns:
+    --------
+    tuple : (area_new, prod_new)
+        Redistributed area and production DataFrames
+        
+    Raises:
+    -------
+    AssertionError
+        If validation is enabled and differences exceed the threshold
+    """
     # Connect linked production data
     area_new = []
     prod_new = []
@@ -823,11 +858,102 @@ def FDW_PD_ConnectAdminLink(link_ratio, area, prod, validation=True):
         prod_new.append(prod_merged)
     area_new = pd.concat(area_new, axis=1)
     prod_new = pd.concat(prod_new, axis=1)
+    
     if validation:
-        # assert np.isclose(area_new.sum(1), area.sum(1)).all() == True
-        # assert np.isclose(prod_new.sum(1), prod.sum(1)).all() == True
-        assert sum(abs((area_new.sum(1) - area.sum(1))/(area.sum(1) + 0.01)) > 0.01) == 0  # less than 1% difference is allowed
-        assert sum(abs((prod_new.sum(1) - prod.sum(1))/(prod.sum(1) + 0.01)) > 0.01) == 0  # less than 1% difference is allowed
+        # Calculate sums for comparison
+        area_sum_old = area.sum(1)
+        area_sum_new = area_new.sum(1)
+        prod_sum_old = prod.sum(1)
+        prod_sum_new = prod_new.sum(1)
+        
+        # Calculate differences more carefully to handle edge cases
+        # Use absolute difference for very small values, relative for larger values
+        threshold_abs_area = 0.001  # Small absolute threshold for area (0.001 ha)
+        threshold_abs_prod = 0.001  # Small absolute threshold for production (0.001 mt)
+        
+        # For area validation
+        area_abs_diff = abs(area_sum_new - area_sum_old)
+        # Only calculate relative difference where old sum is significant
+        area_rel_diff = pd.Series(
+            np.where(
+                area_sum_old > threshold_abs_area,
+                area_abs_diff / area_sum_old * 100,  # percentage
+                0  # treat as zero if old sum is negligible
+            ),
+            index=area_sum_old.index
+        )
+        area_failures = pd.Series(
+            np.where(
+                area_sum_old > threshold_abs_area,
+                area_rel_diff > threshold_pct,
+                area_abs_diff > threshold_abs_area
+            ),
+            index=area_sum_old.index
+        )
+        
+        # For production validation  
+        prod_abs_diff = abs(prod_sum_new - prod_sum_old)
+        prod_rel_diff = pd.Series(
+            np.where(
+                prod_sum_old > threshold_abs_prod,
+                prod_abs_diff / prod_sum_old * 100,  # percentage
+                0  # treat as zero if old sum is negligible
+            ),
+            index=prod_sum_old.index
+        )
+        prod_failures = pd.Series(
+            np.where(
+                prod_sum_old > threshold_abs_prod,
+                prod_rel_diff > threshold_pct,
+                prod_abs_diff > threshold_abs_prod
+            ),
+            index=prod_sum_old.index
+        )
+        
+        # Report diagnostics if verbose or if validation fails
+        if verbose or area_failures.sum() > 0 or prod_failures.sum() > 0:
+            print('--- FDW_PD_ConnectAdminLink Validation Report ---')
+            print(f'Threshold: {threshold_pct}% relative difference')
+            print(f'Absolute thresholds: area={threshold_abs_area} ha, prod={threshold_abs_prod} mt')
+            
+            if area_failures.sum() > 0:
+                print(f'\nArea validation: {area_failures.sum()} year(s) exceed threshold:')
+                failed_years = area_failures[area_failures].index
+                for year in failed_years:
+                    print(f'  Year {year}: old={area_sum_old[year]:.2f} ha, new={area_sum_new[year]:.2f} ha, '
+                          f'diff={area_abs_diff[year]:.4f} ha ({area_rel_diff[year]:.3f}%)')
+            else:
+                area_max_pct = area_rel_diff.max()
+                print(f'\nArea validation: PASSED (max difference: {area_max_pct:.4f}%)')
+                
+            if prod_failures.sum() > 0:
+                print(f'\nProduction validation: {prod_failures.sum()} year(s) exceed threshold:')
+                failed_years = prod_failures[prod_failures].index
+                for year in failed_years:
+                    print(f'  Year {year}: old={prod_sum_old[year]:.2f} mt, new={prod_sum_new[year]:.2f} mt, '
+                          f'diff={prod_abs_diff[year]:.4f} mt ({prod_rel_diff[year]:.3f}%)')
+            else:
+                prod_max_pct = prod_rel_diff.max()
+                print(f'\nProduction validation: PASSED (max difference: {prod_max_pct:.4f}%)')
+            print('------------------------------------------------')
+        
+        # Raise assertion errors with informative messages
+        if area_failures.sum() > 0:
+            max_diff_idx = area_rel_diff.idxmax()
+            raise AssertionError(
+                f'Area calibration validation failed: {area_failures.sum()} year(s) exceed {threshold_pct}% threshold. '
+                f'Worst case: year {max_diff_idx} with {area_rel_diff[max_diff_idx]:.3f}% difference. '
+                f'Consider increasing threshold_pct or investigating data quality.'
+            )
+        
+        if sum(prod_failures) > 0:
+            max_diff_idx = prod_rel_diff.idxmax()
+            raise AssertionError(
+                f'Production calibration validation failed: {prod_failures.sum()} year(s) exceed {threshold_pct}% threshold. '
+                f'Worst case: year {max_diff_idx} with {prod_rel_diff[max_diff_idx]:.3f}% difference. '
+                f'Consider increasing threshold_pct or investigating data quality.'
+            )
+    
     return area_new, prod_new
 
 
