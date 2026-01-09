@@ -1,576 +1,733 @@
 ,fnid,country,country_code,admin_1,admin_2,name,product,season_name,planting_year,planting_month,harvest_year,harvest_month,crop_production_system,indicator,value
-0,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2000,6,2001,1,traditional_rainfed,area,0.0
-1,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2000,6,2001,1,traditional_rainfed,production,0.0
-2,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2001,6,2002,1,traditional_rainfed,area,0.0
-3,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2001,6,2002,1,traditional_rainfed,production,0.0
-4,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2002,6,2003,1,traditional_rainfed,area,0.0
-5,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2002,6,2003,1,traditional_rainfed,production,0.0
-6,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2003,6,2004,1,traditional_rainfed,area,0.0
-7,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2003,6,2004,1,traditional_rainfed,production,0.0
-8,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2004,6,2005,1,traditional_rainfed,area,0.0
-9,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2004,6,2005,1,traditional_rainfed,production,0.0
-10,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2005,6,2006,1,traditional_rainfed,area,0.0
-11,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2005,6,2006,1,traditional_rainfed,production,0.0
-12,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2006,6,2007,1,traditional_rainfed,area,0.0
-13,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2006,6,2007,1,traditional_rainfed,production,0.0
-14,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2007,6,2008,1,traditional_rainfed,area,0.0
-15,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2007,6,2008,1,traditional_rainfed,production,0.0
-16,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2008,6,2009,1,traditional_rainfed,area,0.0
-17,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2008,6,2009,1,traditional_rainfed,production,0.0
-18,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2009,6,2010,1,traditional_rainfed,area,0.0
-19,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2009,6,2010,1,traditional_rainfed,production,0.0
-20,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2011,6,2012,1,traditional_rainfed,area,0.0
-21,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2011,6,2012,1,traditional_rainfed,production,0.0
-22,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1974,6,1975,1,traditional_rainfed,area,0.0
-23,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1974,6,1975,1,traditional_rainfed,production,0.0
-24,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1975,6,1976,1,traditional_rainfed,area,0.0
-25,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1975,6,1976,1,traditional_rainfed,production,0.0
-26,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1976,6,1977,1,traditional_rainfed,area,0.0
-27,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1976,6,1977,1,traditional_rainfed,production,0.0
-28,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1977,6,1978,1,traditional_rainfed,area,0.0
-29,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1977,6,1978,1,traditional_rainfed,production,0.0
-30,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1978,6,1979,1,traditional_rainfed,area,0.0
-31,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1978,6,1979,1,traditional_rainfed,production,0.0
-32,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1979,6,1980,1,traditional_rainfed,area,0.0
-33,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1979,6,1980,1,traditional_rainfed,production,0.0
-34,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1980,6,1981,1,traditional_rainfed,area,0.0
-35,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1980,6,1981,1,traditional_rainfed,production,0.0
-36,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1981,6,1982,1,traditional_rainfed,area,0.0
-37,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1981,6,1982,1,traditional_rainfed,production,0.0
-38,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1982,6,1983,1,traditional_rainfed,area,0.0
-39,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1982,6,1983,1,traditional_rainfed,production,0.0
-40,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1983,6,1984,1,traditional_rainfed,area,0.0
-41,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1983,6,1984,1,traditional_rainfed,production,0.0
-42,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1984,6,1985,1,traditional_rainfed,area,0.0
-43,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1984,6,1985,1,traditional_rainfed,production,0.0
-44,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1985,6,1986,1,traditional_rainfed,area,0.0
-45,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1985,6,1986,1,traditional_rainfed,production,0.0
-46,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1986,6,1987,1,traditional_rainfed,area,0.0
-47,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1986,6,1987,1,traditional_rainfed,production,0.0
-48,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1987,6,1988,1,traditional_rainfed,area,0.0
-49,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1987,6,1988,1,traditional_rainfed,production,0.0
-50,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1988,6,1989,1,traditional_rainfed,area,0.0
-51,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1988,6,1989,1,traditional_rainfed,production,0.0
-52,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1989,6,1990,1,traditional_rainfed,area,0.0
-53,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1989,6,1990,1,traditional_rainfed,production,0.0
-54,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1990,6,1991,1,traditional_rainfed,area,0.0
-55,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1990,6,1991,1,traditional_rainfed,production,0.0
-56,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1991,6,1992,1,traditional_rainfed,area,0.0
-57,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1991,6,1992,1,traditional_rainfed,production,0.0
-58,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1992,6,1993,1,traditional_rainfed,area,0.0
-59,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1992,6,1993,1,traditional_rainfed,production,0.0
-60,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1993,6,1994,1,traditional_rainfed,area,0.0
-61,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1993,6,1994,1,traditional_rainfed,production,0.0
-62,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1994,6,1995,1,traditional_rainfed,area,0.0
-63,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1994,6,1995,1,traditional_rainfed,production,0.0
-64,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1995,6,1996,1,traditional_rainfed,area,0.0
-65,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1995,6,1996,1,traditional_rainfed,production,0.0
-66,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1996,6,1997,1,traditional_rainfed,area,0.0
-67,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1996,6,1997,1,traditional_rainfed,production,0.0
-68,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1997,6,1998,1,traditional_rainfed,area,0.0
-69,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1997,6,1998,1,traditional_rainfed,production,0.0
-70,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1998,6,1999,1,traditional_rainfed,area,0.0
-71,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1998,6,1999,1,traditional_rainfed,production,0.0
-72,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1999,6,2000,1,traditional_rainfed,area,0.0
-73,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1999,6,2000,1,traditional_rainfed,production,0.0
-74,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2010,6,2011,1,traditional_rainfed,area,0.0
-75,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2010,6,2011,1,traditional_rainfed,production,0.0
-76,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1974,6,1975,1,traditional_rainfed,area,0.0
-77,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1974,6,1975,1,traditional_rainfed,production,0.0
-78,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1975,6,1976,1,traditional_rainfed,area,0.0
-79,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1975,6,1976,1,traditional_rainfed,production,0.0
-80,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1976,6,1977,1,traditional_rainfed,area,0.0
-81,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1976,6,1977,1,traditional_rainfed,production,0.0
-82,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1977,6,1978,1,traditional_rainfed,area,0.0
-83,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1977,6,1978,1,traditional_rainfed,production,0.0
-84,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1978,6,1979,1,traditional_rainfed,area,0.0
-85,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1978,6,1979,1,traditional_rainfed,production,0.0
-86,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1979,6,1980,1,traditional_rainfed,area,0.0
-87,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1979,6,1980,1,traditional_rainfed,production,0.0
-88,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1980,6,1981,1,traditional_rainfed,area,0.0
-89,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1980,6,1981,1,traditional_rainfed,production,0.0
-90,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1981,6,1982,1,traditional_rainfed,area,0.0
-91,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1981,6,1982,1,traditional_rainfed,production,0.0
-92,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1982,6,1983,1,traditional_rainfed,area,0.0
-93,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1982,6,1983,1,traditional_rainfed,production,0.0
-94,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1983,6,1984,1,traditional_rainfed,area,0.0
-95,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1983,6,1984,1,traditional_rainfed,production,0.0
-96,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1984,6,1985,1,traditional_rainfed,area,0.0
-97,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1984,6,1985,1,traditional_rainfed,production,0.0
-98,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1985,6,1986,1,traditional_rainfed,area,0.0
-99,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1985,6,1986,1,traditional_rainfed,production,0.0
-100,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1986,6,1987,1,traditional_rainfed,area,0.0
-101,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1986,6,1987,1,traditional_rainfed,production,0.0
-102,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1987,6,1988,1,traditional_rainfed,area,0.0
-103,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1987,6,1988,1,traditional_rainfed,production,0.0
-104,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1988,6,1989,1,traditional_rainfed,area,0.0
-105,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1988,6,1989,1,traditional_rainfed,production,0.0
-106,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1989,6,1990,1,traditional_rainfed,area,0.0
-107,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1989,6,1990,1,traditional_rainfed,production,0.0
-108,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1990,6,1991,1,traditional_rainfed,area,0.0
-109,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1990,6,1991,1,traditional_rainfed,production,0.0
-110,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1991,6,1992,1,traditional_rainfed,area,0.0
-111,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1991,6,1992,1,traditional_rainfed,production,0.0
-112,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1992,6,1993,1,traditional_rainfed,area,0.0
-113,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1992,6,1993,1,traditional_rainfed,production,0.0
-114,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1993,6,1994,1,traditional_rainfed,area,0.0
-115,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1993,6,1994,1,traditional_rainfed,production,0.0
-116,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1994,6,1995,1,traditional_rainfed,area,0.0
-117,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1994,6,1995,1,traditional_rainfed,production,0.0
-118,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1995,6,1996,1,traditional_rainfed,area,0.0
-119,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1995,6,1996,1,traditional_rainfed,production,0.0
-120,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1996,6,1997,1,traditional_rainfed,area,0.0
-121,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1996,6,1997,1,traditional_rainfed,production,0.0
-122,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1997,6,1998,1,traditional_rainfed,area,0.0
-123,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1997,6,1998,1,traditional_rainfed,production,0.0
-124,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1998,6,1999,1,traditional_rainfed,area,0.0
-125,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1998,6,1999,1,traditional_rainfed,production,0.0
-126,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1999,6,2000,1,traditional_rainfed,area,0.0
-127,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1999,6,2000,1,traditional_rainfed,production,0.0
-128,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2000,6,2001,1,traditional_rainfed,area,0.0
-129,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2000,6,2001,1,traditional_rainfed,production,0.0
-130,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2001,6,2002,1,traditional_rainfed,area,0.0
-131,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2001,6,2002,1,traditional_rainfed,production,0.0
-132,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2002,6,2003,1,traditional_rainfed,area,0.0
-133,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2002,6,2003,1,traditional_rainfed,production,0.0
-134,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2003,6,2004,1,traditional_rainfed,area,0.0
-135,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2003,6,2004,1,traditional_rainfed,production,0.0
-136,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2004,6,2005,1,traditional_rainfed,area,0.0
-137,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2004,6,2005,1,traditional_rainfed,production,0.0
-138,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2005,6,2006,1,traditional_rainfed,area,0.0
-139,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2005,6,2006,1,traditional_rainfed,production,0.0
-140,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2006,6,2007,1,traditional_rainfed,area,0.0
-141,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2006,6,2007,1,traditional_rainfed,production,0.0
-142,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2007,6,2008,1,traditional_rainfed,area,0.0
-143,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2007,6,2008,1,traditional_rainfed,production,0.0
-144,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2008,6,2009,1,traditional_rainfed,area,0.0
-145,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2008,6,2009,1,traditional_rainfed,production,0.0
-146,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2009,6,2010,1,traditional_rainfed,area,0.0
-147,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2009,6,2010,1,traditional_rainfed,production,0.0
-148,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2010,6,2011,1,traditional_rainfed,area,0.0
-149,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2010,6,2011,1,traditional_rainfed,production,0.0
-150,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2011,6,2012,1,traditional_rainfed,area,0.0
-151,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2011,6,2012,1,traditional_rainfed,production,0.0
-152,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1989,6,1990,1,traditional_rainfed,area,0.0
-153,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1989,6,1990,1,traditional_rainfed,production,0.0
-154,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1990,6,1991,1,traditional_rainfed,area,0.0
-155,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1990,6,1991,1,traditional_rainfed,production,0.0
-156,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1991,6,1992,1,traditional_rainfed,area,0.0
-157,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1991,6,1992,1,traditional_rainfed,production,0.0
-158,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1992,6,1993,1,traditional_rainfed,area,0.0
-159,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1992,6,1993,1,traditional_rainfed,production,0.0
-160,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1993,6,1994,1,traditional_rainfed,area,0.0
-161,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1993,6,1994,1,traditional_rainfed,production,0.0
-162,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1994,6,1995,1,traditional_rainfed,area,0.0
-163,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1994,6,1995,1,traditional_rainfed,production,0.0
-164,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1995,6,1996,1,traditional_rainfed,area,0.0
-165,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1995,6,1996,1,traditional_rainfed,production,0.0
-166,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1996,6,1997,1,traditional_rainfed,area,0.0
-167,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1996,6,1997,1,traditional_rainfed,production,0.0
-168,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1997,6,1998,1,traditional_rainfed,area,0.0
-169,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1997,6,1998,1,traditional_rainfed,production,0.0
-170,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1998,6,1999,1,traditional_rainfed,area,0.0
-171,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1998,6,1999,1,traditional_rainfed,production,0.0
-172,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1999,6,2000,1,traditional_rainfed,area,0.0
-173,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1999,6,2000,1,traditional_rainfed,production,0.0
-174,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2000,6,2001,1,traditional_rainfed,area,0.0
-175,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2000,6,2001,1,traditional_rainfed,production,0.0
-176,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2001,6,2002,1,traditional_rainfed,area,0.0
-177,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2001,6,2002,1,traditional_rainfed,production,0.0
-178,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2002,6,2003,1,traditional_rainfed,area,0.0
-179,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2002,6,2003,1,traditional_rainfed,production,0.0
-180,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2003,6,2004,1,traditional_rainfed,area,0.0
-181,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2003,6,2004,1,traditional_rainfed,production,0.0
-182,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2004,6,2005,1,traditional_rainfed,area,0.0
-183,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2004,6,2005,1,traditional_rainfed,production,0.0
-184,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2005,6,2006,1,traditional_rainfed,area,0.0
-185,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2005,6,2006,1,traditional_rainfed,production,0.0
-186,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2006,6,2007,1,traditional_rainfed,area,0.0
-187,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2006,6,2007,1,traditional_rainfed,production,0.0
-188,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2007,6,2008,1,traditional_rainfed,area,0.0
-189,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2007,6,2008,1,traditional_rainfed,production,0.0
-190,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2008,6,2009,1,traditional_rainfed,area,0.0
-191,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2008,6,2009,1,traditional_rainfed,production,0.0
-192,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2009,6,2010,1,traditional_rainfed,area,0.0
-193,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2009,6,2010,1,traditional_rainfed,production,0.0
-194,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2010,6,2011,1,traditional_rainfed,area,0.0
-195,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2010,6,2011,1,traditional_rainfed,production,0.0
-196,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2011,6,2012,1,traditional_rainfed,area,0.0
-197,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2011,6,2012,1,traditional_rainfed,production,0.0
-198,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1989,6,1990,1,traditional_rainfed,area,0.0
-199,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1989,6,1990,1,traditional_rainfed,production,0.0
-200,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1990,6,1991,1,traditional_rainfed,area,0.0
-201,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1990,6,1991,1,traditional_rainfed,production,0.0
-202,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1991,6,1992,1,traditional_rainfed,area,0.0
-203,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1991,6,1992,1,traditional_rainfed,production,0.0
-204,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1992,6,1993,1,traditional_rainfed,area,0.0
-205,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1992,6,1993,1,traditional_rainfed,production,0.0
-206,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1993,6,1994,1,traditional_rainfed,area,0.0
-207,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1993,6,1994,1,traditional_rainfed,production,0.0
-208,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1994,6,1995,1,traditional_rainfed,area,0.0
-209,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1994,6,1995,1,traditional_rainfed,production,0.0
-210,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1995,6,1996,1,traditional_rainfed,area,0.0
-211,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1995,6,1996,1,traditional_rainfed,production,0.0
-212,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1996,6,1997,1,traditional_rainfed,area,0.0
-213,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1996,6,1997,1,traditional_rainfed,production,0.0
-214,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1997,6,1998,1,traditional_rainfed,area,0.0
-215,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1997,6,1998,1,traditional_rainfed,production,0.0
-216,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1998,6,1999,1,traditional_rainfed,area,0.0
-217,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1998,6,1999,1,traditional_rainfed,production,0.0
-218,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1999,6,2000,1,traditional_rainfed,area,0.0
-219,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1999,6,2000,1,traditional_rainfed,production,0.0
-220,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2000,6,2001,1,traditional_rainfed,area,0.0
-221,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2000,6,2001,1,traditional_rainfed,production,0.0
-222,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2001,6,2002,1,traditional_rainfed,area,0.0
-223,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2001,6,2002,1,traditional_rainfed,production,0.0
-224,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2002,6,2003,1,traditional_rainfed,area,0.0
-225,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2002,6,2003,1,traditional_rainfed,production,0.0
-226,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2003,6,2004,1,traditional_rainfed,area,0.0
-227,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2003,6,2004,1,traditional_rainfed,production,0.0
-228,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2004,6,2005,1,traditional_rainfed,area,0.0
-229,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2004,6,2005,1,traditional_rainfed,production,0.0
-230,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2005,6,2006,1,traditional_rainfed,area,0.0
-231,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2005,6,2006,1,traditional_rainfed,production,0.0
-232,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2006,6,2007,1,traditional_rainfed,area,0.0
-233,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2006,6,2007,1,traditional_rainfed,production,0.0
-234,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2007,6,2008,1,traditional_rainfed,area,0.0
-235,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2007,6,2008,1,traditional_rainfed,production,0.0
-236,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2008,6,2009,1,traditional_rainfed,area,0.0
-237,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2008,6,2009,1,traditional_rainfed,production,0.0
-238,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2009,6,2010,1,traditional_rainfed,area,0.0
-239,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2009,6,2010,1,traditional_rainfed,production,0.0
-240,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2010,6,2011,1,traditional_rainfed,area,0.0
-241,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2010,6,2011,1,traditional_rainfed,production,0.0
-242,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2011,6,2012,1,traditional_rainfed,area,0.0
-243,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2011,6,2012,1,traditional_rainfed,production,0.0
-244,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1974,6,1975,1,mechanized_rainfed,area,0.0
-245,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1974,6,1975,1,mechanized_rainfed,production,0.0
-246,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1975,6,1976,1,mechanized_rainfed,area,0.0
-247,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1975,6,1976,1,mechanized_rainfed,production,0.0
-248,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1976,6,1977,1,mechanized_rainfed,area,0.0
-249,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1976,6,1977,1,mechanized_rainfed,production,0.0
-250,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1977,6,1978,1,mechanized_rainfed,area,0.0
-251,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1977,6,1978,1,mechanized_rainfed,production,0.0
-252,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1978,6,1979,1,mechanized_rainfed,area,0.0
-253,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1978,6,1979,1,mechanized_rainfed,production,0.0
-254,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1979,6,1980,1,mechanized_rainfed,area,0.0
-255,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1979,6,1980,1,mechanized_rainfed,production,0.0
-256,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1980,6,1981,1,mechanized_rainfed,area,0.0
-257,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1980,6,1981,1,mechanized_rainfed,production,0.0
-258,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1981,6,1982,1,mechanized_rainfed,area,0.0
-259,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1981,6,1982,1,mechanized_rainfed,production,0.0
-260,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1982,6,1983,1,mechanized_rainfed,area,0.0
-261,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1982,6,1983,1,mechanized_rainfed,production,0.0
-262,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1983,6,1984,1,mechanized_rainfed,area,0.0
-263,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1983,6,1984,1,mechanized_rainfed,production,0.0
-264,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1984,6,1985,1,mechanized_rainfed,area,0.0
-265,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1984,6,1985,1,mechanized_rainfed,production,0.0
-266,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1985,6,1986,1,mechanized_rainfed,area,0.0
-267,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1985,6,1986,1,mechanized_rainfed,production,0.0
-268,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1986,6,1987,1,mechanized_rainfed,area,0.0
-269,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1986,6,1987,1,mechanized_rainfed,production,0.0
-270,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1987,6,1988,1,mechanized_rainfed,area,0.0
-271,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1987,6,1988,1,mechanized_rainfed,production,0.0
-272,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1988,6,1989,1,mechanized_rainfed,area,0.0
-273,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1988,6,1989,1,mechanized_rainfed,production,0.0
-274,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2001,6,2002,1,mechanized_rainfed,area,0.0
-275,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2001,6,2002,1,mechanized_rainfed,production,0.0
-276,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2002,6,2003,1,mechanized_rainfed,area,0.0
-277,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2002,6,2003,1,mechanized_rainfed,production,0.0
-278,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2003,6,2004,1,mechanized_rainfed,area,0.0
-279,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2003,6,2004,1,mechanized_rainfed,production,0.0
-280,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2004,6,2005,1,mechanized_rainfed,area,0.0
-281,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2004,6,2005,1,mechanized_rainfed,production,0.0
-282,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2005,6,2006,1,mechanized_rainfed,area,0.0
-283,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2005,6,2006,1,mechanized_rainfed,production,0.0
-284,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2006,6,2007,1,mechanized_rainfed,area,0.0
-285,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2006,6,2007,1,mechanized_rainfed,production,0.0
-286,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2007,6,2008,1,mechanized_rainfed,area,0.0
-287,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2007,6,2008,1,mechanized_rainfed,production,0.0
-288,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2008,6,2009,1,mechanized_rainfed,area,0.0
-289,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2008,6,2009,1,mechanized_rainfed,production,0.0
-290,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2009,6,2010,1,mechanized_rainfed,area,0.0
-291,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2009,6,2010,1,mechanized_rainfed,production,0.0
-292,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2010,6,2011,1,mechanized_rainfed,area,0.0
-293,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2010,6,2011,1,mechanized_rainfed,production,0.0
-294,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2011,6,2012,1,mechanized_rainfed,area,0.0
-295,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2011,6,2012,1,mechanized_rainfed,production,0.0
-296,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2006,6,2007,1,traditional_rainfed,area,0.0
-297,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2006,6,2007,1,traditional_rainfed,production,0.0
-298,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2007,6,2008,1,traditional_rainfed,area,0.0
-299,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2007,6,2008,1,traditional_rainfed,production,0.0
-300,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2008,6,2009,1,traditional_rainfed,area,0.0
-301,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2008,6,2009,1,traditional_rainfed,production,0.0
-302,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2010,6,2011,1,traditional_rainfed,area,0.0
-303,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2010,6,2011,1,traditional_rainfed,production,0.0
-304,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2004,6,2005,1,mechanized_rainfed,area,0.0
-305,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2004,6,2005,1,mechanized_rainfed,production,0.0
-306,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2005,6,2006,1,mechanized_rainfed,area,0.0
-307,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2005,6,2006,1,mechanized_rainfed,production,0.0
-308,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2006,6,2007,1,mechanized_rainfed,area,0.0
-309,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2006,6,2007,1,mechanized_rainfed,production,0.0
-310,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2007,6,2008,1,mechanized_rainfed,area,0.0
-311,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2007,6,2008,1,mechanized_rainfed,production,0.0
-312,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2008,6,2009,1,mechanized_rainfed,area,0.0
-313,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2008,6,2009,1,mechanized_rainfed,production,0.0
-314,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2009,6,2010,1,mechanized_rainfed,area,0.0
-315,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2009,6,2010,1,mechanized_rainfed,production,0.0
-316,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2010,6,2011,1,mechanized_rainfed,area,0.0
-317,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2010,6,2011,1,mechanized_rainfed,production,0.0
-318,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2011,6,2012,1,mechanized_rainfed,area,0.0
-319,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2011,6,2012,1,mechanized_rainfed,production,0.0
-320,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2007,6,2008,1,irrigated,area,0.0
-321,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2007,6,2008,1,irrigated,production,0.0
-322,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2008,6,2009,1,irrigated,area,0.0
-323,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2008,6,2009,1,irrigated,production,0.0
-324,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2009,6,2010,1,irrigated,area,0.0
-325,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2009,6,2010,1,irrigated,production,0.0
-326,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2004,6,2005,1,mechanized_rainfed,area,0.0
-327,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2004,6,2005,1,mechanized_rainfed,production,0.0
-328,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2005,6,2006,1,mechanized_rainfed,area,0.0
-329,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2005,6,2006,1,mechanized_rainfed,production,0.0
-330,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2006,6,2007,1,mechanized_rainfed,area,0.0
-331,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2006,6,2007,1,mechanized_rainfed,production,0.0
-332,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2010,6,2011,1,mechanized_rainfed,area,0.0
-333,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2010,6,2011,1,mechanized_rainfed,production,0.0
-334,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2011,6,2012,1,mechanized_rainfed,area,0.0
-335,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2011,6,2012,1,mechanized_rainfed,production,0.0
-336,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2004,6,2005,1,traditional_rainfed,area,0.0
-337,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2004,6,2005,1,traditional_rainfed,production,0.0
-338,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2005,6,2006,1,traditional_rainfed,area,0.0
-339,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2005,6,2006,1,traditional_rainfed,production,0.0
-340,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2006,6,2007,1,traditional_rainfed,area,0.0
-341,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2006,6,2007,1,traditional_rainfed,production,0.0
-342,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2007,6,2008,1,traditional_rainfed,area,0.0
-343,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2007,6,2008,1,traditional_rainfed,production,0.0
-344,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cereal Crops,Main,2010,6,2012,1,none,area,84000.0
-345,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cereal Crops,Main,2010,6,2012,1,none,production,46000.0
-346,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cereal Crops,Main,2010,6,2012,1,none,yield,0.5476190476190477
-347,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cereal Crops,Main,2011,6,2013,1,none,area,164000.0
-348,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cereal Crops,Main,2011,6,2013,1,none,production,89000.0
-349,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cereal Crops,Main,2011,6,2013,1,none,yield,0.5426829268292683
-350,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2005,6,2006,1,traditional_rainfed,area,42000.0
-351,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2005,6,2006,1,traditional_rainfed,production,24000.0
-352,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2005,6,2006,1,traditional_rainfed,yield,0.5714285714285714
-353,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2006,6,2007,1,traditional_rainfed,area,42000.0
-354,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2006,6,2007,1,traditional_rainfed,production,22000.0
-355,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2006,6,2007,1,traditional_rainfed,yield,0.5238095238095238
-356,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2007,6,2008,1,traditional_rainfed,area,6300.0
-357,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2007,6,2008,1,traditional_rainfed,production,2000.0
-358,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2007,6,2008,1,traditional_rainfed,yield,0.31746031746031744
-359,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1989,6,1990,1,mechanized_rainfed,area,165060.0
-360,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1989,6,1990,1,mechanized_rainfed,production,9240.0
-361,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1989,6,1990,1,mechanized_rainfed,yield,0.05597964376590331
-362,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1990,6,1991,1,mechanized_rainfed,area,294000.0
-363,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1990,6,1991,1,mechanized_rainfed,production,151000.0
-364,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1990,6,1991,1,mechanized_rainfed,yield,0.5136054421768708
-365,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1991,6,1992,1,mechanized_rainfed,area,189840.0
-366,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1991,6,1992,1,mechanized_rainfed,production,87000.0
-367,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1991,6,1992,1,mechanized_rainfed,yield,0.4582806573957016
-368,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1992,6,1993,1,mechanized_rainfed,area,178920.0
-369,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1992,6,1993,1,mechanized_rainfed,production,49000.0
-370,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1992,6,1993,1,mechanized_rainfed,yield,0.27386541471048514
-371,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1993,6,1994,1,mechanized_rainfed,area,369600.0
-372,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1993,6,1994,1,mechanized_rainfed,production,174000.0
-373,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1993,6,1994,1,mechanized_rainfed,yield,0.4707792207792208
-374,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1994,6,1995,1,mechanized_rainfed,area,141540.0
-375,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1994,6,1995,1,mechanized_rainfed,production,40000.0
-376,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1994,6,1995,1,mechanized_rainfed,yield,0.2826056238519147
-377,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1995,6,1996,1,mechanized_rainfed,area,281400.0
-378,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1995,6,1996,1,mechanized_rainfed,production,86000.0
-379,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1995,6,1996,1,mechanized_rainfed,yield,0.30561478322672353
-380,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1996,6,1997,1,mechanized_rainfed,area,206640.0
-381,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1996,6,1997,1,mechanized_rainfed,production,90000.0
-382,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1996,6,1997,1,mechanized_rainfed,yield,0.4355400696864111
-383,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1997,6,1998,1,mechanized_rainfed,area,292320.0
-384,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1997,6,1998,1,mechanized_rainfed,production,139000.0
-385,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1997,6,1998,1,mechanized_rainfed,yield,0.4755062944718117
-386,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1998,6,1999,1,mechanized_rainfed,area,63000.0
-387,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1998,6,1999,1,mechanized_rainfed,production,20000.0
-388,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1998,6,1999,1,mechanized_rainfed,yield,0.31746031746031744
-389,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1999,6,2000,1,mechanized_rainfed,area,134400.0
-390,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1999,6,2000,1,mechanized_rainfed,production,46000.0
-391,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1999,6,2000,1,mechanized_rainfed,yield,0.34226190476190477
-392,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2000,6,2001,1,mechanized_rainfed,area,126000.0
-393,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2000,6,2001,1,mechanized_rainfed,production,50000.0
-394,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2000,6,2001,1,mechanized_rainfed,yield,0.3968253968253968
-395,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1989,6,1990,1,mechanized_rainfed,area,1680.0
-396,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1989,6,1990,1,mechanized_rainfed,production,420.0
-397,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1989,6,1990,1,mechanized_rainfed,yield,0.25
-398,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1990,6,1991,1,mechanized_rainfed,area,3360.0
-399,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1990,6,1991,1,mechanized_rainfed,production,420.0
-400,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1990,6,1991,1,mechanized_rainfed,yield,0.125
-401,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1991,6,1992,1,mechanized_rainfed,area,4200.0
-402,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1991,6,1992,1,mechanized_rainfed,production,840.0
-403,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1991,6,1992,1,mechanized_rainfed,yield,0.2
-404,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1992,6,1993,1,mechanized_rainfed,area,1680.0
-405,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1992,6,1993,1,mechanized_rainfed,production,420.0
-406,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1992,6,1993,1,mechanized_rainfed,yield,0.25
-407,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1993,6,1994,1,mechanized_rainfed,area,1260.0
-408,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1993,6,1994,1,mechanized_rainfed,production,252.0
-409,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1993,6,1994,1,mechanized_rainfed,yield,0.2
-410,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2001,6,2002,1,mechanized_rainfed,area,217140.0
-411,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2001,6,2002,1,mechanized_rainfed,production,80000.0
-412,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2001,6,2002,1,mechanized_rainfed,yield,0.368425900340794
-413,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2002,6,2003,1,mechanized_rainfed,area,231000.0
-414,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2002,6,2003,1,mechanized_rainfed,production,163000.0
-415,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2002,6,2003,1,mechanized_rainfed,yield,0.7056277056277056
-416,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2003,6,2004,1,mechanized_rainfed,area,86940.0
-417,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2003,6,2004,1,mechanized_rainfed,production,65000.0
-418,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2003,6,2004,1,mechanized_rainfed,yield,0.7476420519898781
-419,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2004,6,2005,1,mechanized_rainfed,area,296520.0
-420,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2004,6,2005,1,mechanized_rainfed,production,152000.0
-421,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2004,6,2005,1,mechanized_rainfed,yield,0.5126129772022123
-422,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2005,6,2006,1,mechanized_rainfed,area,186900.0
-423,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2005,6,2006,1,mechanized_rainfed,production,111000.0
-424,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2005,6,2006,1,mechanized_rainfed,yield,0.593900481540931
-425,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2006,6,2007,1,mechanized_rainfed,area,112140.0
-426,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2006,6,2007,1,mechanized_rainfed,production,61000.0
-427,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2006,6,2007,1,mechanized_rainfed,yield,0.5439629035134653
-428,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2007,6,2008,1,mechanized_rainfed,area,95760.0
-429,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2007,6,2008,1,mechanized_rainfed,production,40675.0
-430,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2007,6,2008,1,mechanized_rainfed,yield,0.4247598162071846
-431,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1994,6,1995,1,mechanized_rainfed,area,2100.0
-432,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1994,6,1995,1,mechanized_rainfed,production,147.0
-433,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1994,6,1995,1,mechanized_rainfed,yield,0.07
-434,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1995,6,1996,1,mechanized_rainfed,area,1260.0
-435,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1995,6,1996,1,mechanized_rainfed,production,252.0
-436,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1995,6,1996,1,mechanized_rainfed,yield,0.2
-437,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1996,6,1997,1,mechanized_rainfed,area,3780.0
-438,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1996,6,1997,1,mechanized_rainfed,production,840.0
-439,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1996,6,1997,1,mechanized_rainfed,yield,0.2222222222222222
-440,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1997,6,1998,1,mechanized_rainfed,area,4200.0
-441,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1997,6,1998,1,mechanized_rainfed,production,840.0
-442,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1997,6,1998,1,mechanized_rainfed,yield,0.2
-443,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2004,6,2005,1,mechanized_rainfed,area,75600.0
-444,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2004,6,2005,1,mechanized_rainfed,production,11760.0
-445,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2004,6,2005,1,mechanized_rainfed,yield,0.15555555555555556
-446,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2005,6,2006,1,mechanized_rainfed,area,52080.0
-447,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2005,6,2006,1,mechanized_rainfed,production,5460.0
-448,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2005,6,2006,1,mechanized_rainfed,yield,0.10483870967741936
-449,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2006,6,2007,1,mechanized_rainfed,area,9240.0
-450,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2006,6,2007,1,mechanized_rainfed,production,1260.0
-451,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2006,6,2007,1,mechanized_rainfed,yield,0.13636363636363635
-452,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2007,6,2008,1,mechanized_rainfed,area,20160.0
-453,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2007,6,2008,1,mechanized_rainfed,production,3175.0
-454,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2007,6,2008,1,mechanized_rainfed,yield,0.15749007936507936
-455,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2008,6,2009,1,mechanized_rainfed,area,20160.0
-456,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2008,6,2009,1,mechanized_rainfed,production,3360.0
-457,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2008,6,2009,1,mechanized_rainfed,yield,0.16666666666666666
-458,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2001,6,2002,5,irrigated,area,3780.0
-459,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2001,6,2002,5,irrigated,production,2100.0
-460,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2001,6,2002,5,irrigated,yield,0.5555555555555556
-461,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,1997,6,1998,5,irrigated,area,1680.0
-462,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,1997,6,1998,5,irrigated,production,2000.0
-463,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,1997,6,1998,5,irrigated,yield,1.1904761904761905
-464,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,1998,6,1999,5,irrigated,area,420.0
-465,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,1998,6,1999,5,irrigated,production,105.0
-466,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,1998,6,1999,5,irrigated,yield,0.25
-467,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2000,6,2001,5,irrigated,area,4200.0
-468,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2000,6,2001,5,irrigated,production,5000.0
-469,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2000,6,2001,5,irrigated,yield,1.1904761904761905
-470,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2001,6,2002,5,irrigated,area,8820.0
-471,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2001,6,2002,5,irrigated,production,13000.0
-472,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2001,6,2002,5,irrigated,yield,1.473922902494331
-473,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2002,6,2003,5,irrigated,area,8400.0
-474,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2002,6,2003,5,irrigated,production,8000.0
-475,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2002,6,2003,5,irrigated,yield,0.9523809523809523
-476,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2003,6,2004,5,irrigated,area,6300.0
-477,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2003,6,2004,5,irrigated,production,10000.0
-478,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2003,6,2004,5,irrigated,yield,1.5873015873015872
-479,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2004,6,2005,5,irrigated,area,3360.0
-480,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2004,6,2005,5,irrigated,production,3000.0
-481,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2004,6,2005,5,irrigated,yield,0.8928571428571429
-482,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2005,6,2006,5,irrigated,area,840.0
-483,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2005,6,2006,5,irrigated,production,1000.0
-484,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2005,6,2006,5,irrigated,yield,1.1904761904761905
-485,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2007,6,2008,5,irrigated,area,1680.0
-486,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2007,6,2008,5,irrigated,production,2000.0
-487,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2007,6,2008,5,irrigated,yield,1.1904761904761905
-488,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2008,6,2009,5,irrigated,area,1680.0
-489,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2008,6,2009,5,irrigated,production,3000.0
-490,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2008,6,2009,5,irrigated,yield,1.7857142857142858
-491,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2009,6,2010,5,irrigated,area,1680.0
-492,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2009,6,2010,5,irrigated,production,840.0
-493,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2009,6,2010,5,irrigated,yield,0.5
-494,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,1996,6,1997,5,irrigated,area,2100.0
-495,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,1996,6,1997,5,irrigated,production,420.0
-496,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,1996,6,1997,5,irrigated,yield,0.2
-497,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2000,6,2001,5,irrigated,area,2100.0
-498,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2000,6,2001,5,irrigated,production,840.0
-499,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2000,6,2001,5,irrigated,yield,0.4
-500,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2002,6,2003,5,irrigated,area,2940.0
-501,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2002,6,2003,5,irrigated,production,1260.0
-502,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2002,6,2003,5,irrigated,yield,0.42857142857142855
-503,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2004,6,2005,5,irrigated,area,420.0
-504,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2004,6,2005,5,irrigated,production,126.0
-505,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2004,6,2005,5,irrigated,yield,0.3
-506,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2005,6,2006,5,irrigated,area,2100.0
-507,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2005,6,2006,5,irrigated,production,1260.0
-508,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2005,6,2006,5,irrigated,yield,0.6
-509,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2006,6,2007,5,irrigated,area,2100.0
-510,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2006,6,2007,5,irrigated,production,1260.0
-511,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2006,6,2007,5,irrigated,yield,0.6
-512,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2007,6,2008,5,irrigated,area,1260.0
-513,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2007,6,2008,5,irrigated,production,420.0
-514,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2007,6,2008,5,irrigated,yield,0.3333333333333333
-515,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2008,6,2009,5,irrigated,area,1260.0
-516,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2008,6,2009,5,irrigated,production,605.0
-517,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2008,6,2009,5,irrigated,yield,0.4801587301587302
-518,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2009,6,2010,5,irrigated,area,1260.0
-519,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2009,6,2010,5,irrigated,production,420.0
-520,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2009,6,2010,5,irrigated,yield,0.3333333333333333
-521,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cereal Crops,Main,2010,6,2012,1,none,area,68000.0
-522,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cereal Crops,Main,2010,6,2012,1,none,production,26000.0
-523,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cereal Crops,Main,2010,6,2012,1,none,yield,0.38235294117647056
-524,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cereal Crops,Main,2011,6,2013,1,none,area,80000.0
-525,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cereal Crops,Main,2011,6,2013,1,none,production,38000.0
-526,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cereal Crops,Main,2011,6,2013,1,none,yield,0.475
-527,SS2011A112,South Sudan,SS,Jonglei,none,Jonglei,Cereal Crops,Main,2010,6,2012,1,none,area,128000.0
-528,SS2011A112,South Sudan,SS,Jonglei,none,Jonglei,Cereal Crops,Main,2010,6,2012,1,none,production,65000.0
-529,SS2011A112,South Sudan,SS,Jonglei,none,Jonglei,Cereal Crops,Main,2010,6,2012,1,none,yield,0.5078125
-530,SS2011A112,South Sudan,SS,Jonglei,none,Jonglei,Cereal Crops,Main,2011,6,2013,1,none,area,108000.0
-531,SS2011A112,South Sudan,SS,Jonglei,none,Jonglei,Cereal Crops,Main,2011,6,2013,1,none,production,57000.0
-532,SS2011A112,South Sudan,SS,Jonglei,none,Jonglei,Cereal Crops,Main,2011,6,2013,1,none,yield,0.5277777777777778
-533,SS2011A113,South Sudan,SS,Unity,none,Unity,Cereal Crops,Main,2010,6,2012,1,none,area,34000.0
-534,SS2011A113,South Sudan,SS,Unity,none,Unity,Cereal Crops,Main,2010,6,2012,1,none,production,8000.0
-535,SS2011A113,South Sudan,SS,Unity,none,Unity,Cereal Crops,Main,2010,6,2012,1,none,yield,0.23529411764705882
-536,SS2011A113,South Sudan,SS,Unity,none,Unity,Cereal Crops,Main,2011,6,2013,1,none,area,42000.0
-537,SS2011A113,South Sudan,SS,Unity,none,Unity,Cereal Crops,Main,2011,6,2013,1,none,production,13000.0
-538,SS2011A113,South Sudan,SS,Unity,none,Unity,Cereal Crops,Main,2011,6,2013,1,none,yield,0.30952380952380953
-539,SS2011A121,South Sudan,SS,Western Bahr el Ghazal,none,Western Bahr el Ghazal,Cereal Crops,Main,2010,6,2012,1,none,area,41000.0
-540,SS2011A121,South Sudan,SS,Western Bahr el Ghazal,none,Western Bahr el Ghazal,Cereal Crops,Main,2010,6,2012,1,none,production,35000.0
-541,SS2011A121,South Sudan,SS,Western Bahr el Ghazal,none,Western Bahr el Ghazal,Cereal Crops,Main,2010,6,2012,1,none,yield,0.8536585365853658
-542,SS2011A121,South Sudan,SS,Western Bahr el Ghazal,none,Western Bahr el Ghazal,Cereal Crops,Main,2011,6,2013,1,none,area,57000.0
-543,SS2011A121,South Sudan,SS,Western Bahr el Ghazal,none,Western Bahr el Ghazal,Cereal Crops,Main,2011,6,2013,1,none,production,45000.0
-544,SS2011A121,South Sudan,SS,Western Bahr el Ghazal,none,Western Bahr el Ghazal,Cereal Crops,Main,2011,6,2013,1,none,yield,0.7894736842105263
-545,SS2011A122,South Sudan,SS,Northern Bahr el Ghazal,none,Northern Bahr el Ghazal,Cereal Crops,Main,2010,6,2012,1,none,area,68000.0
-546,SS2011A122,South Sudan,SS,Northern Bahr el Ghazal,none,Northern Bahr el Ghazal,Cereal Crops,Main,2010,6,2012,1,none,production,40000.0
-547,SS2011A122,South Sudan,SS,Northern Bahr el Ghazal,none,Northern Bahr el Ghazal,Cereal Crops,Main,2010,6,2012,1,none,yield,0.5882352941176471
-548,SS2011A122,South Sudan,SS,Northern Bahr el Ghazal,none,Northern Bahr el Ghazal,Cereal Crops,Main,2011,6,2013,1,none,area,107000.0
-549,SS2011A122,South Sudan,SS,Northern Bahr el Ghazal,none,Northern Bahr el Ghazal,Cereal Crops,Main,2011,6,2013,1,none,production,73000.0
-550,SS2011A122,South Sudan,SS,Northern Bahr el Ghazal,none,Northern Bahr el Ghazal,Cereal Crops,Main,2011,6,2013,1,none,yield,0.6822429906542056
-551,SS2011A124,South Sudan,SS,Lakes,none,Lakes,Cereal Crops,Main,2010,6,2012,1,none,area,70000.0
-552,SS2011A124,South Sudan,SS,Lakes,none,Lakes,Cereal Crops,Main,2010,6,2012,1,none,production,45000.0
-553,SS2011A124,South Sudan,SS,Lakes,none,Lakes,Cereal Crops,Main,2010,6,2012,1,none,yield,0.6428571428571429
-554,SS2011A124,South Sudan,SS,Lakes,none,Lakes,Cereal Crops,Main,2011,6,2013,1,none,area,91000.0
-555,SS2011A124,South Sudan,SS,Lakes,none,Lakes,Cereal Crops,Main,2011,6,2013,1,none,production,66000.0
-556,SS2011A124,South Sudan,SS,Lakes,none,Lakes,Cereal Crops,Main,2011,6,2013,1,none,yield,0.7252747252747253
-557,SS2011A131,South Sudan,SS,Western Equatoria,none,Western Equatoria,Cereal Crops,Main,2010,6,2012,1,none,area,129000.0
-558,SS2011A131,South Sudan,SS,Western Equatoria,none,Western Equatoria,Cereal Crops,Main,2010,6,2012,1,none,production,120000.0
-559,SS2011A131,South Sudan,SS,Western Equatoria,none,Western Equatoria,Cereal Crops,Main,2010,6,2012,1,none,yield,0.9302325581395349
-560,SS2011A131,South Sudan,SS,Western Equatoria,none,Western Equatoria,Cereal Crops,Main,2011,6,2013,1,none,area,158000.0
-561,SS2011A131,South Sudan,SS,Western Equatoria,none,Western Equatoria,Cereal Crops,Main,2011,6,2013,1,none,production,157000.0
-562,SS2011A131,South Sudan,SS,Western Equatoria,none,Western Equatoria,Cereal Crops,Main,2011,6,2013,1,none,yield,0.9936708860759493
-563,SS2011A132,South Sudan,SS,Central Equatoria,none,Central Equatoria,Cereal Crops,Main,2010,6,2012,1,none,area,123000.0
-564,SS2011A132,South Sudan,SS,Central Equatoria,none,Central Equatoria,Cereal Crops,Main,2010,6,2012,1,none,production,78000.0
-565,SS2011A132,South Sudan,SS,Central Equatoria,none,Central Equatoria,Cereal Crops,Main,2010,6,2012,1,none,yield,0.6341463414634146
-566,SS2011A132,South Sudan,SS,Central Equatoria,none,Central Equatoria,Cereal Crops,Main,2011,6,2013,1,none,area,148000.0
-567,SS2011A132,South Sudan,SS,Central Equatoria,none,Central Equatoria,Cereal Crops,Main,2011,6,2013,1,none,production,110000.0
-568,SS2011A132,South Sudan,SS,Central Equatoria,none,Central Equatoria,Cereal Crops,Main,2011,6,2013,1,none,yield,0.7432432432432432
-569,SS2011A133,South Sudan,SS,Eastern Equatoria,none,Eastern Equatoria,Cereal Crops,Main,2010,6,2012,1,none,area,115000.0
-570,SS2011A133,South Sudan,SS,Eastern Equatoria,none,Eastern Equatoria,Cereal Crops,Main,2010,6,2012,1,none,production,99000.0
-571,SS2011A133,South Sudan,SS,Eastern Equatoria,none,Eastern Equatoria,Cereal Crops,Main,2010,6,2012,1,none,yield,0.8608695652173913
-572,SS2011A133,South Sudan,SS,Eastern Equatoria,none,Eastern Equatoria,Cereal Crops,Main,2011,6,2013,1,none,area,130000.0
-573,SS2011A133,South Sudan,SS,Eastern Equatoria,none,Eastern Equatoria,Cereal Crops,Main,2011,6,2013,1,none,production,113000.0
-574,SS2011A133,South Sudan,SS,Eastern Equatoria,none,Eastern Equatoria,Cereal Crops,Main,2011,6,2013,1,none,yield,0.8692307692307693
+0,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cereal Crops,Main,2010,6,2012,1,none,area,68000.0
+1,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cereal Crops,Main,2011,6,2013,1,none,area,80000.0
+2,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,1997,6,1998,5,irrigated,area,1680.0
+3,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,1998,6,1999,5,irrigated,area,420.0
+4,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2000,6,2001,5,irrigated,area,4200.0
+5,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2001,6,2002,5,irrigated,area,8820.0
+6,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2002,6,2003,5,irrigated,area,8400.0
+7,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2003,6,2004,5,irrigated,area,6300.0
+8,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2004,6,2005,5,irrigated,area,3360.0
+9,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2005,6,2006,5,irrigated,area,840.0
+10,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2007,6,2008,5,irrigated,area,1680.0
+11,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2008,6,2009,5,irrigated,area,1680.0
+12,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2009,6,2010,5,irrigated,area,1680.0
+13,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2005,6,2006,1,traditional_rainfed,area,42000.0
+14,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2006,6,2007,1,traditional_rainfed,area,42000.0
+15,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2007,6,2008,1,traditional_rainfed,area,6300.0
+16,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1989,6,1990,1,mechanized_rainfed,area,165060.0
+17,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1990,6,1991,1,mechanized_rainfed,area,294000.0
+18,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1991,6,1992,1,mechanized_rainfed,area,189840.0
+19,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1992,6,1993,1,mechanized_rainfed,area,178920.0
+20,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1993,6,1994,1,mechanized_rainfed,area,369600.0
+21,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1994,6,1995,1,mechanized_rainfed,area,141540.0
+22,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1995,6,1996,1,mechanized_rainfed,area,281400.0
+23,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1996,6,1997,1,mechanized_rainfed,area,206640.0
+24,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1997,6,1998,1,mechanized_rainfed,area,292320.0
+25,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1998,6,1999,1,mechanized_rainfed,area,63000.0
+26,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1999,6,2000,1,mechanized_rainfed,area,134400.0
+27,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2000,6,2001,1,mechanized_rainfed,area,126000.0
+28,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2001,6,2002,1,mechanized_rainfed,area,217140.0
+29,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2002,6,2003,1,mechanized_rainfed,area,231000.0
+30,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2003,6,2004,1,mechanized_rainfed,area,86940.0
+31,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2004,6,2005,1,mechanized_rainfed,area,296520.0
+32,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2005,6,2006,1,mechanized_rainfed,area,186900.0
+33,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2006,6,2007,1,mechanized_rainfed,area,112140.0
+34,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2007,6,2008,1,mechanized_rainfed,area,95760.0
+35,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1989,6,1990,1,mechanized_rainfed,area,1680.0
+36,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1990,6,1991,1,mechanized_rainfed,area,3360.0
+37,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1991,6,1992,1,mechanized_rainfed,area,4200.0
+38,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1992,6,1993,1,mechanized_rainfed,area,1680.0
+39,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1993,6,1994,1,mechanized_rainfed,area,1260.0
+40,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1994,6,1995,1,mechanized_rainfed,area,2100.0
+41,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1995,6,1996,1,mechanized_rainfed,area,1260.0
+42,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1996,6,1997,1,mechanized_rainfed,area,3780.0
+43,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1997,6,1998,1,mechanized_rainfed,area,4200.0
+44,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2004,6,2005,1,mechanized_rainfed,area,75600.0
+45,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2005,6,2006,1,mechanized_rainfed,area,52080.0
+46,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2006,6,2007,1,mechanized_rainfed,area,9240.0
+47,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2007,6,2008,1,mechanized_rainfed,area,20160.0
+48,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2008,6,2009,1,mechanized_rainfed,area,20160.0
+49,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,1996,6,1997,5,irrigated,area,2100.0
+50,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2000,6,2001,5,irrigated,area,2100.0
+51,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2001,6,2002,5,irrigated,area,3780.0
+52,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2002,6,2003,5,irrigated,area,2940.0
+53,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2004,6,2005,5,irrigated,area,420.0
+54,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2005,6,2006,5,irrigated,area,2100.0
+55,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2006,6,2007,5,irrigated,area,2100.0
+56,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2007,6,2008,5,irrigated,area,1260.0
+57,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2008,6,2009,5,irrigated,area,1260.0
+58,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2009,6,2010,5,irrigated,area,1260.0
+59,SS2011A112,South Sudan,SS,Jonglei,none,Jonglei,Cereal Crops,Main,2010,6,2012,1,none,area,128000.0
+60,SS2011A112,South Sudan,SS,Jonglei,none,Jonglei,Cereal Crops,Main,2011,6,2013,1,none,area,108000.0
+61,SS2011A113,South Sudan,SS,Unity,none,Unity,Cereal Crops,Main,2010,6,2012,1,none,area,34000.0
+62,SS2011A113,South Sudan,SS,Unity,none,Unity,Cereal Crops,Main,2011,6,2013,1,none,area,42000.0
+63,SS2011A121,South Sudan,SS,Western Bahr el Ghazal,none,Western Bahr el Ghazal,Cereal Crops,Main,2010,6,2012,1,none,area,41000.0
+64,SS2011A121,South Sudan,SS,Western Bahr el Ghazal,none,Western Bahr el Ghazal,Cereal Crops,Main,2011,6,2013,1,none,area,57000.0
+65,SS2011A122,South Sudan,SS,Northern Bahr el Ghazal,none,Northern Bahr el Ghazal,Cereal Crops,Main,2010,6,2012,1,none,area,68000.0
+66,SS2011A122,South Sudan,SS,Northern Bahr el Ghazal,none,Northern Bahr el Ghazal,Cereal Crops,Main,2011,6,2013,1,none,area,107000.0
+67,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cereal Crops,Main,2010,6,2012,1,none,area,84000.0
+68,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cereal Crops,Main,2011,6,2013,1,none,area,164000.0
+69,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1974,6,1975,1,traditional_rainfed,area,2892.001009336361
+70,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1975,6,1976,1,traditional_rainfed,area,2634.1155690133737
+71,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1976,6,1977,1,traditional_rainfed,area,2155.1854655563966
+72,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1977,6,1978,1,traditional_rainfed,area,2965.6825637143575
+73,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1978,6,1979,1,traditional_rainfed,area,2468.3320716628814
+74,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1979,6,1980,1,traditional_rainfed,area,2689.376734796871
+75,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1980,6,1981,1,traditional_rainfed,area,2892.001009336361
+76,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1981,6,1982,1,traditional_rainfed,area,2855.160232147363
+77,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1982,6,1983,1,traditional_rainfed,area,3131.46606106485
+78,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1983,6,1984,1,traditional_rainfed,area,4697.199091597275
+79,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1984,6,1985,1,traditional_rainfed,area,6152.409790562705
+80,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1985,6,1986,1,traditional_rainfed,area,3831.440827655816
+81,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1986,6,1987,1,traditional_rainfed,area,1547.3126419379257
+82,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1987,6,1988,1,traditional_rainfed,area,1547.3126419379257
+83,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1988,6,1989,1,traditional_rainfed,area,718.3951551854656
+84,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1989,6,1990,1,traditional_rainfed,area,3078.713948342228
+85,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1990,6,1991,1,traditional_rainfed,area,3762.87260352939
+86,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1991,6,1992,1,traditional_rainfed,area,5986.388232887666
+87,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1992,6,1993,1,traditional_rainfed,area,4104.951931122971
+88,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1993,6,1994,1,traditional_rainfed,area,4296.516354575376
+89,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1994,6,1995,1,traditional_rainfed,area,3516.5754876620117
+90,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1995,6,1996,1,traditional_rainfed,area,7525.74520705878
+91,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1996,6,1997,1,traditional_rainfed,area,4604.387749409599
+92,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1997,6,1998,1,traditional_rainfed,area,3352.377410417093
+93,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1998,6,1999,1,traditional_rainfed,area,4378.615393197835
+94,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1999,6,2000,1,traditional_rainfed,area,7327.339197054503
+95,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2000,6,2001,1,traditional_rainfed,area,4864.3680383807205
+96,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2001,6,2002,1,traditional_rainfed,area,6588.447849452368
+97,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2002,6,2003,1,traditional_rainfed,area,3906.545921118694
+98,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2003,6,2004,1,traditional_rainfed,area,4392.298566301579
+99,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2004,6,2005,1,traditional_rainfed,area,6351.718395155185
+100,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2005,6,2006,1,traditional_rainfed,area,9074.988644965935
+101,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2006,6,2007,1,traditional_rainfed,area,10583.618470855412
+102,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2007,6,2008,1,traditional_rainfed,area,10583.618470855412
+103,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2008,6,2009,1,traditional_rainfed,area,8719.106737320211
+104,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2009,6,2010,1,traditional_rainfed,area,5725.056775170326
+105,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2010,6,2011,1,traditional_rainfed,area,0.0
+106,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2011,6,2012,1,traditional_rainfed,area,0.0
+107,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1974,6,1975,1,mechanized_rainfed,area,1399.9495331819328
+108,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1975,6,1976,1,mechanized_rainfed,area,1492.0514761544284
+109,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1976,6,1977,1,mechanized_rainfed,area,2265.707797123391
+110,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1977,6,1978,1,mechanized_rainfed,area,2136.7650769618976
+111,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1978,6,1979,1,mechanized_rainfed,area,1639.4145849104214
+112,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1979,6,1980,1,mechanized_rainfed,area,2063.083522583901
+113,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1980,6,1981,1,mechanized_rainfed,area,1731.516527882917
+114,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1981,6,1982,1,mechanized_rainfed,area,3757.75927327782
+115,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1982,6,1983,1,mechanized_rainfed,area,4457.734039868786
+116,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1983,6,1984,1,mechanized_rainfed,area,1934.1408024224072
+117,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1984,6,1985,1,mechanized_rainfed,area,4807.721423164269
+118,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1985,6,1986,1,mechanized_rainfed,area,5526.1165783497345
+119,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1986,6,1987,1,mechanized_rainfed,area,1731.516527882917
+120,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1987,6,1988,1,mechanized_rainfed,area,9210.194297249558
+121,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1988,6,1989,1,mechanized_rainfed,area,3370.9311127933383
+122,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2001,6,2002,1,mechanized_rainfed,area,136.83173103743235
+123,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2002,6,2003,1,mechanized_rainfed,area,212.08918310802017
+124,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2003,6,2004,1,mechanized_rainfed,area,212.08918310802017
+125,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2004,6,2005,1,mechanized_rainfed,area,10606.828160484481
+126,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2005,6,2006,1,mechanized_rainfed,area,8958.94019682059
+127,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2006,6,2007,1,mechanized_rainfed,area,6382.664647993944
+128,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2007,6,2008,1,mechanized_rainfed,area,7736.563209689629
+129,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2008,6,2009,1,mechanized_rainfed,area,9794.48902346707
+130,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2009,6,2010,1,mechanized_rainfed,area,6908.750946252839
+131,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2010,6,2011,1,mechanized_rainfed,area,0.0
+132,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2011,6,2012,1,mechanized_rainfed,area,0.0
+133,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2006,6,2007,1,traditional_rainfed,area,177.94095382286147
+134,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2007,6,2008,1,traditional_rainfed,area,146.99470098410293
+135,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2008,6,2009,1,traditional_rainfed,area,15.473126419379257
+136,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2010,6,2011,1,traditional_rainfed,area,0.0
+137,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1974,6,1975,1,traditional_rainfed,area,2763.0582891748672
+138,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1975,6,1976,1,traditional_rainfed,area,534.1912692404744
+139,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1976,6,1977,1,traditional_rainfed,area,699.9747665909664
+140,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1977,6,1978,1,traditional_rainfed,area,313.14660610648497
+141,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1978,6,1979,1,traditional_rainfed,area,184.20388594499116
+142,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1979,6,1980,1,traditional_rainfed,area,313.14660610648497
+143,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1980,6,1981,1,traditional_rainfed,area,349.9873832954832
+144,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1981,6,1982,1,traditional_rainfed,area,368.4077718899823
+145,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1982,6,1983,1,traditional_rainfed,area,368.4077718899823
+146,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1983,6,1984,1,traditional_rainfed,area,386.82816048448143
+147,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1984,6,1985,1,traditional_rainfed,area,921.0194297249558
+148,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1985,6,1986,1,traditional_rainfed,area,699.9747665909664
+149,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1986,6,1987,1,traditional_rainfed,area,699.9747665909664
+150,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1987,6,1988,1,traditional_rainfed,area,1031.5417612919505
+151,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1988,6,1989,1,traditional_rainfed,area,681.5543779964673
+152,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1989,6,1990,1,traditional_rainfed,area,8333.05242017963
+153,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1990,6,1991,1,traditional_rainfed,area,6321.625973929375
+154,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1991,6,1992,1,traditional_rainfed,area,6752.645926697287
+155,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1992,6,1993,1,traditional_rainfed,area,6608.972609107983
+156,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1993,6,1994,1,traditional_rainfed,area,10707.082953679082
+157,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1994,6,1995,1,traditional_rainfed,area,11589.64761887052
+158,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1995,6,1996,1,traditional_rainfed,area,12581.677668891905
+159,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1996,6,1997,1,traditional_rainfed,area,15503.035126541086
+160,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1997,6,1998,1,traditional_rainfed,area,12089.08343715715
+161,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1998,6,1999,1,traditional_rainfed,area,10748.132472990312
+162,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1999,6,2000,1,traditional_rainfed,area,8907.745690536847
+163,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2000,6,2001,1,traditional_rainfed,area,11172.310839206351
+164,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2001,6,2002,1,traditional_rainfed,area,10022.92429849192
+165,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2002,6,2003,1,traditional_rainfed,area,12821.133198207412
+166,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2003,6,2004,1,traditional_rainfed,area,10022.92429849192
+167,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2004,6,2005,1,traditional_rainfed,area,3481.453444360333
+168,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2005,6,2006,1,traditional_rainfed,area,3326.7221801665405
+169,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2006,6,2007,1,traditional_rainfed,area,20973.822861468583
+170,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2007,6,2008,1,traditional_rainfed,area,20973.822861468583
+171,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2008,6,2009,1,traditional_rainfed,area,2498.90991672975
+172,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2009,6,2010,1,traditional_rainfed,area,1083.118849356548
+173,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2010,6,2011,1,traditional_rainfed,area,0.0
+174,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2011,6,2012,1,traditional_rainfed,area,0.0
+175,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2004,6,2005,1,mechanized_rainfed,area,92.83875851627555
+176,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2005,6,2006,1,mechanized_rainfed,area,154.73126419379258
+177,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2006,6,2007,1,mechanized_rainfed,area,154.73126419379258
+178,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2007,6,2008,1,mechanized_rainfed,area,92.83875851627555
+179,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2008,6,2009,1,mechanized_rainfed,area,23.209689629068887
+180,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2009,6,2010,1,mechanized_rainfed,area,15.473126419379257
+181,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2010,6,2011,1,mechanized_rainfed,area,0.0
+182,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2011,6,2012,1,mechanized_rainfed,area,0.0
+183,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1989,6,1990,1,traditional_rainfed,area,2182.466110047046
+184,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1990,6,1991,1,traditional_rainfed,area,239.45552931550662
+185,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1991,6,1992,1,traditional_rainfed,area,3215.5456793796607
+186,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1992,6,1993,1,traditional_rainfed,area,4652.278855272701
+187,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1993,6,1994,1,traditional_rainfed,area,5555.368280119754
+188,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1994,6,1995,1,traditional_rainfed,area,6041.120925302639
+189,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1995,6,1996,1,traditional_rainfed,area,6260.051694962531
+190,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1996,6,1997,1,traditional_rainfed,area,10063.97381780315
+191,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1997,6,1998,1,traditional_rainfed,area,6485.824051174294
+192,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1998,6,1999,1,traditional_rainfed,area,6807.37861911226
+193,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1999,6,2000,1,traditional_rainfed,area,7737.8343901667995
+194,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2000,6,2001,1,traditional_rainfed,area,6246.368521858787
+195,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2001,6,2002,1,traditional_rainfed,area,5049.090875281254
+196,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2002,6,2003,1,traditional_rainfed,area,6390.041839448091
+197,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2003,6,2004,1,traditional_rainfed,area,7662.576938096212
+198,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2004,6,2005,1,traditional_rainfed,area,201.15064345193034
+199,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2005,6,2006,1,traditional_rainfed,area,154.73126419379258
+200,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2006,6,2007,1,traditional_rainfed,area,1934.1408024224072
+201,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2007,6,2008,1,traditional_rainfed,area,2692.3239969719907
+202,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2008,6,2009,1,traditional_rainfed,area,1988.2967448902345
+203,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2009,6,2010,1,traditional_rainfed,area,2290.02271006813
+204,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2010,6,2011,1,traditional_rainfed,area,0.0
+205,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2011,6,2012,1,traditional_rainfed,area,0.0
+206,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2007,6,2008,1,irrigated,area,2901.2112036336107
+207,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2008,6,2009,1,irrigated,area,2576.275548826646
+208,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2009,6,2010,1,irrigated,area,1740.7267221801665
+209,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1989,6,1990,1,traditional_rainfed,area,820.9903862245942
+210,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1990,6,1991,1,traditional_rainfed,area,513.1189913903713
+211,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1991,6,1992,1,traditional_rainfed,area,1279.3766851999926
+212,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1992,6,1993,1,traditional_rainfed,area,1689.8718783122897
+213,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1993,6,1994,1,traditional_rainfed,area,2052.4759655614853
+214,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1994,6,1995,1,traditional_rainfed,area,1395.68365658181
+215,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1995,6,1996,1,traditional_rainfed,area,1176.7528869219184
+216,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1996,6,1997,1,traditional_rainfed,area,855.1983189839523
+217,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1997,6,1998,1,traditional_rainfed,area,1163.0697138181752
+218,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1998,6,1999,1,traditional_rainfed,area,1142.54495416256
+219,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1999,6,2000,1,traditional_rainfed,area,2134.5750041839447
+220,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2000,6,2001,1,traditional_rainfed,area,2148.258177287688
+221,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2001,6,2002,1,traditional_rainfed,area,1703.555051416033
+222,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2002,6,2003,1,traditional_rainfed,area,602.0596165647024
+223,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2003,6,2004,1,traditional_rainfed,area,903.0894248470536
+224,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2004,6,2005,1,traditional_rainfed,area,1895.457986373959
+225,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2005,6,2006,1,traditional_rainfed,area,1083.118849356548
+226,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2006,6,2007,1,traditional_rainfed,area,3094.6252838758514
+227,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2007,6,2008,1,traditional_rainfed,area,3891.491294473883
+228,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2008,6,2009,1,traditional_rainfed,area,2591.7486752460254
+229,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2009,6,2010,1,traditional_rainfed,area,1748.463285389856
+230,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2010,6,2011,1,traditional_rainfed,area,0.0
+231,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2011,6,2012,1,traditional_rainfed,area,0.0
+232,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2004,6,2005,1,mechanized_rainfed,area,162.4678274034822
+233,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2005,6,2006,1,mechanized_rainfed,area,4324.738834216502
+234,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2006,6,2007,1,mechanized_rainfed,area,3094.6252838758514
+235,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2010,6,2011,1,mechanized_rainfed,area,0.0
+236,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2011,6,2012,1,mechanized_rainfed,area,0.0
+237,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2004,6,2005,1,traditional_rainfed,area,77.36563209689629
+238,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2005,6,2006,1,traditional_rainfed,area,92.83875851627555
+239,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2006,6,2007,1,traditional_rainfed,area,131.5215745647237
+240,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2007,6,2008,1,traditional_rainfed,area,170.20439061317182
+241,SS2011A124,South Sudan,SS,Lakes,none,Lakes,Cereal Crops,Main,2010,6,2012,1,none,area,70000.0
+242,SS2011A124,South Sudan,SS,Lakes,none,Lakes,Cereal Crops,Main,2011,6,2013,1,none,area,91000.0
+243,SS2011A131,South Sudan,SS,Western Equatoria,none,Western Equatoria,Cereal Crops,Main,2010,6,2012,1,none,area,129000.0
+244,SS2011A131,South Sudan,SS,Western Equatoria,none,Western Equatoria,Cereal Crops,Main,2011,6,2013,1,none,area,158000.0
+245,SS2011A132,South Sudan,SS,Central Equatoria,none,Central Equatoria,Cereal Crops,Main,2010,6,2012,1,none,area,123000.0
+246,SS2011A132,South Sudan,SS,Central Equatoria,none,Central Equatoria,Cereal Crops,Main,2011,6,2013,1,none,area,148000.0
+247,SS2011A133,South Sudan,SS,Eastern Equatoria,none,Eastern Equatoria,Cereal Crops,Main,2010,6,2012,1,none,area,115000.0
+248,SS2011A133,South Sudan,SS,Eastern Equatoria,none,Eastern Equatoria,Cereal Crops,Main,2011,6,2013,1,none,area,130000.0
+249,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cereal Crops,Main,2010,6,2012,1,none,production,26000.0
+250,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cereal Crops,Main,2011,6,2013,1,none,production,38000.0
+251,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,1997,6,1998,5,irrigated,production,2000.0
+252,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,1998,6,1999,5,irrigated,production,105.0
+253,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2000,6,2001,5,irrigated,production,5000.0
+254,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2001,6,2002,5,irrigated,production,13000.0
+255,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2002,6,2003,5,irrigated,production,8000.0
+256,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2003,6,2004,5,irrigated,production,10000.0
+257,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2004,6,2005,5,irrigated,production,3000.0
+258,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2005,6,2006,5,irrigated,production,1000.0
+259,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2007,6,2008,5,irrigated,production,2000.0
+260,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2008,6,2009,5,irrigated,production,3000.0
+261,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2009,6,2010,5,irrigated,production,840.0
+262,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2005,6,2006,1,traditional_rainfed,production,24000.0
+263,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2006,6,2007,1,traditional_rainfed,production,22000.0
+264,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2007,6,2008,1,traditional_rainfed,production,2000.0
+265,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1989,6,1990,1,mechanized_rainfed,production,9240.0
+266,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1990,6,1991,1,mechanized_rainfed,production,151000.0
+267,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1991,6,1992,1,mechanized_rainfed,production,87000.0
+268,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1992,6,1993,1,mechanized_rainfed,production,49000.0
+269,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1993,6,1994,1,mechanized_rainfed,production,174000.0
+270,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1994,6,1995,1,mechanized_rainfed,production,40000.0
+271,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1995,6,1996,1,mechanized_rainfed,production,86000.0
+272,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1996,6,1997,1,mechanized_rainfed,production,90000.0
+273,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1997,6,1998,1,mechanized_rainfed,production,139000.0
+274,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1998,6,1999,1,mechanized_rainfed,production,20000.0
+275,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1999,6,2000,1,mechanized_rainfed,production,46000.0
+276,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2000,6,2001,1,mechanized_rainfed,production,50000.0
+277,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2001,6,2002,1,mechanized_rainfed,production,80000.0
+278,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2002,6,2003,1,mechanized_rainfed,production,163000.0
+279,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2003,6,2004,1,mechanized_rainfed,production,65000.0
+280,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2004,6,2005,1,mechanized_rainfed,production,152000.0
+281,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2005,6,2006,1,mechanized_rainfed,production,111000.0
+282,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2006,6,2007,1,mechanized_rainfed,production,61000.0
+283,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2007,6,2008,1,mechanized_rainfed,production,40675.0
+284,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1989,6,1990,1,mechanized_rainfed,production,420.0
+285,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1990,6,1991,1,mechanized_rainfed,production,420.0
+286,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1991,6,1992,1,mechanized_rainfed,production,840.0
+287,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1992,6,1993,1,mechanized_rainfed,production,420.0
+288,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1993,6,1994,1,mechanized_rainfed,production,252.0
+289,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1994,6,1995,1,mechanized_rainfed,production,147.0
+290,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1995,6,1996,1,mechanized_rainfed,production,252.0
+291,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1996,6,1997,1,mechanized_rainfed,production,840.0
+292,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1997,6,1998,1,mechanized_rainfed,production,840.0
+293,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2004,6,2005,1,mechanized_rainfed,production,11760.0
+294,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2005,6,2006,1,mechanized_rainfed,production,5460.0
+295,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2006,6,2007,1,mechanized_rainfed,production,1260.0
+296,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2007,6,2008,1,mechanized_rainfed,production,3175.0
+297,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2008,6,2009,1,mechanized_rainfed,production,3360.0
+298,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,1996,6,1997,5,irrigated,production,420.0
+299,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2000,6,2001,5,irrigated,production,840.0
+300,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2001,6,2002,5,irrigated,production,2100.0
+301,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2002,6,2003,5,irrigated,production,1260.0
+302,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2004,6,2005,5,irrigated,production,126.0
+303,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2005,6,2006,5,irrigated,production,1260.0
+304,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2006,6,2007,5,irrigated,production,1260.0
+305,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2007,6,2008,5,irrigated,production,420.0
+306,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2008,6,2009,5,irrigated,production,605.0
+307,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2009,6,2010,5,irrigated,production,420.0
+308,SS2011A112,South Sudan,SS,Jonglei,none,Jonglei,Cereal Crops,Main,2010,6,2012,1,none,production,65000.0
+309,SS2011A112,South Sudan,SS,Jonglei,none,Jonglei,Cereal Crops,Main,2011,6,2013,1,none,production,57000.0
+310,SS2011A113,South Sudan,SS,Unity,none,Unity,Cereal Crops,Main,2010,6,2012,1,none,production,8000.0
+311,SS2011A113,South Sudan,SS,Unity,none,Unity,Cereal Crops,Main,2011,6,2013,1,none,production,13000.0
+312,SS2011A121,South Sudan,SS,Western Bahr el Ghazal,none,Western Bahr el Ghazal,Cereal Crops,Main,2010,6,2012,1,none,production,35000.0
+313,SS2011A121,South Sudan,SS,Western Bahr el Ghazal,none,Western Bahr el Ghazal,Cereal Crops,Main,2011,6,2013,1,none,production,45000.0
+314,SS2011A122,South Sudan,SS,Northern Bahr el Ghazal,none,Northern Bahr el Ghazal,Cereal Crops,Main,2010,6,2012,1,none,production,40000.0
+315,SS2011A122,South Sudan,SS,Northern Bahr el Ghazal,none,Northern Bahr el Ghazal,Cereal Crops,Main,2011,6,2013,1,none,production,73000.0
+316,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cereal Crops,Main,2010,6,2012,1,none,production,46000.0
+317,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cereal Crops,Main,2011,6,2013,1,none,production,89000.0
+318,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1974,6,1975,1,traditional_rainfed,production,1878.87963663891
+319,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1975,6,1976,1,traditional_rainfed,production,2192.026242745395
+320,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1976,6,1977,1,traditional_rainfed,production,1657.8349735049205
+321,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1977,6,1978,1,traditional_rainfed,production,2431.4912944738835
+322,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1978,6,1979,1,traditional_rainfed,production,1123.6437042644461
+323,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1979,6,1980,1,traditional_rainfed,production,1473.6310875599293
+324,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1980,6,1981,1,traditional_rainfed,production,2063.083522583901
+325,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1981,6,1982,1,traditional_rainfed,production,2431.4912944738835
+326,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1982,6,1983,1,traditional_rainfed,production,1013.1213726974514
+327,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1983,6,1984,1,traditional_rainfed,production,994.7009841029522
+328,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1984,6,1985,1,traditional_rainfed,production,2799.8990663638656
+329,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1985,6,1986,1,traditional_rainfed,production,1381.5291445874336
+330,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1986,6,1987,1,traditional_rainfed,production,331.5669947009841
+331,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1987,6,1988,1,traditional_rainfed,production,921.0194297249558
+332,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1988,6,1989,1,traditional_rainfed,production,239.4650517284885
+333,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1989,6,1990,1,traditional_rainfed,production,75.2574520705878
+334,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1990,6,1991,1,traditional_rainfed,production,521.2637372854566
+335,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1991,6,1992,1,traditional_rainfed,production,1009.9484909905722
+336,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1992,6,1993,1,traditional_rainfed,production,651.5796716068207
+337,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1993,6,1994,1,traditional_rainfed,production,1123.9749335217657
+338,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1994,6,1995,1,traditional_rainfed,production,472.395261914945
+339,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1995,6,1996,1,traditional_rainfed,production,81.44745895085259
+340,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1996,6,1997,1,traditional_rainfed,production,1091.3959499414248
+341,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1997,6,1998,1,traditional_rainfed,production,993.6589992004017
+342,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1998,6,1999,1,traditional_rainfed,production,1742.9756215482455
+343,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1999,6,2000,1,traditional_rainfed,production,1319.448835003812
+344,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2000,6,2001,1,traditional_rainfed,production,1303.1593432136415
+345,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2001,6,2002,1,traditional_rainfed,production,2378.2658013648957
+346,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2002,6,2003,1,traditional_rainfed,production,1058.8169663610838
+347,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2003,6,2004,1,traditional_rainfed,production,456.10577012477455
+348,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2004,6,2005,1,traditional_rainfed,production,3426.1922785768356
+349,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2005,6,2006,1,traditional_rainfed,production,6318.193287913196
+350,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2006,6,2007,1,traditional_rainfed,production,5765.5816300782235
+351,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2007,6,2008,1,traditional_rainfed,production,5761.768609639162
+352,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2008,6,2009,1,traditional_rainfed,production,1740.7267221801665
+353,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2009,6,2010,1,traditional_rainfed,production,1632.4148372445115
+354,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2010,6,2011,1,traditional_rainfed,production,0.0
+355,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2011,6,2012,1,traditional_rainfed,production,0.0
+356,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1974,6,1975,1,mechanized_rainfed,production,1271.006813020439
+357,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1975,6,1976,1,mechanized_rainfed,production,1584.153419126924
+358,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1976,6,1977,1,mechanized_rainfed,production,1473.6310875599293
+359,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1977,6,1978,1,mechanized_rainfed,production,1252.5864244259399
+360,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1978,6,1979,1,mechanized_rainfed,production,773.6563209689629
+361,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1979,6,1980,1,mechanized_rainfed,production,1842.0388594499116
+362,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1980,6,1981,1,mechanized_rainfed,production,1455.21069896543
+363,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1981,6,1982,1,mechanized_rainfed,production,2394.650517284885
+364,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1982,6,1983,1,mechanized_rainfed,production,1915.720413827908
+365,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1983,6,1984,1,mechanized_rainfed,production,423.66893767347966
+366,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1984,6,1985,1,mechanized_rainfed,production,3168.306838253848
+367,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1985,6,1986,1,mechanized_rainfed,production,2523.5932374463787
+368,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1986,6,1987,1,mechanized_rainfed,production,1510.4718647489276
+369,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1987,6,1988,1,mechanized_rainfed,production,6612.919505425182
+370,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1988,6,1989,1,mechanized_rainfed,production,1455.21069896543
+371,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2001,6,2002,1,mechanized_rainfed,production,97.73695074102311
+372,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2002,6,2003,1,mechanized_rainfed,production,97.73695074102311
+373,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2003,6,2004,1,mechanized_rainfed,production,97.73695074102311
+374,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2004,6,2005,1,mechanized_rainfed,production,4586.67676003028
+375,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2005,6,2006,1,mechanized_rainfed,production,6115.569013373706
+376,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2006,6,2007,1,mechanized_rainfed,production,2284.1281857178906
+377,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2007,6,2008,1,mechanized_rainfed,production,1086.8029270754478
+378,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2008,6,2009,1,mechanized_rainfed,production,1059.9091597274792
+379,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2009,6,2010,1,mechanized_rainfed,production,1353.898561695685
+380,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2010,6,2011,1,mechanized_rainfed,production,0.0
+381,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2011,6,2012,1,mechanized_rainfed,production,0.0
+382,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2006,6,2007,1,traditional_rainfed,production,30.946252838758515
+383,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2007,6,2008,1,traditional_rainfed,production,32.21725965177895
+384,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2008,6,2009,1,traditional_rainfed,production,7.117638152914458
+385,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2010,6,2011,1,traditional_rainfed,production,0.0
+386,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1974,6,1975,1,traditional_rainfed,production,165.78349735049204
+387,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1975,6,1976,1,traditional_rainfed,production,221.0446631339894
+388,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1976,6,1977,1,traditional_rainfed,production,331.5669947009841
+389,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1977,6,1978,1,traditional_rainfed,production,165.78349735049204
+390,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1978,6,1979,1,traditional_rainfed,production,92.10194297249558
+391,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1979,6,1980,1,traditional_rainfed,production,128.9427201614938
+392,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1980,6,1981,1,traditional_rainfed,production,165.78349735049204
+393,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1981,6,1982,1,traditional_rainfed,production,165.78349735049204
+394,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1982,6,1983,1,traditional_rainfed,production,165.78349735049204
+395,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1983,6,1984,1,traditional_rainfed,production,73.68155437799646
+396,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1984,6,1985,1,traditional_rainfed,production,405.24854907898055
+397,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1985,6,1986,1,traditional_rainfed,production,202.62427453949027
+398,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1986,6,1987,1,traditional_rainfed,production,128.9427201614938
+399,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1987,6,1988,1,traditional_rainfed,production,294.72621751198585
+400,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1988,6,1989,1,traditional_rainfed,production,128.9427201614938
+401,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1989,6,1990,1,traditional_rainfed,production,95.78221172620265
+402,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1990,6,1991,1,traditional_rainfed,production,136.83173103743235
+403,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1991,6,1992,1,traditional_rainfed,production,198.4060100042769
+404,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1992,6,1993,1,traditional_rainfed,production,129.99014448556073
+405,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1993,6,1994,1,traditional_rainfed,production,1156.2281272663035
+406,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1994,6,1995,1,traditional_rainfed,production,68.41586551871617
+407,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1995,6,1996,1,traditional_rainfed,production,410.4951931122971
+408,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1996,6,1997,1,traditional_rainfed,production,1135.7033676106885
+409,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1997,6,1998,1,traditional_rainfed,production,506.2774048384997
+410,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1998,6,1999,1,traditional_rainfed,production,561.0100972534726
+411,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1999,6,2000,1,traditional_rainfed,production,561.0100972534726
+412,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2000,6,2001,1,traditional_rainfed,production,431.01995276791195
+413,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2001,6,2002,1,traditional_rainfed,production,896.247838295182
+414,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2002,6,2003,1,traditional_rainfed,production,595.2180300128308
+415,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2003,6,2004,1,traditional_rainfed,production,896.247838295182
+416,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2004,6,2005,1,traditional_rainfed,production,448.72066616199845
+417,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2005,6,2006,1,traditional_rainfed,production,502.87660862982585
+418,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2006,6,2007,1,traditional_rainfed,production,1392.581377744133
+419,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2007,6,2008,1,traditional_rainfed,production,1392.581377744133
+420,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2008,6,2009,1,traditional_rainfed,production,216.6237698713096
+421,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2009,6,2010,1,traditional_rainfed,production,170.20439061317182
+422,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2010,6,2011,1,traditional_rainfed,production,0.0
+423,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2011,6,2012,1,traditional_rainfed,production,0.0
+424,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2004,6,2005,1,mechanized_rainfed,production,7.736563209689629
+425,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2005,6,2006,1,mechanized_rainfed,production,15.473126419379257
+426,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2006,6,2007,1,mechanized_rainfed,production,30.946252838758515
+427,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2007,6,2008,1,mechanized_rainfed,production,7.736563209689629
+428,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2008,6,2009,1,mechanized_rainfed,production,4.409841029523088
+429,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2009,6,2010,1,mechanized_rainfed,production,3.0946252838758515
+430,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2010,6,2011,1,mechanized_rainfed,production,0.0
+431,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2011,6,2012,1,mechanized_rainfed,production,0.0
+432,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1989,6,1990,1,traditional_rainfed,production,20.524759655614854
+433,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1990,6,1991,1,traditional_rainfed,production,20.524759655614854
+434,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1991,6,1992,1,traditional_rainfed,production,314.71298138609444
+435,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1992,6,1993,1,traditional_rainfed,production,123.14855793368912
+436,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1993,6,1994,1,traditional_rainfed,production,1361.475723822452
+437,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1994,6,1995,1,traditional_rainfed,production,547.3269241497294
+438,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1995,6,1996,1,traditional_rainfed,production,862.0399055358239
+439,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1996,6,1997,1,traditional_rainfed,production,1594.0896665860869
+440,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1997,6,1998,1,traditional_rainfed,production,978.3468769176413
+441,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1998,6,1999,1,traditional_rainfed,production,2038.792792457742
+442,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1999,6,2000,1,traditional_rainfed,production,1156.2281272663035
+443,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2000,6,2001,1,traditional_rainfed,production,834.6735593283374
+444,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2001,6,2002,1,traditional_rainfed,production,1190.4360600256616
+445,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2002,6,2003,1,traditional_rainfed,production,732.0497610502631
+446,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2003,6,2004,1,traditional_rainfed,production,314.71298138609444
+447,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2004,6,2005,1,traditional_rainfed,production,38.682816048448146
+448,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2005,6,2006,1,traditional_rainfed,production,38.682816048448146
+449,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2006,6,2007,1,traditional_rainfed,production,471.93035579106737
+450,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2007,6,2008,1,traditional_rainfed,production,647.5503406510219
+451,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2008,6,2009,1,traditional_rainfed,production,549.2959878879636
+452,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2009,6,2010,1,traditional_rainfed,production,634.3981831945496
+453,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2010,6,2011,1,traditional_rainfed,production,0.0
+454,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2011,6,2012,1,traditional_rainfed,production,0.0
+455,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2007,6,2008,1,irrigated,production,332.9116830683825
+456,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2008,6,2009,1,irrigated,production,293.98940196820587
+457,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2009,6,2010,1,irrigated,production,177.94095382286147
+458,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1989,6,1990,1,traditional_rainfed,production,6.841586551871618
+459,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1990,6,1991,1,traditional_rainfed,production,6.841586551871618
+460,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1991,6,1992,1,traditional_rainfed,production,41.04951931122971
+461,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1992,6,1993,1,traditional_rainfed,production,68.41586551871617
+462,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1993,6,1994,1,traditional_rainfed,production,34.20793275935809
+463,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1994,6,1995,1,traditional_rainfed,production,13.683173103743236
+464,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1995,6,1996,1,traditional_rainfed,production,13.683173103743236
+465,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1996,6,1997,1,traditional_rainfed,production,27.366346207486473
+466,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1997,6,1998,1,traditional_rainfed,production,75.2574520705878
+467,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1998,6,1999,1,traditional_rainfed,production,102.62379827807428
+468,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1999,6,2000,1,traditional_rainfed,production,34.20793275935809
+469,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2000,6,2001,1,traditional_rainfed,production,47.89110586310132
+470,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2001,6,2002,1,traditional_rainfed,production,109.46538482994589
+471,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2002,6,2003,1,traditional_rainfed,production,61.57427896684456
+472,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2003,6,2004,1,traditional_rainfed,production,20.524759655614854
+473,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2004,6,2005,1,traditional_rainfed,production,224.36033308099923
+474,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2005,6,2006,1,traditional_rainfed,production,69.62906888720666
+475,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2006,6,2007,1,traditional_rainfed,production,355.88190764572295
+476,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2007,6,2008,1,traditional_rainfed,production,302.88644965934895
+477,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2008,6,2009,1,traditional_rainfed,production,131.5215745647237
+478,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2009,6,2010,1,traditional_rainfed,production,123.78501135503406
+479,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2010,6,2011,1,traditional_rainfed,production,0.0
+480,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2011,6,2012,1,traditional_rainfed,production,0.0
+481,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2004,6,2005,1,mechanized_rainfed,production,23.209689629068887
+482,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2005,6,2006,1,mechanized_rainfed,production,247.57002271006812
+483,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2006,6,2007,1,mechanized_rainfed,production,332.672218016654
+484,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2010,6,2011,1,mechanized_rainfed,production,0.0
+485,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2011,6,2012,1,mechanized_rainfed,production,0.0
+486,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2004,6,2005,1,traditional_rainfed,production,7.736563209689629
+487,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2005,6,2006,1,traditional_rainfed,production,7.736563209689629
+488,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2006,6,2007,1,traditional_rainfed,production,15.473126419379257
+489,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2007,6,2008,1,traditional_rainfed,production,21.699217764319958
+490,SS2011A124,South Sudan,SS,Lakes,none,Lakes,Cereal Crops,Main,2010,6,2012,1,none,production,45000.0
+491,SS2011A124,South Sudan,SS,Lakes,none,Lakes,Cereal Crops,Main,2011,6,2013,1,none,production,66000.0
+492,SS2011A131,South Sudan,SS,Western Equatoria,none,Western Equatoria,Cereal Crops,Main,2010,6,2012,1,none,production,120000.0
+493,SS2011A131,South Sudan,SS,Western Equatoria,none,Western Equatoria,Cereal Crops,Main,2011,6,2013,1,none,production,157000.0
+494,SS2011A132,South Sudan,SS,Central Equatoria,none,Central Equatoria,Cereal Crops,Main,2010,6,2012,1,none,production,78000.0
+495,SS2011A132,South Sudan,SS,Central Equatoria,none,Central Equatoria,Cereal Crops,Main,2011,6,2013,1,none,production,110000.0
+496,SS2011A133,South Sudan,SS,Eastern Equatoria,none,Eastern Equatoria,Cereal Crops,Main,2010,6,2012,1,none,production,99000.0
+497,SS2011A133,South Sudan,SS,Eastern Equatoria,none,Eastern Equatoria,Cereal Crops,Main,2011,6,2013,1,none,production,113000.0
+498,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cereal Crops,Main,2010,6,2012,1,none,yield,0.38235294117647056
+499,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cereal Crops,Main,2011,6,2013,1,none,yield,0.475
+500,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,1997,6,1998,5,irrigated,yield,1.1904761904761905
+501,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,1998,6,1999,5,irrigated,yield,0.25
+502,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2000,6,2001,5,irrigated,yield,1.1904761904761905
+503,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2001,6,2002,5,irrigated,yield,1.473922902494331
+504,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2002,6,2003,5,irrigated,yield,0.9523809523809523
+505,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2003,6,2004,5,irrigated,yield,1.5873015873015872
+506,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2004,6,2005,5,irrigated,yield,0.8928571428571429
+507,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2005,6,2006,5,irrigated,yield,1.1904761904761905
+508,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2007,6,2008,5,irrigated,yield,1.1904761904761905
+509,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2008,6,2009,5,irrigated,yield,1.7857142857142858
+510,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Annual,2009,6,2010,5,irrigated,yield,0.5
+511,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2005,6,2006,1,traditional_rainfed,yield,0.5714285714285714
+512,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2006,6,2007,1,traditional_rainfed,yield,0.5238095238095238
+513,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2007,6,2008,1,traditional_rainfed,yield,0.31746031746031744
+514,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1989,6,1990,1,mechanized_rainfed,yield,0.05597964376590331
+515,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1990,6,1991,1,mechanized_rainfed,yield,0.5136054421768708
+516,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1991,6,1992,1,mechanized_rainfed,yield,0.4582806573957016
+517,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1992,6,1993,1,mechanized_rainfed,yield,0.27386541471048514
+518,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1993,6,1994,1,mechanized_rainfed,yield,0.4707792207792208
+519,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1994,6,1995,1,mechanized_rainfed,yield,0.2826056238519147
+520,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1995,6,1996,1,mechanized_rainfed,yield,0.30561478322672353
+521,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1996,6,1997,1,mechanized_rainfed,yield,0.4355400696864111
+522,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1997,6,1998,1,mechanized_rainfed,yield,0.4755062944718117
+523,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1998,6,1999,1,mechanized_rainfed,yield,0.31746031746031744
+524,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,1999,6,2000,1,mechanized_rainfed,yield,0.34226190476190477
+525,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2000,6,2001,1,mechanized_rainfed,yield,0.3968253968253968
+526,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2001,6,2002,1,mechanized_rainfed,yield,0.368425900340794
+527,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2002,6,2003,1,mechanized_rainfed,yield,0.7056277056277056
+528,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2003,6,2004,1,mechanized_rainfed,yield,0.7476420519898781
+529,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2004,6,2005,1,mechanized_rainfed,yield,0.5126129772022123
+530,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2005,6,2006,1,mechanized_rainfed,yield,0.593900481540931
+531,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2006,6,2007,1,mechanized_rainfed,yield,0.5439629035134653
+532,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Sorghum,Main,2007,6,2008,1,mechanized_rainfed,yield,0.4247598162071846
+533,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1989,6,1990,1,mechanized_rainfed,yield,0.25
+534,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1990,6,1991,1,mechanized_rainfed,yield,0.125
+535,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1991,6,1992,1,mechanized_rainfed,yield,0.2
+536,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1992,6,1993,1,mechanized_rainfed,yield,0.25
+537,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1993,6,1994,1,mechanized_rainfed,yield,0.2
+538,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1994,6,1995,1,mechanized_rainfed,yield,0.07
+539,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1995,6,1996,1,mechanized_rainfed,yield,0.2
+540,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1996,6,1997,1,mechanized_rainfed,yield,0.2222222222222222
+541,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,1997,6,1998,1,mechanized_rainfed,yield,0.2
+542,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2004,6,2005,1,mechanized_rainfed,yield,0.15555555555555556
+543,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2005,6,2006,1,mechanized_rainfed,yield,0.10483870967741936
+544,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2006,6,2007,1,mechanized_rainfed,yield,0.13636363636363635
+545,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2007,6,2008,1,mechanized_rainfed,yield,0.15749007936507936
+546,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Millet,Main,2008,6,2009,1,mechanized_rainfed,yield,0.16666666666666666
+547,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,1996,6,1997,5,irrigated,yield,0.2
+548,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2000,6,2001,5,irrigated,yield,0.4
+549,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2001,6,2002,5,irrigated,yield,0.5555555555555556
+550,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2002,6,2003,5,irrigated,yield,0.42857142857142855
+551,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2004,6,2005,5,irrigated,yield,0.3
+552,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2005,6,2006,5,irrigated,yield,0.6
+553,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2006,6,2007,5,irrigated,yield,0.6
+554,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2007,6,2008,5,irrigated,yield,0.3333333333333333
+555,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2008,6,2009,5,irrigated,yield,0.4801587301587302
+556,SS2011A111,South Sudan,SS,Upper Nile,none,Upper Nile,Cotton (Acala),Annual,2009,6,2010,5,irrigated,yield,0.3333333333333333
+557,SS2011A112,South Sudan,SS,Jonglei,none,Jonglei,Cereal Crops,Main,2010,6,2012,1,none,yield,0.5078125
+558,SS2011A112,South Sudan,SS,Jonglei,none,Jonglei,Cereal Crops,Main,2011,6,2013,1,none,yield,0.5277777777777778
+559,SS2011A113,South Sudan,SS,Unity,none,Unity,Cereal Crops,Main,2010,6,2012,1,none,yield,0.23529411764705882
+560,SS2011A113,South Sudan,SS,Unity,none,Unity,Cereal Crops,Main,2011,6,2013,1,none,yield,0.30952380952380953
+561,SS2011A121,South Sudan,SS,Western Bahr el Ghazal,none,Western Bahr el Ghazal,Cereal Crops,Main,2010,6,2012,1,none,yield,0.8536585365853658
+562,SS2011A121,South Sudan,SS,Western Bahr el Ghazal,none,Western Bahr el Ghazal,Cereal Crops,Main,2011,6,2013,1,none,yield,0.7894736842105263
+563,SS2011A122,South Sudan,SS,Northern Bahr el Ghazal,none,Northern Bahr el Ghazal,Cereal Crops,Main,2010,6,2012,1,none,yield,0.5882352941176471
+564,SS2011A122,South Sudan,SS,Northern Bahr el Ghazal,none,Northern Bahr el Ghazal,Cereal Crops,Main,2011,6,2013,1,none,yield,0.6822429906542056
+565,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cereal Crops,Main,2010,6,2012,1,none,yield,0.5476190476190477
+566,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cereal Crops,Main,2011,6,2013,1,none,yield,0.5426829268292683
+567,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1974,6,1975,1,traditional_rainfed,yield,0.6496815286624205
+568,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1975,6,1976,1,traditional_rainfed,yield,0.8321678321678322
+569,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1976,6,1977,1,traditional_rainfed,yield,0.7692307692307693
+570,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1977,6,1978,1,traditional_rainfed,yield,0.8198757763975156
+571,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1978,6,1979,1,traditional_rainfed,yield,0.45522388059701496
+572,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1979,6,1980,1,traditional_rainfed,yield,0.547945205479452
+573,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1980,6,1981,1,traditional_rainfed,yield,0.7133757961783439
+574,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1981,6,1982,1,traditional_rainfed,yield,0.8516129032258065
+575,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1982,6,1983,1,traditional_rainfed,yield,0.3235294117647059
+576,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1983,6,1984,1,traditional_rainfed,yield,0.21176470588235294
+577,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1984,6,1985,1,traditional_rainfed,yield,0.4550898203592814
+578,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1985,6,1986,1,traditional_rainfed,yield,0.3605769230769231
+579,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1986,6,1987,1,traditional_rainfed,yield,0.21428571428571427
+580,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1987,6,1988,1,traditional_rainfed,yield,0.5952380952380952
+581,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1988,6,1989,1,traditional_rainfed,yield,0.3333333333333333
+582,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1989,6,1990,1,traditional_rainfed,yield,0.02444444444444445
+583,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1990,6,1991,1,traditional_rainfed,yield,0.13852813852813853
+584,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1991,6,1992,1,traditional_rainfed,yield,0.16870748299319727
+585,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1992,6,1993,1,traditional_rainfed,yield,0.15873015873015872
+586,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1993,6,1994,1,traditional_rainfed,yield,0.26160145586897177
+587,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1994,6,1995,1,traditional_rainfed,yield,0.13433388919770242
+588,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1995,6,1996,1,traditional_rainfed,yield,0.010822510822510822
+589,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1996,6,1997,1,traditional_rainfed,yield,0.23703389230878089
+590,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1997,6,1998,1,traditional_rainfed,yield,0.29640427599611274
+591,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1998,6,1999,1,traditional_rainfed,yield,0.3980654761904762
+592,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1999,6,2000,1,traditional_rainfed,yield,0.18007202881152462
+593,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2000,6,2001,1,traditional_rainfed,yield,0.26789900207621725
+594,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2001,6,2002,1,traditional_rainfed,yield,0.3609751273302675
+595,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2002,6,2003,1,traditional_rainfed,yield,0.27103661079142694
+596,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2003,6,2004,1,traditional_rainfed,yield,0.10384215991692627
+597,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2004,6,2005,1,traditional_rainfed,yield,0.5394118670610754
+598,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2005,6,2006,1,traditional_rainfed,yield,0.6962205171923841
+599,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2006,6,2007,1,traditional_rainfed,yield,0.5447646895015317
+600,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2007,6,2008,1,traditional_rainfed,yield,0.5444044138123085
+601,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2008,6,2009,1,traditional_rainfed,yield,0.19964507542147295
+602,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2009,6,2010,1,traditional_rainfed,yield,0.2851351351351351
+603,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1974,6,1975,1,mechanized_rainfed,yield,0.9078947368421053
+604,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1975,6,1976,1,mechanized_rainfed,yield,1.0617283950617284
+605,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1976,6,1977,1,mechanized_rainfed,yield,0.6504065040650406
+606,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1977,6,1978,1,mechanized_rainfed,yield,0.5862068965517241
+607,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1978,6,1979,1,mechanized_rainfed,yield,0.47191011235955055
+608,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1979,6,1980,1,mechanized_rainfed,yield,0.8928571428571429
+609,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1980,6,1981,1,mechanized_rainfed,yield,0.8404255319148936
+610,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1981,6,1982,1,mechanized_rainfed,yield,0.6372549019607843
+611,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1982,6,1983,1,mechanized_rainfed,yield,0.4297520661157025
+612,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1983,6,1984,1,mechanized_rainfed,yield,0.21904761904761905
+613,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1984,6,1985,1,mechanized_rainfed,yield,0.6590038314176245
+614,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1985,6,1986,1,mechanized_rainfed,yield,0.45666666666666667
+615,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1986,6,1987,1,mechanized_rainfed,yield,0.8723404255319149
+616,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1987,6,1988,1,mechanized_rainfed,yield,0.718
+617,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,1988,6,1989,1,mechanized_rainfed,yield,0.43169398907103823
+618,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2001,6,2002,1,mechanized_rainfed,yield,0.7142857142857143
+619,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2002,6,2003,1,mechanized_rainfed,yield,0.46082949308755755
+620,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2003,6,2004,1,mechanized_rainfed,yield,0.46082949308755755
+621,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2004,6,2005,1,mechanized_rainfed,yield,0.4324268000416797
+622,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2005,6,2006,1,mechanized_rainfed,yield,0.6826219261452422
+623,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2006,6,2007,1,mechanized_rainfed,yield,0.3578643578643579
+624,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2007,6,2008,1,mechanized_rainfed,yield,0.14047619047619048
+625,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2008,6,2009,1,mechanized_rainfed,yield,0.10821484992101107
+626,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sorghum,Main,2009,6,2010,1,mechanized_rainfed,yield,0.1959686450167973
+627,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2006,6,2007,1,traditional_rainfed,yield,0.17391304347826086
+628,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2007,6,2008,1,traditional_rainfed,yield,0.21917293233082707
+629,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sunflower Seed,Main,2008,6,2009,1,traditional_rainfed,yield,0.46
+630,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1974,6,1975,1,traditional_rainfed,yield,0.060000000000000005
+631,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1975,6,1976,1,traditional_rainfed,yield,0.4137931034482758
+632,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1976,6,1977,1,traditional_rainfed,yield,0.47368421052631576
+633,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1977,6,1978,1,traditional_rainfed,yield,0.5294117647058824
+634,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1978,6,1979,1,traditional_rainfed,yield,0.5
+635,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1979,6,1980,1,traditional_rainfed,yield,0.4117647058823529
+636,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1980,6,1981,1,traditional_rainfed,yield,0.47368421052631576
+637,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1981,6,1982,1,traditional_rainfed,yield,0.45
+638,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1982,6,1983,1,traditional_rainfed,yield,0.45
+639,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1983,6,1984,1,traditional_rainfed,yield,0.19047619047619047
+640,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1984,6,1985,1,traditional_rainfed,yield,0.44
+641,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1985,6,1986,1,traditional_rainfed,yield,0.2894736842105263
+642,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1986,6,1987,1,traditional_rainfed,yield,0.18421052631578946
+643,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1987,6,1988,1,traditional_rainfed,yield,0.2857142857142857
+644,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1988,6,1989,1,traditional_rainfed,yield,0.18918918918918917
+645,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1989,6,1990,1,traditional_rainfed,yield,0.011494252873563218
+646,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1990,6,1991,1,traditional_rainfed,yield,0.021645021645021644
+647,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1991,6,1992,1,traditional_rainfed,yield,0.029381965552178316
+648,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1992,6,1993,1,traditional_rainfed,yield,0.019668737060041408
+649,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1993,6,1994,1,traditional_rainfed,yield,0.10798722044728436
+650,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1994,6,1995,1,traditional_rainfed,yield,0.0059031877213695395
+651,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1995,6,1996,1,traditional_rainfed,yield,0.032626427406199025
+652,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1996,6,1997,1,traditional_rainfed,yield,0.0732568402471315
+653,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1997,6,1998,1,traditional_rainfed,yield,0.04187889077532541
+654,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1998,6,1999,1,traditional_rainfed,yield,0.05219605346912794
+655,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,1999,6,2000,1,traditional_rainfed,yield,0.0629800307219662
+656,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2000,6,2001,1,traditional_rainfed,yield,0.0385793018983466
+657,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2001,6,2002,1,traditional_rainfed,yield,0.08941979522184301
+658,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2002,6,2003,1,traditional_rainfed,yield,0.0464247598719317
+659,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2003,6,2004,1,traditional_rainfed,yield,0.08941979522184301
+660,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2004,6,2005,1,traditional_rainfed,yield,0.1288888888888889
+661,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2005,6,2006,1,traditional_rainfed,yield,0.1511627906976744
+662,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2006,6,2007,1,traditional_rainfed,yield,0.06639616377720398
+663,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2007,6,2008,1,traditional_rainfed,yield,0.06639616377720398
+664,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2008,6,2009,1,traditional_rainfed,yield,0.08668730650154799
+665,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2009,6,2010,1,traditional_rainfed,yield,0.15714285714285714
+666,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2004,6,2005,1,mechanized_rainfed,yield,0.08333333333333333
+667,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2005,6,2006,1,mechanized_rainfed,yield,0.09999999999999999
+668,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2006,6,2007,1,mechanized_rainfed,yield,0.19999999999999998
+669,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2007,6,2008,1,mechanized_rainfed,yield,0.08333333333333333
+670,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2008,6,2009,1,mechanized_rainfed,yield,0.18999999999999997
+671,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Millet,Main,2009,6,2010,1,mechanized_rainfed,yield,0.2
+672,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1989,6,1990,1,traditional_rainfed,yield,0.009404388714733543
+673,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1990,6,1991,1,traditional_rainfed,yield,0.08571428571428572
+674,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1991,6,1992,1,traditional_rainfed,yield,0.09787234042553192
+675,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1992,6,1993,1,traditional_rainfed,yield,0.026470588235294114
+676,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1993,6,1994,1,traditional_rainfed,yield,0.24507389162561577
+677,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1994,6,1995,1,traditional_rainfed,yield,0.09060022650056623
+678,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1995,6,1996,1,traditional_rainfed,yield,0.1377049180327869
+679,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1996,6,1997,1,traditional_rainfed,yield,0.1583956492182189
+680,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1997,6,1998,1,traditional_rainfed,yield,0.15084388185654007
+681,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1998,6,1999,1,traditional_rainfed,yield,0.2994974874371859
+682,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,1999,6,2000,1,traditional_rainfed,yield,0.14942528735632185
+683,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2000,6,2001,1,traditional_rainfed,yield,0.13362541073384449
+684,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2001,6,2002,1,traditional_rainfed,yield,0.23577235772357727
+685,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2002,6,2003,1,traditional_rainfed,yield,0.11456102783725909
+686,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2003,6,2004,1,traditional_rainfed,yield,0.04107142857142857
+687,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2004,6,2005,1,traditional_rainfed,yield,0.19230769230769232
+688,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2005,6,2006,1,traditional_rainfed,yield,0.25
+689,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2006,6,2007,1,traditional_rainfed,yield,0.244
+690,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2007,6,2008,1,traditional_rainfed,yield,0.24051724137931033
+691,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2008,6,2009,1,traditional_rainfed,yield,0.27626459143968873
+692,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Groundnuts (In Shell),Main,2009,6,2010,1,traditional_rainfed,yield,0.27702702702702703
+693,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2007,6,2008,1,irrigated,yield,0.11474920634920635
+694,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2008,6,2009,1,irrigated,yield,0.11411411411411411
+695,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2009,6,2010,1,irrigated,yield,0.10222222222222223
+696,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1989,6,1990,1,traditional_rainfed,yield,0.008333333333333333
+697,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1990,6,1991,1,traditional_rainfed,yield,0.013333333333333334
+698,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1991,6,1992,1,traditional_rainfed,yield,0.0320855614973262
+699,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1992,6,1993,1,traditional_rainfed,yield,0.040485829959514164
+700,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1993,6,1994,1,traditional_rainfed,yield,0.016666666666666666
+701,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1994,6,1995,1,traditional_rainfed,yield,0.00980392156862745
+702,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1995,6,1996,1,traditional_rainfed,yield,0.011627906976744186
+703,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1996,6,1997,1,traditional_rainfed,yield,0.032
+704,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1997,6,1998,1,traditional_rainfed,yield,0.06470588235294117
+705,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1998,6,1999,1,traditional_rainfed,yield,0.08982035928143714
+706,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,1999,6,2000,1,traditional_rainfed,yield,0.016025641025641024
+707,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2000,6,2001,1,traditional_rainfed,yield,0.02229299363057325
+708,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2001,6,2002,1,traditional_rainfed,yield,0.0642570281124498
+709,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2002,6,2003,1,traditional_rainfed,yield,0.10227272727272727
+710,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2003,6,2004,1,traditional_rainfed,yield,0.022727272727272728
+711,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2004,6,2005,1,traditional_rainfed,yield,0.1183673469387755
+712,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2005,6,2006,1,traditional_rainfed,yield,0.06428571428571428
+713,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2006,6,2007,1,traditional_rainfed,yield,0.115
+714,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2007,6,2008,1,traditional_rainfed,yield,0.07783300198807157
+715,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2008,6,2009,1,traditional_rainfed,yield,0.05074626865671642
+716,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2009,6,2010,1,traditional_rainfed,yield,0.07079646017699115
+717,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2004,6,2005,1,mechanized_rainfed,yield,0.14285714285714285
+718,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2005,6,2006,1,mechanized_rainfed,yield,0.057245080500894455
+719,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Sesame Seed,Main,2006,6,2007,1,mechanized_rainfed,yield,0.1075
+720,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2004,6,2005,1,traditional_rainfed,yield,0.09999999999999999
+721,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2005,6,2006,1,traditional_rainfed,yield,0.08333333333333333
+722,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2006,6,2007,1,traditional_rainfed,yield,0.11764705882352941
+723,SS2011A123,South Sudan,SS,Warrap,none,Warrap,Cotton (American),Main,2007,6,2008,1,traditional_rainfed,yield,0.12748917748917749
+724,SS2011A124,South Sudan,SS,Lakes,none,Lakes,Cereal Crops,Main,2010,6,2012,1,none,yield,0.6428571428571429
+725,SS2011A124,South Sudan,SS,Lakes,none,Lakes,Cereal Crops,Main,2011,6,2013,1,none,yield,0.7252747252747253
+726,SS2011A131,South Sudan,SS,Western Equatoria,none,Western Equatoria,Cereal Crops,Main,2010,6,2012,1,none,yield,0.9302325581395349
+727,SS2011A131,South Sudan,SS,Western Equatoria,none,Western Equatoria,Cereal Crops,Main,2011,6,2013,1,none,yield,0.9936708860759493
+728,SS2011A132,South Sudan,SS,Central Equatoria,none,Central Equatoria,Cereal Crops,Main,2010,6,2012,1,none,yield,0.6341463414634146
+729,SS2011A132,South Sudan,SS,Central Equatoria,none,Central Equatoria,Cereal Crops,Main,2011,6,2013,1,none,yield,0.7432432432432432
+730,SS2011A133,South Sudan,SS,Eastern Equatoria,none,Eastern Equatoria,Cereal Crops,Main,2010,6,2012,1,none,yield,0.8608695652173913
+731,SS2011A133,South Sudan,SS,Eastern Equatoria,none,Eastern Equatoria,Cereal Crops,Main,2011,6,2013,1,none,yield,0.8692307692307693

@@ -25,3 +25,4 @@ dependencies:
   - python-kaleido
   - papermill
   - python-docx
+  - pycountry
