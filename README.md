@@ -142,7 +142,7 @@ Lee, D., Anderson, W., Chen, X. et al. HarvestStat Africa – Harmonized Subnati
 Contributions to this repository are welcome, including new data sources or improvements to the existing data. To contribute, please create a pull request with a clear description of the changes proposed.
 
 ## Contact 
-- Please contact Donghoon Lee ([Donghoon.Lee@umanitoba.ca](Donghoon.Lee@umanitoba.ca) and Weston Anderson [Weston@umd.edu](Weston@umd.edu)) for any questions or collaborations.</br>
+- Please contact Donghoon Lee ([Donghoon.Lee@umanitoba.ca](Donghoon.Lee@umanitoba.ca)) and Weston Anderson ([Weston@umd.edu](Weston@umd.edu)) for any questions or collaborations.</br>
 - Users are encouraged to [open an issue](https://github.com/HarvestStat/HarvestStat/issues) for questions, feedback, or bug reports.
 
 ## License
