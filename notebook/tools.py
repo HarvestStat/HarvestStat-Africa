@@ -873,12 +873,12 @@ def FDW_PD_ConnectAdminLink(link_ratio, area, prod, validation=True, threshold_p
         
         # For area validation
         area_abs_diff = abs(area_sum_new - area_sum_old)
-        # Only calculate relative difference where old sum is significant
+        # Only calculate relative difference where old sum is significant (and non-zero to avoid division by zero)
         area_rel_diff = pd.Series(
             np.where(
-                area_sum_old > threshold_abs_area,
+                (area_sum_old > threshold_abs_area) & (area_sum_old != 0),
                 area_abs_diff / area_sum_old * 100,  # percentage
-                0  # treat as zero if old sum is negligible
+                0  # treat as zero if old sum is negligible or zero
             ),
             index=area_sum_old.index
         )
@@ -893,11 +893,12 @@ def FDW_PD_ConnectAdminLink(link_ratio, area, prod, validation=True, threshold_p
         
         # For production validation  
         prod_abs_diff = abs(prod_sum_new - prod_sum_old)
+        # Only calculate relative difference where old sum is significant (and non-zero to avoid division by zero)
         prod_rel_diff = pd.Series(
             np.where(
-                prod_sum_old > threshold_abs_prod,
+                (prod_sum_old > threshold_abs_prod) & (prod_sum_old != 0),
                 prod_abs_diff / prod_sum_old * 100,  # percentage
-                0  # treat as zero if old sum is negligible
+                0  # treat as zero if old sum is negligible or zero
             ),
             index=prod_sum_old.index
         )
@@ -939,7 +940,8 @@ def FDW_PD_ConnectAdminLink(link_ratio, area, prod, validation=True, threshold_p
         
         # Raise assertion errors with informative messages
         if area_failures.sum() > 0:
-            max_diff_idx = area_rel_diff.idxmax()
+            # Find worst case among actual failures, not global maximum
+            max_diff_idx = area_rel_diff[area_failures].idxmax()
             raise AssertionError(
                 f'Area calibration validation failed: {area_failures.sum()} year(s) exceed {threshold_pct}% threshold. '
                 f'Worst case: year {max_diff_idx} with {area_rel_diff[max_diff_idx]:.3f}% difference. '
@@ -947,7 +949,8 @@ def FDW_PD_ConnectAdminLink(link_ratio, area, prod, validation=True, threshold_p
             )
         
         if prod_failures.sum() > 0:
-            max_diff_idx = prod_rel_diff.idxmax()
+            # Find worst case among actual failures, not global maximum
+            max_diff_idx = prod_rel_diff[prod_failures].idxmax()
             raise AssertionError(
                 f'Production calibration validation failed: {prod_failures.sum()} year(s) exceed {threshold_pct}% threshold. '
                 f'Worst case: year {max_diff_idx} with {prod_rel_diff[max_diff_idx]:.3f}% difference. '
