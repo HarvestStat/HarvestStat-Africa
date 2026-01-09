@@ -873,7 +873,9 @@ def FDW_PD_ConnectAdminLink(link_ratio, area, prod, validation=True, threshold_p
         
         # For area validation
         area_abs_diff = abs(area_sum_new - area_sum_old)
-        # Only calculate relative difference where old sum is significant (and non-zero to avoid division by zero)
+        # Only calculate relative difference where old sum is significant
+        # Note: The (area_sum_old != 0) check is technically redundant with (> threshold_abs_area)
+        # but included for defensive programming and code clarity
         area_rel_diff = pd.Series(
             np.where(
                 (area_sum_old > threshold_abs_area) & (area_sum_old != 0),
@@ -893,7 +895,9 @@ def FDW_PD_ConnectAdminLink(link_ratio, area, prod, validation=True, threshold_p
         
         # For production validation  
         prod_abs_diff = abs(prod_sum_new - prod_sum_old)
-        # Only calculate relative difference where old sum is significant (and non-zero to avoid division by zero)
+        # Only calculate relative difference where old sum is significant
+        # Note: The (prod_sum_old != 0) check is technically redundant with (> threshold_abs_prod)
+        # but included for defensive programming and code clarity
         prod_rel_diff = pd.Series(
             np.where(
                 (prod_sum_old > threshold_abs_prod) & (prod_sum_old != 0),
