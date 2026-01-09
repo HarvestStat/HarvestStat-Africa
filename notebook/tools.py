@@ -946,7 +946,7 @@ def FDW_PD_ConnectAdminLink(link_ratio, area, prod, validation=True, threshold_p
                 f'Consider increasing threshold_pct or investigating data quality.'
             )
         
-        if sum(prod_failures) > 0:
+        if prod_failures.sum() > 0:
             max_diff_idx = prod_rel_diff.idxmax()
             raise AssertionError(
                 f'Production calibration validation failed: {prod_failures.sum()} year(s) exceed {threshold_pct}% threshold. '
