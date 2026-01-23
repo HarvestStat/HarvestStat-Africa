@@ -13,21 +13,27 @@ The HarvestStat-Africa is a repository that contains cleaned and harmonized subn
 This repository provides access to a comprehensive crop dataset that allows researchers, policymakers, and stakeholders to explore trends and patterns from  the subnational to the global level, enabling better-informed decisions related to food security, trade, and development.</br>
 
 ## Data sources
-The data in this repository is compiled from various sources, including:
-- Famine Early Warning Systems Network (FEWS NET). This is the primary source of information
-    - [FEWS NET Data Warehouse (FDW)](https://fews.net/data)
-- Food and Agriculture Organization (FAO)
-    - [FAOSTAT](https://www.fao.org/faostat/en/#home)
+
+The data in this repository are compiled from the following sources:
+
+- **Famine Early Warning Systems Network (FEWS NET)** (primary source)  
+  - [FEWS NET Data Warehouse (FDW)](https://fews.net/data)
+- **Food and Agriculture Organization of the United Nations (FAO)**  
+  - [FAOSTAT](https://www.fao.org/faostat/en/#home)
 - National agricultural agencies
 
 ## Repository structure
-This repository is organized as follows:
-- `data/`: stores raw and intermediate crop statistics generated during internal processing.
-- `docs/`: contains documentation related to the data.
-- `notebook/`: includes Jupyter notebook and Python files for processing crop data for each country.
-- `public/`: holds the semi-final & final processed datasets in CSV, Parquet, and GeoPackage formats, ready for public use.
+
+The repository is organized as follows:
+
+- `data/` – Raw and intermediate crop statistics generated during internal processing  
+- `docs/` – Documentation related to the dataset  
+- `figures/` – Figures generated during data processing and analysis  
+- `notebooks/` – Jupyter notebooks and Python scripts for country-level data processing  
+- `public/` – Semi-final and final processed datasets (CSV, Parquet, and GeoPackage formats) intended for public use  
 
 ## Setting up the environment
+
 To set up the environment using `environment.yml`, follow these steps:
 
 1. Clone the repository:
@@ -48,27 +54,30 @@ To set up the environment using `environment.yml`, follow these steps:
 
 4. Start your preferred development environment (e.g., Jupyter Notebook, VSCode):
 
-## Current data status
-HarvetStat currently contains subnational crop statistics for **`33`** countries.
-<!-- (see [current data status per country](/docs/data_status_per_country.md)):</br> -->
-- Admin-1 level: Angola, Burundi, Central African Republic, Chad, DRC, Ghana, Kenya, Lesotho, Liberia, Mali, Mauritania, Mozambique, Nigeria, South Africa, South Sudan, Sudan, Tanzania, Zimbabwe
-- Admin-2 level: Benin, Burkina Faso, Cameroon, Ethiopia, Guinea, Madagascar, Malawi, Niger, Rwanda, Senegal, Sierra Leone, Somalia, Togo, Uganda, Zambia
+## Data access and status
 
-<img src="./docs/current_status_map.png" alt="drawing" width="400"/>
+Processed datasets are available in the `public/` directory. Available files include:
 
-## Data access
-The data in this repository is available in the `public` folder in CSV and GeoPackage formats.
+- `README.md` – Dataset documentation  
+- `CHANGELOG.md` – Version history and updates  
+- `hvstat_africa_data_{version}.csv` – Final harmonized crop statistics  
+- `hvstat_africa_boundary_{version}.gpkg` – Subnational administrative boundary data  
 
-To access the data, download the files from the `public` folder.
-- hvstat_africa_data_{version}.csv: The final processed crop statistics dataset.
-- hvstat_africa_boundary_{version}.gpkg: Boundary data for subnational administrative units.
+The dataset version is specified in the filename.
 
-The version of the dataset is specified in the filename. The current version is `v1.0`.
+The current release is **`v1.1`**, which includes subnational crop statistics for **33 countries**:
 
-The official release version is available on [Dryad - HarvestStat Africa](https://datadryad.org/dataset/doi:10.5061/dryad.vq83bk42w).
+- **Admin-1 level**:  
+  Angola, Burundi, Central African Republic, Chad, Democratic Republic of the Congo, Ghana, Kenya, Lesotho, Liberia, Mali, Mauritania, Mozambique, Nigeria, South Africa, South Sudan, Sudan, Tanzania, Zimbabwe
+
+- **Admin-2 level**:  
+  Benin, Burkina Faso, Cameroon, Ethiopia, Guinea, Madagascar, Malawi, Niger, Rwanda, Senegal, Sierra Leone, Somalia, Togo, Uganda, Zambia
+
+<img src="./docs/current_status_map.png" alt="Current data coverage map" width="400"/>
 
 ## Data structure
-The dataset contains the following columns:
+
+The dataset contains the following variables:
 
 | Column Name             | Description                                                     |
 | ----------------------- | --------------------------------------------------------------- |
@@ -88,6 +97,8 @@ The dataset contains the following columns:
 | `area`                  | Cropped area (hectares; ha)                                     |
 | `production`            | Crop quantity produced (metric tonnes; mt)                      |
 | `yield`                 | Crop yield (metric tonnes per hectare; mt/ha)                   |
+
+> We note that the crop calendar variables (`planting_year`, `planting_month`, `harvest_year`, `harvest_month`) were introduced to distinguish multi-season systems and seasons that span across calendar years; they do **not** represent actual phenological timing.
 
 For details, please see the paper in the [Citation](#citation) section.
 
@@ -131,7 +142,7 @@ Lee, D., Anderson, W., Chen, X. et al. HarvestStat Africa – Harmonized Subnati
 Contributions to this repository are welcome, including new data sources or improvements to the existing data. To contribute, please create a pull request with a clear description of the changes proposed.
 
 ## Contact 
-- Please contact Donghoon Lee ([Donghoon.Lee@umanitoba.ca](Donghoon.Lee@umanitoba.ca) and Weston Anderson [Weston@umd.edu](Weston@umd.edu)) for any questions or collaborations.</br>
+- Please contact Donghoon Lee ([Donghoon.Lee@umanitoba.ca](Donghoon.Lee@umanitoba.ca)) and Weston Anderson ([Weston@umd.edu](Weston@umd.edu)) for any questions or collaborations.</br>
 - Users are encouraged to [open an issue](https://github.com/HarvestStat/HarvestStat/issues) for questions, feedback, or bug reports.
 
 ## License

@@ -309,7 +309,7 @@ def load_npz(filn, key='data'):
 
 def PrintAdminUnits(shape_all):
     adm_year = shape_all['FNID'].apply(lambda x: str(x)[:8]).value_counts()
-    adm_year = adm_year.to_frame().reset_index().rename(columns={'index':'name','FNID':'count'})
+    adm_year = adm_year.to_frame().reset_index().rename(columns={'FNID':'name'})
     adm_year['year'] = adm_year['name'].apply(lambda x: int(x[2:6]))
     adm1_year = adm_year[adm_year['name'].apply(lambda x: x[-2:] == 'A1')].set_index('year')
     adm2_year = adm_year[adm_year['name'].apply(lambda x: x[-2:] == 'A2')].set_index('year')
@@ -322,7 +322,7 @@ def PrintAdminUnits(shape_all):
     print('- FEWS NET admin shapefiles ------------------- #')
     print('| year\t | Admin1   | # units   | Admin2   | # units   | Admin3   | # units   |')
     for i, (adm1, nadm1, adm2, nadm2, adm3, nadm3) in adm_year.iterrows():
-        print('| %d\t | %s | %d\t| %s\t| %d\t| %s\t| %d\t|' % (i, adm1, nadm1, adm2, nadm2, adm3, nadm3))
+        print('| %d\t | %s | %2d\t| %s\t| %2d\t| %s\t| %2d\t|' % (i, adm1, nadm1, adm2, nadm2, adm3, nadm3))
     print('----------------------------------------------- #')
     return
 
@@ -811,8 +811,8 @@ def FDW_PD_ConnectAdminLink(link_ratio, area, prod, validation=True):
         area_scaled = []
         prod_scaled = []
         for fnid in ratio.columns:
-            area_scaled.append(area[fnid].multiply(ratio[fnid]).droplevel(0,axis=1))
-            prod_scaled.append(prod[fnid].multiply(ratio[fnid]).droplevel(0,axis=1))
+            area_scaled.append(area[fnid].droplevel(0,axis=1).multiply(ratio[fnid]))
+            prod_scaled.append(prod[fnid].droplevel(0,axis=1).multiply(ratio[fnid]))
         # Merge all scaled data
         area_merged = reduce(lambda a, b: a.add(b, fill_value=0), area_scaled)
         prod_merged = reduce(lambda a, b: a.add(b, fill_value=0), prod_scaled)
@@ -895,13 +895,13 @@ def FDW_PD_GrainTypeAgg(list_table, product_category):
 def FDW_PD_MergeCropProductionSystem(area_new, prod_new, cps_remove, cps_final):
     # Area
     area_new = area_new.drop(cps_remove, level=6, axis=1)
-    area_new = area_new.sum(level=[0,1,2,3,4,5], axis=1, min_count=1)
+    area_new = area_new.groupby(level=[0,1,2,3,4,5], axis=1).sum(min_count=1)
     col_new = area_new.columns.to_frame().reset_index(drop=True)
     col_new['crop_production_system'] = cps_final
     area_new.columns = pd.MultiIndex.from_frame(col_new)
     # Production
     prod_new = prod_new.drop(cps_remove, level=6, axis=1)
-    prod_new = prod_new.sum(level=[0,1,2,3,4,5], axis=1, min_count=1)
+    prod_new = prod_new.groupby(level=[0,1,2,3,4,5], axis=1).sum(min_count=1)
     col_new = prod_new.columns.to_frame().reset_index(drop=True)
     col_new['crop_production_system'] = cps_final
     prod_new.columns = pd.MultiIndex.from_frame(col_new)
