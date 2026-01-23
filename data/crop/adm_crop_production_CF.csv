@@ -1,667 +1,667 @@
 ,fnid,country,country_code,admin_1,admin_2,name,product,season_name,planting_year,planting_month,harvest_year,harvest_month,crop_production_system,indicator,value
 0,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2014,4,2014,9,none,area,8918.20543058
-1,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2014,4,2014,9,none,production,11970.22948083
-2,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2014,4,2014,9,none,yield,1.342224012892189
-3,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2015,4,2015,9,none,area,9490.68194552
-4,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2015,4,2015,9,none,production,13286.95472373
-5,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2015,4,2015,9,none,yield,1.4000000000002106
-6,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2016,4,2016,9,none,area,11591.91892826
-7,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2016,4,2016,9,none,production,16228.68649956
-8,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2016,4,2016,9,none,yield,1.399999999999655
-9,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,28920.14989776
-10,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,29616.99687115
-11,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.0240955519198045
-12,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,33134.0152496
-13,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,33134.0152496
-14,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.0
-15,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,38279.7102
-16,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,38279.7102
-17,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.0
-18,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2014,4,2014,9,none,area,716.97127537
-19,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2014,4,2014,9,none,production,811.2470681
-20,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2014,4,2014,9,none,yield,1.1314917291231061
-21,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2015,4,2015,9,none,area,926.48102664
-22,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2015,4,2015,9,none,production,1019.1291293
-23,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2015,4,2015,9,none,yield,1.0999999999956827
-24,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2016,4,2016,9,none,area,1019.1291293
-25,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2016,4,2016,9,none,production,1121.04204223
-26,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2016,4,2016,9,none,yield,1.1
-27,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2014,4,2014,9,none,area,35451.24064733
-28,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2014,4,2014,9,none,production,113605.202703
-29,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2014,4,2014,9,none,yield,3.204548010975073
-30,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2015,4,2015,9,none,area,15546.84615888
-31,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2015,4,2015,9,none,production,49749.90770841
-32,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2015,4,2015,9,none,yield,3.199999999999614
-33,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2016,4,2016,9,none,area,17368.9365287
-34,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2016,4,2016,9,none,production,55580.59689184
-35,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2016,4,2016,9,none,yield,3.2
-36,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2014,4,2014,9,none,area,19777.27371449
-37,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2014,4,2014,9,none,production,20161.06429778
-38,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2014,4,2014,9,none,yield,1.0194056364305064
-39,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2015,4,2015,9,none,area,24157.69880857
-40,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2015,4,2015,9,none,production,24157.69880857
-41,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2015,4,2015,9,none,yield,1.0
-42,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2016,4,2016,9,none,area,25365.583749
-43,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2016,4,2016,9,none,production,27902.1421239
-44,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2016,4,2016,9,none,yield,1.1
-45,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2014,4,2014,9,none,area,554.51204556
-46,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2014,4,2014,9,none,production,647.68142051
-47,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2014,4,2014,9,none,yield,1.1680204707832964
-48,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2015,4,2015,9,none,area,922.68900779
-49,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2015,4,2015,9,none,production,830.42010702
-50,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2015,4,2015,9,none,yield,0.9000000000097541
-51,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2016,4,2016,9,none,area,1411.71418193
-52,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2016,4,2016,9,none,production,1270.54276373
-53,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2016,4,2016,9,none,yield,0.8999999999950414
-54,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,3216.77196094
-55,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,2722.2157271
-56,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.84625698064855
-57,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,3550.22301076
-58,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,2840.17840861
-59,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.8000000000005634
-60,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,5360.83674625
-61,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,4288.669397
-62,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.7999999999999999
-63,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2014,4,2014,9,none,area,340.07027959
-64,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2014,4,2014,9,none,production,384.14191387
-65,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2014,4,2014,9,none,yield,1.1295956657345483
-66,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2015,4,2015,9,none,area,453.98589821
-67,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2015,4,2015,9,none,production,499.38448803
-68,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2015,4,2015,9,none,yield,1.0999999999977972
-69,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2016,4,2016,9,none,area,653.73969342
-70,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2016,4,2016,9,none,production,719.11366276
-71,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2016,4,2016,9,none,yield,1.0999999999969408
-72,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2014,4,2014,9,none,area,8935.90496319
-73,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2014,4,2014,9,none,production,29914.62763505
-74,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2014,4,2014,9,none,yield,3.3476886513764885
-75,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2015,4,2015,9,none,area,11525.93005939
-76,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2015,4,2015,9,none,production,39188.16220192
-77,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2015,4,2015,9,none,yield,3.3999999999994794
-78,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2016,4,2016,9,none,area,20055.11830333
-79,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2016,4,2016,9,none,production,68187.40223134
-80,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2016,4,2016,9,none,yield,3.400000000000898
-81,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2014,4,2014,9,none,area,8433.2575135
-82,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2014,4,2014,9,none,production,10214.34191427
-83,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2014,4,2014,9,none,yield,1.2111976775188984
-84,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2015,4,2015,9,none,area,9921.74357818
-85,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2015,4,2015,9,none,production,11906.09229382
-86,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2015,4,2015,9,none,yield,1.2000000000004032
-87,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2016,4,2016,9,none,area,15974.00716088
-88,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2016,4,2016,9,none,production,19168.80859305
-89,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2016,4,2016,9,none,yield,1.1999999999996243
-90,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2014,4,2014,9,none,area,841.20657124
-91,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2014,4,2014,9,none,production,677.76931046
-92,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2014,4,2014,9,none,yield,0.8057109081553161
-93,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2015,4,2015,9,none,area,821.79528894
-94,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2015,4,2015,9,none,production,657.43623115
-95,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2015,4,2015,9,none,yield,0.7999999999975663
-96,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2016,4,2016,9,none,area,1109.42364007
-97,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2016,4,2016,9,none,production,887.53891205
-98,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2016,4,2016,9,none,yield,0.7999999999945918
-99,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,3003.31168885
-100,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,4048.36647879
-101,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.3479674766424803
-102,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,2304.45476485
-103,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,2995.7911943
-104,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.2999999999978302
-105,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,3641.03852846
-106,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,4733.350087
-107,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.3000000000005492
-108,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2014,4,2014,9,none,area,7545.26981763
-109,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2014,4,2014,9,none,production,30127.06204692
-110,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2014,4,2014,9,none,yield,3.992840915579482
-111,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2015,4,2015,9,none,area,5799.45944403
-112,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2015,4,2015,9,none,production,23197.83777613
-113,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2015,4,2015,9,none,yield,4.000000000001725
-114,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2016,4,2016,9,none,area,8699.18916605
-115,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2016,4,2016,9,none,production,34796.75666419
-116,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2016,4,2016,9,none,yield,3.99999999999885
-117,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2014,4,2014,9,none,area,2572.0267375
-118,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2014,4,2014,9,none,production,1557.38061735
-119,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2014,4,2014,9,none,yield,0.6055071646975831
-120,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2015,4,2015,9,none,area,1505.46793011
-121,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2015,4,2015,9,none,production,903.28075806
-122,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2015,4,2015,9,none,yield,0.5999999999960146
-123,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2016,4,2016,9,none,area,1430.1945336
-124,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2016,4,2016,9,none,production,858.11672016
-125,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2016,4,2016,9,none,yield,0.6
-126,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2014,4,2014,9,none,area,3384.88310363
-127,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2014,4,2014,9,none,production,2725.32940025
-128,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2014,4,2014,9,none,yield,0.8051472729818396
-129,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2015,4,2015,9,none,area,3781.39454285
-130,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2015,4,2015,9,none,production,3025.11563428
-131,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2015,4,2015,9,none,yield,0.7999999999999999
-132,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2016,4,2016,9,none,area,3781.39454285
-133,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2016,4,2016,9,none,production,3025.11563428
-134,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2016,4,2016,9,none,yield,0.7999999999999999
-135,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,2422.40239119
-136,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,2278.3158939
-137,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.940519173109296
-138,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,2832.07322923
-139,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,2548.8659063
-140,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.8999999999975283
-141,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,2832.07322923
-142,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,2548.8659063
-143,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.8999999999975283
-144,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2014,4,2014,9,none,area,31.91995404
-145,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2014,4,2014,9,none,production,22.7452449
-146,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2014,4,2014,9,none,yield,0.712571354942966
-147,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2015,4,2015,9,none,area,40.81959129
-148,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2015,4,2015,9,none,production,28.57371391
-149,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2015,4,2015,9,none,yield,0.7000000001714862
-150,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2016,4,2016,9,none,area,40.81959129
-151,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2016,4,2016,9,none,production,28.57371391
-152,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2016,4,2016,9,none,yield,0.7000000001714862
-153,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2014,4,2014,9,none,area,9850.76892858
-154,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2014,4,2014,9,none,production,19160.94020997
-155,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2014,4,2014,9,none,yield,1.9451212741757073
-156,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2015,4,2015,9,none,area,13444.59304733
-157,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2015,4,2015,9,none,production,26889.18609466
-158,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2015,4,2015,9,none,yield,2.0
-159,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2016,4,2016,9,none,area,13444.59304733
-160,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2016,4,2016,9,none,production,26889.18609466
-161,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2016,4,2016,9,none,yield,2.0
-162,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2014,4,2014,9,none,area,2569.69065508
-163,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2014,4,2014,9,none,production,1037.46778446
-164,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2014,4,2014,9,none,yield,0.4037325591736261
-165,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2015,4,2015,9,none,area,3107.82628962
-166,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2015,4,2015,9,none,production,1243.13051585
-167,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2015,4,2015,9,none,yield,0.4000000000006435
-168,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2016,4,2016,9,none,area,3107.82628962
-169,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2016,4,2016,9,none,production,1243.13051585
-170,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2016,4,2016,9,none,yield,0.4000000000006435
-171,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2014,4,2014,9,none,area,2706.49070747
-172,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2014,4,2014,9,none,production,3347.67365028
-173,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2014,4,2014,9,none,yield,1.236905650937694
-174,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2015,4,2015,9,none,area,3776.86257981
-175,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2015,4,2015,9,none,production,4909.92135375
-176,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2015,4,2015,9,none,yield,1.2999999999992056
-177,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2016,4,2016,9,none,area,4230.08608938
-178,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2016,4,2016,9,none,production,5499.1119162
-179,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2016,4,2016,9,none,yield,1.3000000000014185
-180,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,15370.2015816
-181,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,14181.48992118
-182,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.9226612836462059
-183,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,15393.58307684
-184,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,13854.22476915
-185,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.8999999999996102
-186,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,19703.78633835
-187,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,17733.40770451
-188,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.8999999999997461
-189,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2014,4,2014,9,none,area,169.42129452
-190,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2014,4,2014,9,none,production,219.8707007
-191,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2014,4,2014,9,none,yield,1.297774883156996
-192,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2015,4,2015,9,none,area,236.78383152
-193,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2015,4,2015,9,none,production,307.81898098
-194,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2015,4,2015,9,none,yield,1.300000000016893
-195,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2016,4,2016,9,none,area,243.88734647
-196,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2016,4,2016,9,none,production,317.05355041
-197,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2016,4,2016,9,none,yield,1.2999999999958998
-198,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2014,4,2014,9,none,area,25189.67369534
-199,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2014,4,2014,9,none,production,25320.46525311
-200,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2014,4,2014,9,none,yield,1.0051922688380912
-201,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2015,4,2015,9,none,area,33376.97692455
-202,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2015,4,2015,9,none,production,36714.67461701
-203,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2015,4,2015,9,none,yield,1.10000000000015
-204,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2016,4,2016,9,none,area,57408.40031023
-205,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2016,4,2016,9,none,production,63149.24034126
-206,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2016,4,2016,9,none,yield,1.100000000000122
-207,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2014,4,2014,9,none,area,1315.21439892
-208,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2014,4,2014,9,none,production,1658.76951447
-209,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2014,4,2014,9,none,yield,1.2612160540761366
-210,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2015,4,2015,9,none,area,1648.7163659
-211,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2015,4,2015,9,none,production,1813.58800249
-212,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2015,4,2015,9,none,yield,1.1
-213,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2016,4,2016,9,none,area,1797.10083883
-214,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2016,4,2016,9,none,production,1976.81092271
-215,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2016,4,2016,9,none,yield,1.0999999999983308
-216,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2014,4,2014,9,none,area,4021.98204959
-217,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2014,4,2014,9,none,production,4638.28577184
-218,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2014,4,2014,9,none,yield,1.1532338321382678
-219,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2015,4,2015,9,none,area,5232.93779387
-220,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2015,4,2015,9,none,production,6802.81913204
-221,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2015,4,2015,9,none,yield,1.30000000000172
-222,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2016,4,2016,9,none,area,5756.23157326
-223,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2016,4,2016,9,none,production,7483.10104524
-224,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2016,4,2016,9,none,yield,1.3000000000003473
-225,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,7028.25910779
-226,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,7753.82033643
-227,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.103234843438797
-228,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,6886.26001907
-229,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,7574.88602098
-230,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.1000000000004355
-231,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,8056.92422231
-232,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,8862.61664454
-233,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.0999999999998757
-234,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2014,4,2014,9,none,area,212.39046342
-235,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2014,4,2014,9,none,production,343.70592293
-236,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2014,4,2014,9,none,yield,1.6182738028605597
-237,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2015,4,2015,9,none,area,300.74268257
-238,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2015,4,2015,9,none,production,481.18829211
-239,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2015,4,2015,9,none,yield,1.5999999999933499
-240,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2016,4,2016,9,none,area,231.57186558
-241,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2016,4,2016,9,none,production,370.51498492
-242,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2016,4,2016,9,none,yield,1.5999999999654535
-243,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2014,4,2014,9,none,area,23326.41123204
-244,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2014,4,2014,9,none,production,39871.14956509
-245,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2014,4,2014,9,none,yield,1.709270627550498
-246,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2015,4,2015,9,none,area,34007.74521728
-247,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2015,4,2015,9,none,production,57813.16686938
-248,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2015,4,2015,9,none,yield,1.7000000000001179
-249,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2016,4,2016,9,none,area,54072.31489548
-250,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2016,4,2016,9,none,production,91922.93532231
-251,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2016,4,2016,9,none,yield,1.6999999999998892
-252,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2014,4,2014,9,none,area,11283.27805823
-253,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2014,4,2014,9,none,production,5312.3066327
-254,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2014,4,2014,9,none,yield,0.4708123477312707
-255,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2015,4,2015,9,none,area,11616.24383683
-256,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2015,4,2015,9,none,production,5808.12191842
-257,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2015,4,2015,9,none,yield,0.5000000000004304
-258,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2016,4,2016,9,none,area,12080.89359031
-259,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2016,4,2016,9,none,production,6040.44679515
-260,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2016,4,2016,9,none,yield,0.49999999999958616
-261,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2014,4,2014,9,none,area,1090.14708531
-262,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2014,4,2014,9,none,production,508.32698285
-263,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2014,4,2014,9,none,yield,0.46629210837677876
-264,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2015,4,2015,9,none,area,2575.52337976
-265,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2015,4,2015,9,none,production,772.65701393
-266,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2015,4,2015,9,none,yield,0.30000000000077653
-267,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2016,4,2016,9,none,area,2575.52337976
-268,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2016,4,2016,9,none,production,772.65701393
-269,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2016,4,2016,9,none,yield,0.30000000000077653
-270,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,5271.72532655
-271,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,5410.02921713
-272,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.02623503350667
-273,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,4405.30950538
-274,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,4405.30950538
-275,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.0
-276,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,4405.30950538
-277,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,4405.30950538
-278,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.0
-279,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2014,4,2014,9,none,area,671.54672539
-280,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2014,4,2014,9,none,production,950.24578693
-281,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2014,4,2014,9,none,yield,1.4150106775937978
-282,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2015,4,2015,9,none,area,736.92530415
-283,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2015,4,2015,9,none,production,1031.69542581
-284,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2015,4,2015,9,none,yield,1.4
-285,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2016,4,2016,9,none,area,736.92530415
-286,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2016,4,2016,9,none,production,1031.69542581
-287,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2016,4,2016,9,none,yield,1.4
-288,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2014,4,2014,9,none,area,9776.36418454
-289,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2014,4,2014,9,none,production,52836.08609554
-290,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2014,4,2014,9,none,yield,5.404471958920387
-291,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2015,4,2015,9,none,area,12603.75638667
-292,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2015,4,2015,9,none,production,66799.90884936
-293,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2015,4,2015,9,none,yield,5.300000000000714
-294,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2016,4,2016,9,none,area,12603.75638667
-295,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2016,4,2016,9,none,production,66799.90884936
-296,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2016,4,2016,9,none,yield,5.300000000000714
-297,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2014,4,2014,9,none,area,6884.43487321
-298,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2014,4,2014,9,none,production,6653.94110851
-299,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2014,4,2014,9,none,yield,0.9665195809176814
-300,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2015,4,2015,9,none,area,6381.7344268
-301,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2015,4,2015,9,none,production,6381.7344268
-302,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2015,4,2015,9,none,yield,1.0
-303,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2016,4,2016,9,none,area,6381.7344268
-304,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2016,4,2016,9,none,production,6381.7344268
-305,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2016,4,2016,9,none,yield,1.0
-306,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2014,4,2014,9,none,area,646.53744886
-307,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2014,4,2014,9,none,production,258.12242431
-308,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2014,4,2014,9,none,yield,0.3992381644174386
-309,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2015,4,2015,9,none,area,1307.82028318
-310,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2015,4,2015,9,none,production,392.34608495
-311,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2015,4,2015,9,none,yield,0.2999999999969415
-312,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2016,4,2016,9,none,area,1503.99332566
-313,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2016,4,2016,9,none,production,451.1979977
-314,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2016,4,2016,9,none,yield,0.30000000000132976
-315,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,3072.34113008
-316,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,2601.25302256
-317,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.846668033406911
-318,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,2647.70396939
-319,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,2118.16317551
-320,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.7999999999992446
-321,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,2991.90548541
-322,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,2393.52438833
-323,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.8000000000006685
-324,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2014,4,2014,9,none,area,209.93508234
-325,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2014,4,2014,9,none,production,276.73381295
-326,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2014,4,2014,9,none,yield,1.3181875552453697
-327,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2015,4,2015,9,none,area,231.11834928
-328,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2015,4,2015,9,none,production,300.45385406
-329,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2015,4,2015,9,none,yield,1.299999999982693
-330,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2016,4,2016,9,none,area,300.45385406
-331,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2016,4,2016,9,none,production,390.59001028
-332,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2016,4,2016,9,none,yield,1.3000000000066565
-333,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2014,4,2014,9,none,area,4159.32998697
-334,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2014,4,2014,9,none,production,14636.51639758
-335,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2014,4,2014,9,none,yield,3.5189601314231016
-336,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2015,4,2015,9,none,area,5442.57017305
-337,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2015,4,2015,9,none,production,18504.73858837
-338,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2015,4,2015,9,none,yield,3.4
-339,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2016,4,2016,9,none,area,7238.61833016
-340,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2016,4,2016,9,none,production,24611.30232253
-341,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2016,4,2016,9,none,yield,3.3999999999980655
-342,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2014,4,2014,9,none,area,4217.79679796
-343,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2014,4,2014,9,none,production,2508.78573333
-344,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2014,4,2014,9,none,yield,0.5948095305452864
-345,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2015,4,2015,9,none,area,4010.25598282
+1,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2015,4,2015,9,none,area,9490.68194552
+2,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2016,4,2016,9,none,area,11591.91892826
+3,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,28920.14989776
+4,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,33134.0152496
+5,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,38279.7102
+6,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2014,4,2014,9,none,area,716.97127537
+7,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2015,4,2015,9,none,area,926.48102664
+8,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2016,4,2016,9,none,area,1019.1291293
+9,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2014,4,2014,9,none,area,35451.24064733
+10,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2015,4,2015,9,none,area,15546.84615888
+11,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2016,4,2016,9,none,area,17368.9365287
+12,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2014,4,2014,9,none,area,19777.27371449
+13,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2015,4,2015,9,none,area,24157.69880857
+14,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2016,4,2016,9,none,area,25365.583749
+15,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2014,4,2014,9,none,area,554.51204556
+16,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2015,4,2015,9,none,area,922.68900779
+17,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2016,4,2016,9,none,area,1411.71418193
+18,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,3216.77196094
+19,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,3550.22301076
+20,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,5360.83674625
+21,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2014,4,2014,9,none,area,340.07027959
+22,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2015,4,2015,9,none,area,453.98589821
+23,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2016,4,2016,9,none,area,653.73969342
+24,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2014,4,2014,9,none,area,8935.90496319
+25,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2015,4,2015,9,none,area,11525.93005939
+26,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2016,4,2016,9,none,area,20055.11830333
+27,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2014,4,2014,9,none,area,8433.2575135
+28,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2015,4,2015,9,none,area,9921.74357818
+29,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2016,4,2016,9,none,area,15974.00716088
+30,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2014,4,2014,9,none,area,841.20657124
+31,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2015,4,2015,9,none,area,821.79528894
+32,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2016,4,2016,9,none,area,1109.42364007
+33,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,3003.31168885
+34,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,2304.45476485
+35,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,3641.03852846
+36,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2014,4,2014,9,none,area,7545.26981763
+37,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2015,4,2015,9,none,area,5799.45944403
+38,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2016,4,2016,9,none,area,8699.18916605
+39,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2014,4,2014,9,none,area,2572.0267375
+40,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2015,4,2015,9,none,area,1505.46793011
+41,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2016,4,2016,9,none,area,1430.1945336
+42,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2014,4,2014,9,none,area,3384.88310363
+43,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2015,4,2015,9,none,area,3781.39454285
+44,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2016,4,2016,9,none,area,3781.39454285
+45,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,2422.40239119
+46,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,2832.07322923
+47,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,2832.07322923
+48,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2014,4,2014,9,none,area,31.91995404
+49,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2015,4,2015,9,none,area,40.81959129
+50,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2016,4,2016,9,none,area,40.81959129
+51,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2014,4,2014,9,none,area,9850.76892858
+52,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2015,4,2015,9,none,area,13444.59304733
+53,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2016,4,2016,9,none,area,13444.59304733
+54,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2014,4,2014,9,none,area,2569.69065508
+55,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2015,4,2015,9,none,area,3107.82628962
+56,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2016,4,2016,9,none,area,3107.82628962
+57,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,1560.06537161
+58,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,1345.84880679
+59,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,2112.98262665
+60,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2014,4,2014,9,none,area,2683.81055597
+61,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2015,4,2015,9,none,area,2192.97632648
+62,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2016,4,2016,9,none,area,3223.67519992
+63,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2014,4,2014,9,none,area,2558.01024301
+64,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2015,4,2015,9,none,area,1438.47603037
+65,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2016,4,2016,9,none,area,1654.24743492
+66,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2014,4,2014,9,none,area,2706.49070747
+67,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2015,4,2015,9,none,area,3776.86257981
+68,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2016,4,2016,9,none,area,4230.08608938
+69,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,15370.2015816
+70,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,15393.58307684
+71,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,19703.78633835
+72,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2014,4,2014,9,none,area,169.42129452
+73,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2015,4,2015,9,none,area,236.78383152
+74,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2016,4,2016,9,none,area,243.88734647
+75,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2014,4,2014,9,none,area,25189.67369534
+76,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2015,4,2015,9,none,area,33376.97692455
+77,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2016,4,2016,9,none,area,57408.40031023
+78,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2014,4,2014,9,none,area,1315.21439892
+79,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2015,4,2015,9,none,area,1648.7163659
+80,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2016,4,2016,9,none,area,1797.10083883
+81,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2014,4,2014,9,none,area,4021.98204959
+82,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2015,4,2015,9,none,area,5232.93779387
+83,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2016,4,2016,9,none,area,5756.23157326
+84,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,7028.25910779
+85,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,6886.26001907
+86,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,8056.92422231
+87,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2014,4,2014,9,none,area,212.39046342
+88,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2015,4,2015,9,none,area,300.74268257
+89,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2016,4,2016,9,none,area,231.57186558
+90,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2014,4,2014,9,none,area,23326.41123204
+91,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2015,4,2015,9,none,area,34007.74521728
+92,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2016,4,2016,9,none,area,54072.31489548
+93,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2014,4,2014,9,none,area,11283.27805823
+94,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2015,4,2015,9,none,area,11616.24383683
+95,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2016,4,2016,9,none,area,12080.89359031
+96,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2014,4,2014,9,none,area,1090.14708531
+97,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2015,4,2015,9,none,area,2575.52337976
+98,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2016,4,2016,9,none,area,2575.52337976
+99,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,5271.72532655
+100,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,4405.30950538
+101,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,4405.30950538
+102,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2014,4,2014,9,none,area,671.54672539
+103,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2015,4,2015,9,none,area,736.92530415
+104,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2016,4,2016,9,none,area,736.92530415
+105,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2014,4,2014,9,none,area,9776.36418454
+106,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2015,4,2015,9,none,area,12603.75638667
+107,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2016,4,2016,9,none,area,12603.75638667
+108,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2014,4,2014,9,none,area,6884.43487321
+109,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2015,4,2015,9,none,area,6381.7344268
+110,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2016,4,2016,9,none,area,6381.7344268
+111,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2014,4,2014,9,none,area,646.53744886
+112,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2015,4,2015,9,none,area,1307.82028318
+113,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2016,4,2016,9,none,area,1503.99332566
+114,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,3072.34113008
+115,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,2647.70396939
+116,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,2991.90548541
+117,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2014,4,2014,9,none,area,209.93508234
+118,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2015,4,2015,9,none,area,231.11834928
+119,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2016,4,2016,9,none,area,300.45385406
+120,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2014,4,2014,9,none,area,4159.32998697
+121,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2015,4,2015,9,none,area,5442.57017305
+122,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2016,4,2016,9,none,area,7238.61833016
+123,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2014,4,2014,9,none,area,4217.79679796
+124,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2015,4,2015,9,none,area,4010.25598282
+125,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2016,4,2016,9,none,area,3889.94830334
+126,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2014,4,2014,9,none,area,2876.38375972
+127,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2015,4,2015,9,none,area,3387.94165337
+128,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2016,4,2016,9,none,area,3387.94165337
+129,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,7631.47022493
+130,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,4397.15152481
+131,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,4397.15152481
+132,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2014,4,2014,9,none,area,1561.62236691
+133,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2015,4,2015,9,none,area,473.46022937
+134,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2016,4,2016,9,none,area,473.46022937
+135,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2014,4,2014,9,none,area,13036.54951825
+136,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2015,4,2015,9,none,area,10894.38051873
+137,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2016,4,2016,9,none,area,10894.38051873
+138,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2014,4,2014,9,none,area,7644.82969887
+139,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2015,4,2015,9,none,area,5087.84475125
+140,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2016,4,2016,9,none,area,5087.84475125
+141,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2014,4,2014,9,none,area,162.81417508
+142,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2015,4,2015,9,none,area,315.92284448
+143,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2016,4,2016,9,none,area,315.92284448
+144,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,989.77598798
+145,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,1459.44753017
+146,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,1459.44753017
+147,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2014,4,2014,9,none,area,1196.76362941
+148,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2015,4,2015,9,none,area,1484.6555941
+149,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2016,4,2016,9,none,area,1484.6555941
+150,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2014,4,2014,9,none,area,242.95257103
+151,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2015,4,2015,9,none,area,344.20014791
+152,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2016,4,2016,9,none,area,344.20014791
+153,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2014,4,2014,9,none,area,1676.51407817
+154,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2015,4,2015,9,none,area,4677.87510073
+155,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2016,4,2016,9,none,area,4677.87510073
+156,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,4155.57236156
+157,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,6121.74861637
+158,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,6121.74861637
+159,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2014,4,2014,9,none,area,845.87878208
+160,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2015,4,2015,9,none,area,884.66817708
+161,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2016,4,2016,9,none,area,884.66817708
+162,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2014,4,2014,9,none,area,3989.0
+163,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2015,4,2015,9,none,area,5324.39928643
+164,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2016,4,2016,9,none,area,5324.39928643
+165,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2014,4,2014,9,none,area,3609.24732919
+166,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2015,4,2015,9,none,area,4638.6599372
+167,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2016,4,2016,9,none,area,4638.6599372
+168,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,522.49977048
+169,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,769.55584833
+170,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,808.03364075
+171,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2014,4,2014,9,none,area,797.49310156
+172,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2015,4,2015,9,none,area,979.23892072
+173,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2016,4,2016,9,none,area,1204.46387249
+174,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2014,4,2014,9,none,area,623.73400446
+175,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2015,4,2015,9,none,area,844.4162507
+176,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2016,4,2016,9,none,area,616.42386301
+177,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2014,4,2014,9,none,area,2546.03615811
+178,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2015,4,2015,9,none,area,3141.54961005
+179,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2016,4,2016,9,none,area,3141.54961005
+180,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,7276.76509619
+181,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,6097.83664291
+182,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,6097.83664291
+183,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2014,4,2014,9,none,area,1332.04423592
+184,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2015,4,2015,9,none,area,1035.45575079
+185,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2016,4,2016,9,none,area,1035.45575079
+186,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2014,4,2014,9,none,area,10026.82522432
+187,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2015,4,2015,9,none,area,12300.06568825
+188,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2016,4,2016,9,none,area,12300.06568825
+189,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2014,4,2014,9,none,area,10577.78116929
+190,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2015,4,2015,9,none,area,8830.01219029
+191,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2016,4,2016,9,none,area,8830.01219029
+192,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2014,4,2014,9,none,area,517.93784681
+193,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2015,4,2015,9,none,area,537.76070627
+194,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2016,4,2016,9,none,area,591.5367769
+195,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,6189.28589909
+196,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,4624.87067905
+197,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,5919.83446918
+198,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2014,4,2014,9,none,area,1988.85867484
+199,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2015,4,2015,9,none,area,1536.92794154
+200,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2016,4,2016,9,none,area,1828.94425044
+201,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2014,4,2014,9,none,area,8793.38319997
+202,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2015,4,2015,9,none,area,11288.67340981
+203,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2016,4,2016,9,none,area,13659.29482587
+204,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2014,4,2014,9,none,area,5819.18129256
+205,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2015,4,2015,9,none,area,6064.5186709
+206,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2016,4,2016,9,none,area,6731.61572469
+207,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2014,4,2014,9,none,area,120.34091201
+208,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2015,4,2015,9,none,area,332.55036261
+209,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2016,4,2016,9,none,area,332.55036261
+210,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,569.22739223
+211,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,864.35620646
+212,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,864.35620646
+213,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2014,4,2014,9,none,area,189.06434316
+214,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2015,4,2015,9,none,area,197.4233102
+215,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2016,4,2016,9,none,area,197.4233102
+216,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2014,4,2014,9,none,area,709.46495369
+217,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2015,4,2015,9,none,area,878.88990227
+218,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2016,4,2016,9,none,area,878.88990227
+219,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2014,4,2014,9,none,area,384.28555706
+220,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2015,4,2015,9,none,area,519.07838788
+221,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2016,4,2016,9,none,area,519.07838788
+222,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2014,4,2014,9,none,production,11970.22948083
+223,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2015,4,2015,9,none,production,13286.95472373
+224,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2016,4,2016,9,none,production,16228.68649956
+225,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,29616.99687115
+226,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,33134.0152496
+227,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,38279.7102
+228,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2014,4,2014,9,none,production,811.2470681
+229,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2015,4,2015,9,none,production,1019.1291293
+230,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2016,4,2016,9,none,production,1121.04204223
+231,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2014,4,2014,9,none,production,113605.202703
+232,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2015,4,2015,9,none,production,49749.90770841
+233,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2016,4,2016,9,none,production,55580.59689184
+234,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2014,4,2014,9,none,production,20161.06429778
+235,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2015,4,2015,9,none,production,24157.69880857
+236,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2016,4,2016,9,none,production,27902.1421239
+237,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2014,4,2014,9,none,production,647.68142051
+238,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2015,4,2015,9,none,production,830.42010702
+239,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2016,4,2016,9,none,production,1270.54276373
+240,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,2722.2157271
+241,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,2840.17840861
+242,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,4288.669397
+243,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2014,4,2014,9,none,production,384.14191387
+244,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2015,4,2015,9,none,production,499.38448803
+245,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2016,4,2016,9,none,production,719.11366276
+246,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2014,4,2014,9,none,production,29914.62763505
+247,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2015,4,2015,9,none,production,39188.16220192
+248,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2016,4,2016,9,none,production,68187.40223134
+249,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2014,4,2014,9,none,production,10214.34191427
+250,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2015,4,2015,9,none,production,11906.09229382
+251,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2016,4,2016,9,none,production,19168.80859305
+252,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2014,4,2014,9,none,production,677.76931046
+253,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2015,4,2015,9,none,production,657.43623115
+254,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2016,4,2016,9,none,production,887.53891205
+255,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,4048.36647879
+256,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,2995.7911943
+257,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,4733.350087
+258,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2014,4,2014,9,none,production,30127.06204692
+259,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2015,4,2015,9,none,production,23197.83777613
+260,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2016,4,2016,9,none,production,34796.75666419
+261,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2014,4,2014,9,none,production,1557.38061735
+262,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2015,4,2015,9,none,production,903.28075806
+263,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2016,4,2016,9,none,production,858.11672016
+264,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2014,4,2014,9,none,production,2725.32940025
+265,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2015,4,2015,9,none,production,3025.11563428
+266,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2016,4,2016,9,none,production,3025.11563428
+267,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,2278.3158939
+268,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,2548.8659063
+269,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,2548.8659063
+270,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2014,4,2014,9,none,production,22.7452449
+271,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2015,4,2015,9,none,production,28.57371391
+272,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2016,4,2016,9,none,production,28.57371391
+273,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2014,4,2014,9,none,production,19160.94020997
+274,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2015,4,2015,9,none,production,26889.18609466
+275,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2016,4,2016,9,none,production,26889.18609466
+276,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2014,4,2014,9,none,production,1037.46778446
+277,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2015,4,2015,9,none,production,1243.13051585
+278,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2016,4,2016,9,none,production,1243.13051585
+279,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,1305.06550961
+280,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,1076.67904543
+281,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,1690.38610132
+282,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2014,4,2014,9,none,production,18954.94320452
+283,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2015,4,2015,9,none,production,15570.131918
+284,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2016,4,2016,9,none,production,22888.09391946
+285,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2014,4,2014,9,none,production,2065.50404361
+286,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2015,4,2015,9,none,production,1150.78082429
+287,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2016,4,2016,9,none,production,1323.39794794
+288,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2014,4,2014,9,none,production,3347.67365028
+289,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2015,4,2015,9,none,production,4909.92135375
+290,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2016,4,2016,9,none,production,5499.1119162
+291,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,14181.48992118
+292,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,13854.22476915
+293,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,17733.40770451
+294,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2014,4,2014,9,none,production,219.8707007
+295,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2015,4,2015,9,none,production,307.81898098
+296,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2016,4,2016,9,none,production,317.05355041
+297,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2014,4,2014,9,none,production,25320.46525311
+298,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2015,4,2015,9,none,production,36714.67461701
+299,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2016,4,2016,9,none,production,63149.24034126
+300,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2014,4,2014,9,none,production,1658.76951447
+301,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2015,4,2015,9,none,production,1813.58800249
+302,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2016,4,2016,9,none,production,1976.81092271
+303,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2014,4,2014,9,none,production,4638.28577184
+304,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2015,4,2015,9,none,production,6802.81913204
+305,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2016,4,2016,9,none,production,7483.10104524
+306,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,7753.82033643
+307,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,7574.88602098
+308,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,8862.61664454
+309,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2014,4,2014,9,none,production,343.70592293
+310,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2015,4,2015,9,none,production,481.18829211
+311,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2016,4,2016,9,none,production,370.51498492
+312,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2014,4,2014,9,none,production,39871.14956509
+313,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2015,4,2015,9,none,production,57813.16686938
+314,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2016,4,2016,9,none,production,91922.93532231
+315,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2014,4,2014,9,none,production,5312.3066327
+316,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2015,4,2015,9,none,production,5808.12191842
+317,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2016,4,2016,9,none,production,6040.44679515
+318,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2014,4,2014,9,none,production,508.32698285
+319,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2015,4,2015,9,none,production,772.65701393
+320,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2016,4,2016,9,none,production,772.65701393
+321,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,5410.02921713
+322,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,4405.30950538
+323,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,4405.30950538
+324,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2014,4,2014,9,none,production,950.24578693
+325,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2015,4,2015,9,none,production,1031.69542581
+326,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2016,4,2016,9,none,production,1031.69542581
+327,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2014,4,2014,9,none,production,52836.08609554
+328,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2015,4,2015,9,none,production,66799.90884936
+329,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2016,4,2016,9,none,production,66799.90884936
+330,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2014,4,2014,9,none,production,6653.94110851
+331,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2015,4,2015,9,none,production,6381.7344268
+332,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2016,4,2016,9,none,production,6381.7344268
+333,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2014,4,2014,9,none,production,258.12242431
+334,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2015,4,2015,9,none,production,392.34608495
+335,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2016,4,2016,9,none,production,451.1979977
+336,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,2601.25302256
+337,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,2118.16317551
+338,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,2393.52438833
+339,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2014,4,2014,9,none,production,276.73381295
+340,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2015,4,2015,9,none,production,300.45385406
+341,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2016,4,2016,9,none,production,390.59001028
+342,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2014,4,2014,9,none,production,14636.51639758
+343,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2015,4,2015,9,none,production,18504.73858837
+344,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2016,4,2016,9,none,production,24611.30232253
+345,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2014,4,2014,9,none,production,2508.78573333
 346,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2015,4,2015,9,none,production,2406.15358969
-347,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2015,4,2015,9,none,yield,0.5999999999995013
-348,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2016,4,2016,9,none,area,3889.94830334
-349,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2016,4,2016,9,none,production,2333.968982
-350,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2016,4,2016,9,none,yield,0.5999999999989717
-351,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2014,4,2014,9,none,area,2876.38375972
-352,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2014,4,2014,9,none,production,1482.22447335
-353,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2014,4,2014,9,none,yield,0.515308316681042
-354,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2015,4,2015,9,none,area,3387.94165337
-355,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2015,4,2015,9,none,production,2371.55915736
-356,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2015,4,2015,9,none,yield,0.7000000000002952
-357,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2016,4,2016,9,none,area,3387.94165337
-358,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2016,4,2016,9,none,production,2371.55915736
-359,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2016,4,2016,9,none,yield,0.7000000000002952
-360,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,7631.47022493
-361,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,9593.78514505
-362,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.2571345838066217
-363,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,4397.15152481
-364,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,5276.58182978
-365,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.2000000000018192
-366,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,4397.15152481
-367,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,5276.58182978
-368,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.2000000000018192
-369,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2014,4,2014,9,none,area,1561.62236691
-370,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2014,4,2014,9,none,production,2998.58145265
-371,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2014,4,2014,9,none,yield,1.9201706610947993
-372,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2015,4,2015,9,none,area,473.46022937
-373,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2015,4,2015,9,none,production,899.57443579
-374,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2015,4,2015,9,none,yield,1.8999999999725428
-375,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2016,4,2016,9,none,area,473.46022937
-376,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2016,4,2016,9,none,production,899.57443579
-377,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2016,4,2016,9,none,yield,1.8999999999725428
-378,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2014,4,2014,9,none,area,13036.54951825
-379,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2014,4,2014,9,none,production,61280.89041788
-380,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2014,4,2014,9,none,yield,4.70069862674109
-381,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2015,4,2015,9,none,area,10894.38051873
-382,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2015,4,2015,9,none,production,49024.7123343
-383,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2015,4,2015,9,none,yield,4.500000000001377
-384,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2016,4,2016,9,none,area,10894.38051873
-385,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2016,4,2016,9,none,production,49024.7123343
-386,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2016,4,2016,9,none,yield,4.500000000001377
-387,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2014,4,2014,9,none,area,7644.82969887
-388,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2014,4,2014,9,none,production,6062.1128951
-389,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2014,4,2014,9,none,yield,0.7929689913165828
-390,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2015,4,2015,9,none,area,5087.84475125
-391,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2015,4,2015,9,none,production,4070.275801
-392,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2015,4,2015,9,none,yield,0.8
-393,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2016,4,2016,9,none,area,5087.84475125
-394,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2016,4,2016,9,none,production,4070.275801
-395,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2016,4,2016,9,none,yield,0.8
-396,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2014,4,2014,9,none,area,162.81417508
-397,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2014,4,2014,9,none,production,90.26366985
-398,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2014,4,2014,9,none,yield,0.5543968748768234
-399,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2015,4,2015,9,none,area,315.92284448
-400,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2015,4,2015,9,none,production,126.36913779
-401,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2015,4,2015,9,none,yield,0.39999999999366936
-402,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2016,4,2016,9,none,area,315.92284448
-403,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2016,4,2016,9,none,production,126.36913779
-404,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2016,4,2016,9,none,yield,0.39999999999366936
-405,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,989.77598798
-406,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,508.26530901
-407,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.5135154976302277
-408,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,1459.44753017
-409,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,729.72376509
-410,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.500000000003426
-411,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,1459.44753017
-412,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,729.72376509
-413,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.500000000003426
-414,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2014,4,2014,9,none,area,1196.76362941
-415,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2014,4,2014,9,none,production,2917.21800946
-416,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2014,4,2014,9,none,yield,2.4375891260149487
-417,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2015,4,2015,9,none,area,1484.6555941
-418,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2015,4,2015,9,none,production,3563.17342584
-419,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2015,4,2015,9,none,yield,2.4000000000000004
-420,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2016,4,2016,9,none,area,1484.6555941
-421,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2016,4,2016,9,none,production,3563.17342584
-422,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2016,4,2016,9,none,yield,2.4000000000000004
-423,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2014,4,2014,9,none,area,242.95257103
-424,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2014,4,2014,9,none,production,126.14665106
-425,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2014,4,2014,9,none,yield,0.5192233633305461
-426,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2015,4,2015,9,none,area,344.20014791
-427,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2015,4,2015,9,none,production,172.10007395
-428,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2015,4,2015,9,none,yield,0.49999999998547356
-429,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2016,4,2016,9,none,area,344.20014791
-430,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2016,4,2016,9,none,production,172.10007395
-431,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2016,4,2016,9,none,yield,0.49999999998547356
-432,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2014,4,2014,9,none,area,1676.51407817
-433,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2014,4,2014,9,none,production,334.13393577
-434,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2014,4,2014,9,none,yield,0.199302791500996
-435,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2015,4,2015,9,none,area,4677.87510073
-436,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2015,4,2015,9,none,production,467.78751007
-437,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2015,4,2015,9,none,yield,0.09999999999935869
-438,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2016,4,2016,9,none,area,4677.87510073
-439,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2016,4,2016,9,none,production,467.78751007
-440,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2016,4,2016,9,none,yield,0.09999999999935869
-441,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,4155.57236156
-442,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,3837.51405802
-443,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.923462215101315
-444,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,6121.74861637
-445,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,5509.57375473
-446,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.89999999999951
-447,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,6121.74861637
-448,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,5509.57375473
-449,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.89999999999951
-450,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2014,4,2014,9,none,area,845.87878208
-451,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2014,4,2014,9,none,production,1196.65260668
-452,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2014,4,2014,9,none,yield,1.4146856878682472
-453,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2015,4,2015,9,none,area,884.66817708
-454,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2015,4,2015,9,none,production,1238.53544792
-455,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2015,4,2015,9,none,yield,1.4000000000090431
-456,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2016,4,2016,9,none,area,884.66817708
-457,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2016,4,2016,9,none,production,1238.53544792
-458,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2016,4,2016,9,none,yield,1.4000000000090431
-459,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2014,4,2014,9,none,area,3989.0
-460,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2014,4,2014,9,none,production,11769.72473842
-461,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2014,4,2014,9,none,yield,2.9505451838606165
-462,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2015,4,2015,9,none,area,5324.39928643
-463,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2015,4,2015,9,none,production,14375.87807335
-464,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2015,4,2015,9,none,yield,2.6999999999979343
-465,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2016,4,2016,9,none,area,5324.39928643
-466,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2016,4,2016,9,none,production,14375.87807335
-467,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2016,4,2016,9,none,yield,2.6999999999979343
-468,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2014,4,2014,9,none,area,3609.24732919
-469,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2014,4,2014,9,none,production,1700.03243772
-470,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2014,4,2014,9,none,yield,0.471021319035381
-471,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2015,4,2015,9,none,area,4638.6599372
-472,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2015,4,2015,9,none,production,2319.3299686
-473,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2015,4,2015,9,none,yield,0.5
-474,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2016,4,2016,9,none,area,4638.6599372
-475,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2016,4,2016,9,none,production,2319.3299686
-476,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2016,4,2016,9,none,yield,0.5
-477,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2014,4,2014,9,none,area,2546.03615811
-478,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2014,4,2014,9,none,production,635.01283527
-479,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2014,4,2014,9,none,yield,0.24941233974516264
-480,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2015,4,2015,9,none,area,3141.54961005
-481,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2015,4,2015,9,none,production,628.30992201
-482,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2015,4,2015,9,none,yield,0.2
-483,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2016,4,2016,9,none,area,3141.54961005
-484,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2016,4,2016,9,none,production,628.30992201
-485,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2016,4,2016,9,none,yield,0.2
-486,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,7276.76509619
-487,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,11202.9220404
-488,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.539547022929966
-489,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,6097.83664291
-490,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,9146.75496437
-491,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.50000000000082
-492,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,6097.83664291
-493,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,9146.75496437
-494,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.50000000000082
-495,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2014,4,2014,9,none,area,1332.04423592
-496,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2014,4,2014,9,none,production,1750.12023258
-497,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2014,4,2014,9,none,yield,1.3138604450108584
-498,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2015,4,2015,9,none,area,1035.45575079
-499,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2015,4,2015,9,none,production,1346.09247603
-500,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2015,4,2015,9,none,yield,1.3000000000028973
-501,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2016,4,2016,9,none,area,1035.45575079
-502,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2016,4,2016,9,none,production,1346.09247603
-503,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2016,4,2016,9,none,yield,1.3000000000028973
-504,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2014,4,2014,9,none,area,10026.82522432
-505,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2014,4,2014,9,none,production,39065.40086148
-506,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2014,4,2014,9,none,yield,3.8960887407039984
-507,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2015,4,2015,9,none,area,12300.06568825
-508,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2015,4,2015,9,none,production,46740.24961535
-509,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2015,4,2015,9,none,yield,3.8000000000000003
-510,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2016,4,2016,9,none,area,12300.06568825
-511,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2016,4,2016,9,none,production,46740.24961535
-512,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2016,4,2016,9,none,yield,3.8000000000000003
-513,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2014,4,2014,9,none,area,10577.78116929
-514,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2014,4,2014,9,none,production,14680.1691501
-515,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2014,4,2014,9,none,yield,1.3878306721564897
-516,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2015,4,2015,9,none,area,8830.01219029
-517,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2015,4,2015,9,none,production,12362.0170664
-518,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2015,4,2015,9,none,yield,1.3999999999993207
-519,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2016,4,2016,9,none,area,8830.01219029
-520,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2016,4,2016,9,none,production,12362.0170664
-521,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2016,4,2016,9,none,yield,1.3999999999993207
-522,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2014,4,2014,9,none,area,517.93784681
-523,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2014,4,2014,9,none,production,172.60947393
-524,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2014,4,2014,9,none,yield,0.3332629098126516
-525,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2015,4,2015,9,none,area,537.76070627
-526,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2015,4,2015,9,none,production,161.32821188
-527,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2015,4,2015,9,none,yield,0.2999999999981404
-528,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2016,4,2016,9,none,area,591.5367769
-529,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2016,4,2016,9,none,production,177.46103307
-530,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2016,4,2016,9,none,yield,0.30000000000000004
-531,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,6189.28589909
-532,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,5716.32010204
-533,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.92358313951541
-534,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,4624.87067905
-535,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,4162.38361114
-536,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.8999999999989188
-537,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,5919.83446918
-538,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,5327.85102227
-539,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.9000000000013513
-540,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2014,4,2014,9,none,area,1988.85867484
-541,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2014,4,2014,9,none,production,3467.38622253
-542,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2014,4,2014,9,none,yield,1.7434050324410026
-543,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2015,4,2015,9,none,area,1536.92794154
-544,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2015,4,2015,9,none,production,2612.77750062
-545,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2015,4,2015,9,none,yield,1.7000000000013014
-546,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2016,4,2016,9,none,area,1828.94425044
-547,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2016,4,2016,9,none,production,3109.20522574
-548,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2016,4,2016,9,none,yield,1.6999999999956261
-549,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2014,4,2014,9,none,area,8793.38319997
-550,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2014,4,2014,9,none,production,24755.0463892
-551,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2014,4,2014,9,none,yield,2.815190220447172
-552,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2015,4,2015,9,none,area,11288.67340981
-553,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2015,4,2015,9,none,production,31608.28554747
-554,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2015,4,2015,9,none,yield,2.800000000000177
-555,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2016,4,2016,9,none,area,13659.29482587
-556,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2016,4,2016,9,none,production,38246.02551243
-557,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2016,4,2016,9,none,yield,2.799999999999561
-558,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2014,4,2014,9,none,area,5819.18129256
-559,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2014,4,2014,9,none,production,5190.87574429
-560,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2014,4,2014,9,none,yield,0.8920285317329247
-561,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2015,4,2015,9,none,area,6064.5186709
-562,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2015,4,2015,9,none,production,4851.61493672
-563,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2015,4,2015,9,none,yield,0.7999999999999999
-564,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2016,4,2016,9,none,area,6731.61572469
-565,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2016,4,2016,9,none,production,5385.29257976
-566,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2016,4,2016,9,none,yield,0.8000000000011884
-567,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2014,4,2014,9,none,area,120.34091201
-568,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2014,4,2014,9,none,production,23.75359733
-569,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2014,4,2014,9,none,yield,0.19738588426208822
-570,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2015,4,2015,9,none,area,332.55036261
-571,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2015,4,2015,9,none,production,33.25503626
-572,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2015,4,2015,9,none,yield,0.09999999999699294
-573,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2016,4,2016,9,none,area,332.55036261
-574,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2016,4,2016,9,none,production,33.25503626
-575,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2016,4,2016,9,none,yield,0.09999999999699294
-576,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,569.22739223
-577,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,481.63131902
-578,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.8461140935842275
-579,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,864.35620646
-580,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,691.48496517
-581,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.8000000000023139
-582,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,864.35620646
-583,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,691.48496517
-584,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.8000000000023139
-585,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2014,4,2014,9,none,area,189.06434316
-586,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2014,4,2014,9,none,production,400.56903518
-587,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2014,4,2014,9,none,yield,2.1186915971829197
-588,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2015,4,2015,9,none,area,197.4233102
-589,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2015,4,2015,9,none,production,414.58895141
-590,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2015,4,2015,9,none,yield,2.0999999999493473
-591,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2016,4,2016,9,none,area,197.4233102
-592,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2016,4,2016,9,none,production,414.58895141
-593,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2016,4,2016,9,none,yield,2.0999999999493473
-594,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2014,4,2014,9,none,area,709.46495369
-595,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2014,4,2014,9,none,production,2158.67695293
-596,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2014,4,2014,9,none,yield,3.0426829989310953
-597,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2015,4,2015,9,none,area,878.88990227
-598,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2015,4,2015,9,none,production,2636.6697068
-599,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2015,4,2015,9,none,yield,2.999999999988622
-600,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2016,4,2016,9,none,area,878.88990227
-601,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2016,4,2016,9,none,production,2636.6697068
-602,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2016,4,2016,9,none,yield,2.999999999988622
-603,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2014,4,2014,9,none,area,384.28555706
-604,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2014,4,2014,9,none,production,418.52393578
-605,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2014,4,2014,9,none,yield,1.0890961892555704
-606,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2015,4,2015,9,none,area,519.07838788
-607,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2015,4,2015,9,none,production,570.98622667
-608,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2015,4,2015,9,none,yield,1.1000000000038528
-609,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2016,4,2016,9,none,area,519.07838788
-610,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2016,4,2016,9,none,production,570.98622667
-611,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2016,4,2016,9,none,yield,1.1000000000038528
-612,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,1560.06537161
-613,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,1305.06550961
-614,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.8365453995451241
-615,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,1345.84880679
-616,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,1076.67904543
-617,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.799999999998514
-618,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,2112.98262665
-619,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,1690.38610132
-620,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.8
-621,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2014,4,2014,9,none,area,2683.81055597
-622,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2014,4,2014,9,none,production,18954.94320452
-623,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2014,4,2014,9,none,yield,7.062697910012945
-624,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2015,4,2015,9,none,area,2192.97632648
-625,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2015,4,2015,9,none,production,15570.131918
-626,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2015,4,2015,9,none,yield,7.099999999996352
-627,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2016,4,2016,9,none,area,3223.67519992
-628,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2016,4,2016,9,none,production,22888.09391946
-629,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2016,4,2016,9,none,yield,7.100000000008685
-630,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2014,4,2014,9,none,area,2558.01024301
-631,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2014,4,2014,9,none,production,2065.50404361
-632,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2014,4,2014,9,none,yield,0.8074651183489906
-633,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2015,4,2015,9,none,area,1438.47603037
-634,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2015,4,2015,9,none,production,1150.78082429
-635,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2015,4,2015,9,none,yield,0.7999999999958289
-636,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2016,4,2016,9,none,area,1654.24743492
-637,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2016,4,2016,9,none,production,1323.39794794
-638,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2016,4,2016,9,none,yield,0.800000000002418
-639,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2014,4,2014,9,none,area,522.49977048
-640,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,536.00904859
-641,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.0258550890799234
-642,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2015,4,2015,9,none,area,769.55584833
-643,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,769.55584833
-644,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.0
-645,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2016,4,2016,9,none,area,808.03364075
-646,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,808.03364075
-647,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.0
-648,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2014,4,2014,9,none,area,797.49310156
-649,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2014,4,2014,9,none,production,2324.97661879
-650,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2014,4,2014,9,none,yield,2.9153564015062248
-651,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2015,4,2015,9,none,area,979.23892072
-652,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2015,4,2015,9,none,production,2839.7928701
-653,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2015,4,2015,9,none,yield,2.9000000000122546
-654,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2016,4,2016,9,none,area,1204.46387249
-655,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2016,4,2016,9,none,production,3492.94523022
-656,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2016,4,2016,9,none,yield,2.89999999999917
-657,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2014,4,2014,9,none,area,623.73400446
-658,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2014,4,2014,9,none,production,247.57753947
-659,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2014,4,2014,9,none,yield,0.3969280778339817
-660,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2015,4,2015,9,none,area,844.4162507
-661,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2015,4,2015,9,none,production,337.76650028
-662,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2015,4,2015,9,none,yield,0.4
-663,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2016,4,2016,9,none,area,616.42386301
-664,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2016,4,2016,9,none,production,246.56954521
-665,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2016,4,2016,9,none,yield,0.40000000000973357
+347,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2016,4,2016,9,none,production,2333.968982
+348,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2014,4,2014,9,none,production,1482.22447335
+349,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2015,4,2015,9,none,production,2371.55915736
+350,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2016,4,2016,9,none,production,2371.55915736
+351,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,9593.78514505
+352,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,5276.58182978
+353,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,5276.58182978
+354,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2014,4,2014,9,none,production,2998.58145265
+355,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2015,4,2015,9,none,production,899.57443579
+356,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2016,4,2016,9,none,production,899.57443579
+357,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2014,4,2014,9,none,production,61280.89041788
+358,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2015,4,2015,9,none,production,49024.7123343
+359,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2016,4,2016,9,none,production,49024.7123343
+360,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2014,4,2014,9,none,production,6062.1128951
+361,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2015,4,2015,9,none,production,4070.275801
+362,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2016,4,2016,9,none,production,4070.275801
+363,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2014,4,2014,9,none,production,90.26366985
+364,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2015,4,2015,9,none,production,126.36913779
+365,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2016,4,2016,9,none,production,126.36913779
+366,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,508.26530901
+367,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,729.72376509
+368,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,729.72376509
+369,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2014,4,2014,9,none,production,2917.21800946
+370,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2015,4,2015,9,none,production,3563.17342584
+371,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2016,4,2016,9,none,production,3563.17342584
+372,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2014,4,2014,9,none,production,126.14665106
+373,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2015,4,2015,9,none,production,172.10007395
+374,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2016,4,2016,9,none,production,172.10007395
+375,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2014,4,2014,9,none,production,334.13393577
+376,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2015,4,2015,9,none,production,467.78751007
+377,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2016,4,2016,9,none,production,467.78751007
+378,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,3837.51405802
+379,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,5509.57375473
+380,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,5509.57375473
+381,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2014,4,2014,9,none,production,1196.65260668
+382,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2015,4,2015,9,none,production,1238.53544792
+383,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2016,4,2016,9,none,production,1238.53544792
+384,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2014,4,2014,9,none,production,11769.72473842
+385,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2015,4,2015,9,none,production,14375.87807335
+386,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2016,4,2016,9,none,production,14375.87807335
+387,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2014,4,2014,9,none,production,1700.03243772
+388,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2015,4,2015,9,none,production,2319.3299686
+389,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2016,4,2016,9,none,production,2319.3299686
+390,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,536.00904859
+391,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,769.55584833
+392,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,808.03364075
+393,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2014,4,2014,9,none,production,2324.97661879
+394,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2015,4,2015,9,none,production,2839.7928701
+395,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2016,4,2016,9,none,production,3492.94523022
+396,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2014,4,2014,9,none,production,247.57753947
+397,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2015,4,2015,9,none,production,337.76650028
+398,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2016,4,2016,9,none,production,246.56954521
+399,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2014,4,2014,9,none,production,635.01283527
+400,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2015,4,2015,9,none,production,628.30992201
+401,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2016,4,2016,9,none,production,628.30992201
+402,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,11202.9220404
+403,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,9146.75496437
+404,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,9146.75496437
+405,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2014,4,2014,9,none,production,1750.12023258
+406,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2015,4,2015,9,none,production,1346.09247603
+407,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2016,4,2016,9,none,production,1346.09247603
+408,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2014,4,2014,9,none,production,39065.40086148
+409,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2015,4,2015,9,none,production,46740.24961535
+410,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2016,4,2016,9,none,production,46740.24961535
+411,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2014,4,2014,9,none,production,14680.1691501
+412,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2015,4,2015,9,none,production,12362.0170664
+413,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2016,4,2016,9,none,production,12362.0170664
+414,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2014,4,2014,9,none,production,172.60947393
+415,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2015,4,2015,9,none,production,161.32821188
+416,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2016,4,2016,9,none,production,177.46103307
+417,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,5716.32010204
+418,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,4162.38361114
+419,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,5327.85102227
+420,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2014,4,2014,9,none,production,3467.38622253
+421,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2015,4,2015,9,none,production,2612.77750062
+422,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2016,4,2016,9,none,production,3109.20522574
+423,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2014,4,2014,9,none,production,24755.0463892
+424,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2015,4,2015,9,none,production,31608.28554747
+425,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2016,4,2016,9,none,production,38246.02551243
+426,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2014,4,2014,9,none,production,5190.87574429
+427,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2015,4,2015,9,none,production,4851.61493672
+428,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2016,4,2016,9,none,production,5385.29257976
+429,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2014,4,2014,9,none,production,23.75359733
+430,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2015,4,2015,9,none,production,33.25503626
+431,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2016,4,2016,9,none,production,33.25503626
+432,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2014,4,2014,9,none,production,481.63131902
+433,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2015,4,2015,9,none,production,691.48496517
+434,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2016,4,2016,9,none,production,691.48496517
+435,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2014,4,2014,9,none,production,400.56903518
+436,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2015,4,2015,9,none,production,414.58895141
+437,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2016,4,2016,9,none,production,414.58895141
+438,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2014,4,2014,9,none,production,2158.67695293
+439,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2015,4,2015,9,none,production,2636.6697068
+440,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2016,4,2016,9,none,production,2636.6697068
+441,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2014,4,2014,9,none,production,418.52393578
+442,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2015,4,2015,9,none,production,570.98622667
+443,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2016,4,2016,9,none,production,570.98622667
+444,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2014,4,2014,9,none,yield,1.342224012892189
+445,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2015,4,2015,9,none,yield,1.4000000000002106
+446,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Sesame Seed,Main,2016,4,2016,9,none,yield,1.399999999999655
+447,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.0240955519198045
+448,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.0
+449,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.0
+450,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2014,4,2014,9,none,yield,1.1314917291231061
+451,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2015,4,2015,9,none,yield,1.0999999999956827
+452,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Rice,Main,2016,4,2016,9,none,yield,1.1
+453,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2014,4,2014,9,none,yield,3.204548010975073
+454,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2015,4,2015,9,none,yield,3.199999999999614
+455,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Cassava,Main,2016,4,2016,9,none,yield,3.2
+456,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2014,4,2014,9,none,yield,1.0194056364305064
+457,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2015,4,2015,9,none,yield,1.0
+458,CF2003A111,Central African Republic,CF,Ombella-Mpoko,none,Ombella-Mpoko,Maize,Main,2016,4,2016,9,none,yield,1.1
+459,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2014,4,2014,9,none,yield,1.1680204707832964
+460,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2015,4,2015,9,none,yield,0.9000000000097541
+461,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Sesame Seed,Main,2016,4,2016,9,none,yield,0.8999999999950414
+462,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.84625698064855
+463,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.8000000000005634
+464,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.7999999999999999
+465,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2014,4,2014,9,none,yield,1.1295956657345483
+466,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2015,4,2015,9,none,yield,1.0999999999977972
+467,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Rice,Main,2016,4,2016,9,none,yield,1.0999999999969408
+468,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2014,4,2014,9,none,yield,3.3476886513764885
+469,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2015,4,2015,9,none,yield,3.3999999999994794
+470,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Cassava,Main,2016,4,2016,9,none,yield,3.400000000000898
+471,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2014,4,2014,9,none,yield,1.2111976775188984
+472,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2015,4,2015,9,none,yield,1.2000000000004032
+473,CF2003A112,Central African Republic,CF,Lobaye,none,Lobaye,Maize,Main,2016,4,2016,9,none,yield,1.1999999999996243
+474,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2014,4,2014,9,none,yield,0.8057109081553161
+475,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2015,4,2015,9,none,yield,0.7999999999975663
+476,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Sesame Seed,Main,2016,4,2016,9,none,yield,0.7999999999945918
+477,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.3479674766424803
+478,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.2999999999978302
+479,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.3000000000005492
+480,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2014,4,2014,9,none,yield,3.992840915579482
+481,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2015,4,2015,9,none,yield,4.000000000001725
+482,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Cassava,Main,2016,4,2016,9,none,yield,3.99999999999885
+483,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2014,4,2014,9,none,yield,0.6055071646975831
+484,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2015,4,2015,9,none,yield,0.5999999999960146
+485,CF2003A121,Central African Republic,CF,Mambere-Kadei,none,Mambere-Kadei,Maize,Main,2016,4,2016,9,none,yield,0.6
+486,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2014,4,2014,9,none,yield,0.8051472729818396
+487,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2015,4,2015,9,none,yield,0.7999999999999999
+488,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Sesame Seed,Main,2016,4,2016,9,none,yield,0.7999999999999999
+489,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.940519173109296
+490,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.8999999999975283
+491,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.8999999999975283
+492,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2014,4,2014,9,none,yield,0.712571354942966
+493,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2015,4,2015,9,none,yield,0.7000000001714862
+494,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Rice,Main,2016,4,2016,9,none,yield,0.7000000001714862
+495,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2014,4,2014,9,none,yield,1.9451212741757073
+496,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2015,4,2015,9,none,yield,2.0
+497,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Cassava,Main,2016,4,2016,9,none,yield,2.0
+498,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2014,4,2014,9,none,yield,0.4037325591736261
+499,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2015,4,2015,9,none,yield,0.4000000000006435
+500,CF2003A122,Central African Republic,CF,Nana-Mambere,none,Nana-Mambere,Maize,Main,2016,4,2016,9,none,yield,0.4000000000006435
+501,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.8365453995451241
+502,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.799999999998514
+503,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.8
+504,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2014,4,2014,9,none,yield,7.062697910012945
+505,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2015,4,2015,9,none,yield,7.099999999996352
+506,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Cassava,Main,2016,4,2016,9,none,yield,7.100000000008685
+507,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2014,4,2014,9,none,yield,0.8074651183489906
+508,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2015,4,2015,9,none,yield,0.7999999999958289
+509,CF2003A123,Central African Republic,CF,Sangha-Mbaere,none,Sangha-Mbaere,Maize,Main,2016,4,2016,9,none,yield,0.800000000002418
+510,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2014,4,2014,9,none,yield,1.236905650937694
+511,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2015,4,2015,9,none,yield,1.2999999999992056
+512,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Sesame Seed,Main,2016,4,2016,9,none,yield,1.3000000000014185
+513,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.9226612836462059
+514,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.8999999999996102
+515,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.8999999999997461
+516,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2014,4,2014,9,none,yield,1.297774883156996
+517,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2015,4,2015,9,none,yield,1.300000000016893
+518,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Rice,Main,2016,4,2016,9,none,yield,1.2999999999958998
+519,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2014,4,2014,9,none,yield,1.0051922688380912
+520,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2015,4,2015,9,none,yield,1.10000000000015
+521,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Cassava,Main,2016,4,2016,9,none,yield,1.100000000000122
+522,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2014,4,2014,9,none,yield,1.2612160540761366
+523,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2015,4,2015,9,none,yield,1.1
+524,CF2003A131,Central African Republic,CF,Ouham-Pende,none,Ouham-Pende,Maize,Main,2016,4,2016,9,none,yield,1.0999999999983308
+525,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2014,4,2014,9,none,yield,1.1532338321382678
+526,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2015,4,2015,9,none,yield,1.30000000000172
+527,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Sesame Seed,Main,2016,4,2016,9,none,yield,1.3000000000003473
+528,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.103234843438797
+529,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.1000000000004355
+530,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.0999999999998757
+531,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2014,4,2014,9,none,yield,1.6182738028605597
+532,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2015,4,2015,9,none,yield,1.5999999999933499
+533,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Rice,Main,2016,4,2016,9,none,yield,1.5999999999654535
+534,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2014,4,2014,9,none,yield,1.709270627550498
+535,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2015,4,2015,9,none,yield,1.7000000000001179
+536,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Cassava,Main,2016,4,2016,9,none,yield,1.6999999999998892
+537,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2014,4,2014,9,none,yield,0.4708123477312707
+538,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2015,4,2015,9,none,yield,0.5000000000004304
+539,CF2003A132,Central African Republic,CF,Ouham,none,Ouham,Maize,Main,2016,4,2016,9,none,yield,0.49999999999958616
+540,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2014,4,2014,9,none,yield,0.46629210837677876
+541,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2015,4,2015,9,none,yield,0.30000000000077653
+542,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Sesame Seed,Main,2016,4,2016,9,none,yield,0.30000000000077653
+543,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.02623503350667
+544,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.0
+545,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.0
+546,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2014,4,2014,9,none,yield,1.4150106775937978
+547,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2015,4,2015,9,none,yield,1.4
+548,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Rice,Main,2016,4,2016,9,none,yield,1.4
+549,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2014,4,2014,9,none,yield,5.404471958920387
+550,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2015,4,2015,9,none,yield,5.300000000000714
+551,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Cassava,Main,2016,4,2016,9,none,yield,5.300000000000714
+552,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2014,4,2014,9,none,yield,0.9665195809176814
+553,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2015,4,2015,9,none,yield,1.0
+554,CF2003A141,Central African Republic,CF,Kemo,none,Kemo,Maize,Main,2016,4,2016,9,none,yield,1.0
+555,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2014,4,2014,9,none,yield,0.3992381644174386
+556,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2015,4,2015,9,none,yield,0.2999999999969415
+557,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Sesame Seed,Main,2016,4,2016,9,none,yield,0.30000000000132976
+558,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.846668033406911
+559,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.7999999999992446
+560,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.8000000000006685
+561,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2014,4,2014,9,none,yield,1.3181875552453697
+562,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2015,4,2015,9,none,yield,1.299999999982693
+563,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Rice,Main,2016,4,2016,9,none,yield,1.3000000000066565
+564,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2014,4,2014,9,none,yield,3.5189601314231016
+565,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2015,4,2015,9,none,yield,3.4
+566,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Cassava,Main,2016,4,2016,9,none,yield,3.3999999999980655
+567,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2014,4,2014,9,none,yield,0.5948095305452864
+568,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2015,4,2015,9,none,yield,0.5999999999995013
+569,CF2003A142,Central African Republic,CF,Nana-Grebizi,none,Nana-Grebizi,Maize,Main,2016,4,2016,9,none,yield,0.5999999999989717
+570,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2014,4,2014,9,none,yield,0.515308316681042
+571,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2015,4,2015,9,none,yield,0.7000000000002952
+572,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Sesame Seed,Main,2016,4,2016,9,none,yield,0.7000000000002952
+573,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.2571345838066217
+574,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.2000000000018192
+575,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.2000000000018192
+576,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2014,4,2014,9,none,yield,1.9201706610947993
+577,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2015,4,2015,9,none,yield,1.8999999999725428
+578,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Rice,Main,2016,4,2016,9,none,yield,1.8999999999725428
+579,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2014,4,2014,9,none,yield,4.70069862674109
+580,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2015,4,2015,9,none,yield,4.500000000001377
+581,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Cassava,Main,2016,4,2016,9,none,yield,4.500000000001377
+582,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2014,4,2014,9,none,yield,0.7929689913165828
+583,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2015,4,2015,9,none,yield,0.8
+584,CF2003A143,Central African Republic,CF,Ouaka,none,Ouaka,Maize,Main,2016,4,2016,9,none,yield,0.8
+585,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2014,4,2014,9,none,yield,0.5543968748768234
+586,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2015,4,2015,9,none,yield,0.39999999999366936
+587,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Sesame Seed,Main,2016,4,2016,9,none,yield,0.39999999999366936
+588,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.5135154976302277
+589,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.500000000003426
+590,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.500000000003426
+591,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2014,4,2014,9,none,yield,2.4375891260149487
+592,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2015,4,2015,9,none,yield,2.4000000000000004
+593,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Cassava,Main,2016,4,2016,9,none,yield,2.4000000000000004
+594,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2014,4,2014,9,none,yield,0.5192233633305461
+595,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2015,4,2015,9,none,yield,0.49999999998547356
+596,CF2003A151,Central African Republic,CF,Bamingui-Bangoran,none,Bamingui-Bangoran,Maize,Main,2016,4,2016,9,none,yield,0.49999999998547356
+597,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2014,4,2014,9,none,yield,0.199302791500996
+598,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2015,4,2015,9,none,yield,0.09999999999935869
+599,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Sesame Seed,Main,2016,4,2016,9,none,yield,0.09999999999935869
+600,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.923462215101315
+601,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.89999999999951
+602,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.89999999999951
+603,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2014,4,2014,9,none,yield,1.4146856878682472
+604,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2015,4,2015,9,none,yield,1.4000000000090431
+605,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Rice,Main,2016,4,2016,9,none,yield,1.4000000000090431
+606,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2014,4,2014,9,none,yield,2.9505451838606165
+607,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2015,4,2015,9,none,yield,2.6999999999979343
+608,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Cassava,Main,2016,4,2016,9,none,yield,2.6999999999979343
+609,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2014,4,2014,9,none,yield,0.471021319035381
+610,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2015,4,2015,9,none,yield,0.5
+611,CF2003A152,Central African Republic,CF,Haute-Kotto,none,Haute-Kotto,Maize,Main,2016,4,2016,9,none,yield,0.5
+612,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.0258550890799234
+613,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.0
+614,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.0
+615,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2014,4,2014,9,none,yield,2.9153564015062248
+616,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2015,4,2015,9,none,yield,2.9000000000122546
+617,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Cassava,Main,2016,4,2016,9,none,yield,2.89999999999917
+618,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2014,4,2014,9,none,yield,0.3969280778339817
+619,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2015,4,2015,9,none,yield,0.4
+620,CF2003A153,Central African Republic,CF,Vakaga,none,Vakaga,Maize,Main,2016,4,2016,9,none,yield,0.40000000000973357
+621,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2014,4,2014,9,none,yield,0.24941233974516264
+622,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2015,4,2015,9,none,yield,0.2
+623,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Sesame Seed,Main,2016,4,2016,9,none,yield,0.2
+624,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,1.539547022929966
+625,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,1.50000000000082
+626,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,1.50000000000082
+627,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2014,4,2014,9,none,yield,1.3138604450108584
+628,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2015,4,2015,9,none,yield,1.3000000000028973
+629,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Rice,Main,2016,4,2016,9,none,yield,1.3000000000028973
+630,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2014,4,2014,9,none,yield,3.8960887407039984
+631,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2015,4,2015,9,none,yield,3.8000000000000003
+632,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Cassava,Main,2016,4,2016,9,none,yield,3.8000000000000003
+633,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2014,4,2014,9,none,yield,1.3878306721564897
+634,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2015,4,2015,9,none,yield,1.3999999999993207
+635,CF2003A161,Central African Republic,CF,Basse-Kotto,none,Basse-Kotto,Maize,Main,2016,4,2016,9,none,yield,1.3999999999993207
+636,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2014,4,2014,9,none,yield,0.3332629098126516
+637,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2015,4,2015,9,none,yield,0.2999999999981404
+638,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Sesame Seed,Main,2016,4,2016,9,none,yield,0.30000000000000004
+639,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.92358313951541
+640,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.8999999999989188
+641,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.9000000000013513
+642,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2014,4,2014,9,none,yield,1.7434050324410026
+643,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2015,4,2015,9,none,yield,1.7000000000013014
+644,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Rice,Main,2016,4,2016,9,none,yield,1.6999999999956261
+645,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2014,4,2014,9,none,yield,2.815190220447172
+646,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2015,4,2015,9,none,yield,2.800000000000177
+647,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Cassava,Main,2016,4,2016,9,none,yield,2.799999999999561
+648,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2014,4,2014,9,none,yield,0.8920285317329247
+649,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2015,4,2015,9,none,yield,0.7999999999999999
+650,CF2003A162,Central African Republic,CF,Mbomou,none,Mbomou,Maize,Main,2016,4,2016,9,none,yield,0.8000000000011884
+651,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2014,4,2014,9,none,yield,0.19738588426208822
+652,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2015,4,2015,9,none,yield,0.09999999999699294
+653,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Sesame Seed,Main,2016,4,2016,9,none,yield,0.09999999999699294
+654,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2014,4,2014,9,none,yield,0.8461140935842275
+655,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2015,4,2015,9,none,yield,0.8000000000023139
+656,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Groundnuts (In Shell),Main,2016,4,2016,9,none,yield,0.8000000000023139
+657,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2014,4,2014,9,none,yield,2.1186915971829197
+658,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2015,4,2015,9,none,yield,2.0999999999493473
+659,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Rice,Main,2016,4,2016,9,none,yield,2.0999999999493473
+660,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2014,4,2014,9,none,yield,3.0426829989310953
+661,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2015,4,2015,9,none,yield,2.999999999988622
+662,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Cassava,Main,2016,4,2016,9,none,yield,2.999999999988622
+663,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2014,4,2014,9,none,yield,1.0890961892555704
+664,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2015,4,2015,9,none,yield,1.1000000000038528
+665,CF2003A163,Central African Republic,CF,Haut-Mbomou,none,Haut-Mbomou,Maize,Main,2016,4,2016,9,none,yield,1.1000000000038528
