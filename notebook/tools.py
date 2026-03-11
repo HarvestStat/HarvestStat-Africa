@@ -211,7 +211,7 @@ def retreive_fdw_data(country_name, country_iso2, use_api_data=True, requires_au
     if use_api_data:
         # FDW API host address -------------------------- #
         host = 'https://fdw.fews.net'
-        endpoint = '/api/cropproductionindicatorvalue/'
+        endpoint = '/api/cropproductionfacts/'
         parameters = {
             'format': 'json',
             'country': country_name,
