@@ -20,7 +20,7 @@ Chad,Cold-off,1,3,0,0
 Chad,Main,6,11,0,0
 "Congo, The Democratic Republic of the",Main,1,12,0,0
 Ethiopia,Belg,2,8,0,0
-Ethiopia,Meher,5,12,0,-1
+Ethiopia,Meher,5,12,-1,-1
 Guinea,Main,5,12,0,0
 Kenya,Annual,1,12,-1,-1
 Kenya,Long,3,8,0,0
@@ -55,13 +55,13 @@ Rwanda,Season C,6,9,0,0
 Senegal,Main,6,11,0,0
 Senegal,Main-off,2,7,0,0
 Sierra Leone,Main,5,9,0,0
-Somalia,Deyr,10,3,0,1
-Somalia,Deyr-off,10,4,-1,0
+Somalia,Deyr,10,3,0,0
+Somalia,Deyr-off,10,4,0,0
 Somalia,Gu,3,8,0,0
 Somalia,Gu-off,3,9,0,0
 South Africa,Summer,10,4,-1,0
 South Africa,Winter,5,11,0,0
-South Sudan,Main,6,1,0,0
+South Sudan,Main,4,12,0,0
 South Sudan,Annual,6,5,0,0
 Sudan,Main,6,11,0,0
 Sudan,Winter,11,4,-1,0

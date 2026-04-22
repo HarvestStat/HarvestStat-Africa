@@ -216,7 +216,8 @@ def retreive_fdw_data(country_name, country_iso2, use_api_data=True, requires_au
             'format': 'json',
             'country': country_name,
             'product': ['R011','R012','R013','R014','R015','R016','R017','R018','R019'],
-            'survey_type': 'crop:best'
+            'survey_type': 'crop:best',
+            '_refresh': True
         }
         if requires_authentication:
             # Requires authentication
