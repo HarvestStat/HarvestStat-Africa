@@ -7,12 +7,12 @@ This project follows a dataset-oriented versioning scheme:
 - **Minor versions (x.y)** indicate bug fixes, consistency improvements, and metadata/QC updates based on the same offline raw data, or routine data updates.
 - **Major versions (x.0)** indicate substantial data updates, schema changes, or new raw data sources.
 
---- [1.2] - 2026-05-05
+## [1.1] - 2026-05-05
 **Row counts:** 203,125 (v1.0) → 216,212 (v1.2) | Net +13,087 rows
 **Changes:** 35,525 rows added · 22,438 rows removed · 2,939 rows with revised values (>5%)
 **Countries affected:** Angola, Benin, Burkina Faso, Ethiopia, Lesotho, Malawi, Mozambique, Somalia, South Africa, South Sudan, Sudan, Zambia
 
-## Boundary file
+### Boundary file
 
 **Admin units:** 1,109 (v1.0) → 1,128 (v1.2) | Net +19 units
 **Schema:** New `country_co` column added in v1.2 containing ISO 2-letter country codes (e.g. `AO`, `ET`) — present for all countries.
@@ -28,7 +28,7 @@ Ethiopia's restructuring updates FNIDs from the `ET2014A…` series to `ET2021R�
 
 
 
-## Crop statistics summary table
+### Crop statistics summary table
 
 | Country | Change type | Years affected |
 |---|---|---|
@@ -49,7 +49,7 @@ Ethiopia's restructuring updates FNIDs from the `ET2014A…` series to `ET2021R�
 
 
 
-## Angola
+### Angola
 New crop coverage added for 2015–2017 (horticultural crops) and 2007–2009 (staples). Lemon and Mango removed for 2016–2017. Many shared rows show large value revisions indicating a data re-ingestion at revised subnational granularity rather than corrections.
 
 | Crop | New years | Removed years |
@@ -62,7 +62,7 @@ New crop coverage added for 2015–2017 (horticultural crops) and 2007–2009 (s
 
 
 
-## Benin
+### Benin
 Two types of additions: a forward extension to 2022–2023 for most existing crops, and two new crop series added across their full historical range. No rows removed.
 
 | Crop | New years | Note |
@@ -75,12 +75,12 @@ Two types of additions: a forward extension to 2022–2023 for most existing cro
 
 
 
-## Burkina Faso
+### Burkina Faso
 All major crops extended back to 1984. The 1984–2000 period appears in both added and removed rows because the production system classification was restructured for those years — old system-coded rows were replaced with revised ones. The large apparent value changes in the changed-rows analysis (thousands of %) are artifacts of this restructuring, not genuine corrections to crop statistics. Cotton also gains 2001–2008 and 2011–2012 which were absent in v1.0. Sorghum (Red) gains 2023.
 
 
 
-## Ethiopia
+### Ethiopia
 Comprehensive reconstruction of the historical record. The update replaces prior v1.0 rows for most crops across 1998–2016 with new rows under a revised production system classification, and extends coverage back to 1993 and forward to 2021–2022. Six fruit crop series (Avocado, Lemon, Mango, Orange, Papaya, Pineapple) were removed entirely with no replacement.
 
 | Category | Crops | New years |
@@ -94,17 +94,17 @@ Comprehensive reconstruction of the historical record. The update replaces prior
 
 
 
-## Lesotho
+### Lesotho
 Small forward extension only. Five crops gain 2023; Maize, Sorghum, and Wheat additionally gain 2024.
 
 
 
-## Malawi
+### Malawi
 Single new row: Maize 2024.
 
 
 
-## Mozambique
+### Mozambique
 Removals only — no new rows added. A broad set of crops lost scattered years between 2002 and 2022, with Virginia Peanut losing the most (2002–2022). Several crop series removed entirely: Ginger, Jute, Macadamia, Tea, Banana (2020).
 
 | Crop | Removed years |
@@ -119,7 +119,7 @@ Removals only — no new rows added. A broad set of crops lost scattered years b
 
 
 
-## Somalia
+### Somalia
 Wholesale re-ingestion: old rows replaced across all affected crops. The crop `Pepper` was removed and replaced by `Chili Pepper`. Years extend to 2026 (Deyr season planted October 2024, harvesting March 2026 — the harvest year encoding is now corrected from the prior version). Years beyond 2024 should be treated with caution as they may represent incomplete seasons.
 
 | Crop | New years | Removed years |
@@ -136,7 +136,7 @@ Wholesale re-ingestion: old rows replaced across all affected crops. The crop `P
 
 
 
-## South Africa
+### South Africa
 Forward extension to 2023–2025 for all existing crops, plus Oats added as a new series (2013–2025). Shared rows show systematic yield corrections of 6–25% for Maize, Soybean, and Wheat across multiple years
 
 | Crop | New years |
@@ -148,16 +148,16 @@ Forward extension to 2023–2025 for all existing crops, plus Oats added as a ne
 
 
 
-## South Sudan
+### South Sudan
 Cereal Crops aggregate series added for 2013–2022. The 2012–2013 rows present in v1.0 were removed and replaced with corrected 2013 data.
 
 
-## Sudan
+### Sudan
 No structural changes. Five crops show borderline value revisions of ~5% for scattered years between 1975 and 2010 (Sorghum, Millet, Sesame Seed, Sunflower Seed, Cotton (American)). These are within rounding tolerance and do not represent material corrections.
 
 
 
-## Zambia
+### Zambia
 Large historical backfill with no removals. Most crops gain continuous national-level coverage from 1990 onward; Maize extends back to 1980. Several new crop series added.
 
 | Crop | New years | Note |
