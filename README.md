@@ -34,25 +34,51 @@ The repository is organized as follows:
 
 ## Setting up the environment
 
-To set up the environment using `environment.yml`, follow these steps:
+This project uses [uv](https://docs.astral.sh/uv/) to manage Python dependencies. uv is a fast, cross-platform package manager that works identically on macOS, Windows, and Linux.
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/HarvestStat/HarvestStat-Africa.git
-    cd HarvestStat-Africa
-    ```
+### 1. Install uv
 
-2. Create the conda environment:
-    ```bash
-    conda env create -f environment.yml
-    ```
+**macOS / Linux:**
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
 
-3. Activate the environment:
-    ```bash
-    conda activate hvstat
-    ```
+**Windows (PowerShell):**
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
 
-4. Start your preferred development environment (e.g., Jupyter Notebook, VSCode):
+Or via Homebrew (macOS), winget (Windows), or pipx — see the [uv install guide](https://docs.astral.sh/uv/getting-started/installation/).
+
+### 2. Clone and sync
+
+```bash
+git clone https://github.com/HarvestStat/HarvestStat-Africa.git
+cd HarvestStat-Africa
+uv sync
+```
+
+`uv sync` reads `pyproject.toml` and `uv.lock`, installs the pinned Python version (3.11), creates a `.venv/` in the project root, and installs all dependencies. This works the same on every OS.
+
+### 3. Run notebooks
+
+```bash
+uv run jupyter lab
+```
+
+Or activate the environment directly:
+
+- macOS / Linux: `source .venv/bin/activate`
+- Windows (PowerShell): `.venv\Scripts\Activate.ps1`
+- Windows (cmd): `.venv\Scripts\activate.bat`
+
+### Adding a dependency
+
+```bash
+uv add <package>          # adds to pyproject.toml and updates the lockfile
+uv remove <package>       # removes a dependency
+uv lock --upgrade-package <package>   # bump a single dependency
+```
 
 ## Data access and status
 
