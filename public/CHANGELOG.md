@@ -7,7 +7,7 @@ This project follows a dataset-oriented versioning scheme:
 - **Minor versions (x.y)** indicate bug fixes, consistency improvements, and metadata/QC updates based on the same offline raw data, or routine data updates.
 - **Major versions (x.0)** indicate substantial data updates, schema changes, or new raw data sources.
 
-## [1.1] - 2026-05-05
+## [1.2] - 2026-05-05
 **Row counts:** 203,125 (v1.0) → 216,212 (v1.2) | Net +13,087 rows
 **Changes:** 35,525 rows added · 22,438 rows removed · 2,939 rows with revised values (>5%)
 **Countries affected:** Angola, Benin, Burkina Faso, Ethiopia, Lesotho, Malawi, Mozambique, Somalia, South Africa, South Sudan, Sudan, Zambia
