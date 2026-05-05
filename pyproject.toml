@@ -1,0 +1,31 @@
+[project]
+name = "harveststat-africa"
+version = "0.1.0"
+description = "Subnational crop production statistics for African countries, harmonized from FEWS NET and FAO sources"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11,<3.13"
+
+dependencies = [
+    # Core data
+    "pandas>=2.0,<3.0",
+    "numpy>=1.26,<2.3",
+    "scipy>=1.11",
+    # Geospatial (geopandas brings shapely / pyproj / fiona transitively)
+    "geopandas>=0.14",
+    "rasterio>=1.3",
+    # Plotting
+    "matplotlib>=3.7",
+    "seaborn>=0.13",
+    "plotly>=5.18",
+    # I/O
+    "openpyxl>=3.1",       # pandas read_excel
+    "tables>=3.9",         # pandas read_hdf / to_hdf
+    "requests>=2.31",
+    # Utilities
+    "pycountry>=22.3",
+    "papermill>=2.5",
+    # Notebook environment
+    "jupyterlab>=4.0",
+    "ipykernel>=6.27",
+]
