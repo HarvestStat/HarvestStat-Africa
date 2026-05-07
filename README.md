@@ -60,7 +60,18 @@ uv sync
 
 `uv sync` reads `pyproject.toml` and `uv.lock`, installs the pinned Python version (3.11), creates a `.venv/` in the project root, and installs all dependencies. This works the same on every OS.
 
-### 3. Run notebooks
+### 3. Set up notebook output stripping (contributors only)
+
+This project uses [`nbstripout`](https://github.com/kynan/nbstripout) to prevent notebook outputs from being committed. After cloning, run once:
+
+```bash
+uv sync --group dev
+uv run nbstripout --install
+```
+
+This registers a git filter that automatically strips cell outputs before staging any `.ipynb` file.
+
+### 4. Run notebooks
 
 ```bash
 uv run jupyter lab
