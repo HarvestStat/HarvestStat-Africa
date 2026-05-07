@@ -29,3 +29,8 @@ dependencies = [
     "jupyterlab>=4.0",
     "ipykernel>=6.27",
 ]
+
+[dependency-groups]
+dev = [
+    "nbstripout>=0.7",
+]
