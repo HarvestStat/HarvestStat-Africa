@@ -75,7 +75,7 @@ Email: [carsten.meyer@idiv.de](mailto:carsten.meyer@idiv.de)
 
 ## File List
 
-### **hvstat_africa_data_v1.1.csv**
+### **hvstat_africa_data_v1.2.csv**
 A CSV file containing harmonized subnational crop statistics.
 
 **Data Structure**
@@ -99,7 +99,7 @@ A CSV file containing harmonized subnational crop statistics.
 | `production`             | Production volume (metric tonnes; mt)                             |
 | `yield`                  | Yield (metric tonnes per hectare; mt/ha)                          |
 
-### **hvstat_africa_boundary_v1.1.gpkg**
+### **hvstat_africa_boundary_v1.2.gpkg**
 A GeoPackage file containing FEWS NET-aligned administrative boundaries,
 linked to crop statistics via `fnid`.
 
@@ -114,11 +114,11 @@ linked to crop statistics via `fnid`.
 | `admin_2`  | Second-level administrative unit name            |
 | `geometry` | Administrative boundary geometry                 |
 
-### **hvstat_africa_boundary_v1.1.shp**
+### **hvstat_africa_boundary_v1.2.shp**
 A shapefile version of FEWS NET administrative boundaries.
 The data structure is identical to the GeoPackage file.
 
-### **fdw_raw_data_v1.1.zip**
+### **fdw_raw_data_v1.2.zip**
 A zipped archive containing raw FEWS NET Data Warehouse (FDW) data
 for 33 Sub-Saharan African countries.
 
