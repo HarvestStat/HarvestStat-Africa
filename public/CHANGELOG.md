@@ -8,9 +8,9 @@ This project follows a dataset-oriented versioning scheme:
 - **Major versions (x.0)** indicate substantial data updates, schema changes, or new raw data sources.
 
 ## [1.2] - 2026-05-05
-**Row counts:** 203,125 (v1.0) → 216,212 (v1.2) | Net +13,087 rows
-**Changes:** 35,525 rows added · 22,438 rows removed · 2,939 rows with revised values (>5%)
-**Countries affected:** Angola, Benin, Burkina Faso, Ethiopia, Lesotho, Malawi, Mozambique, Somalia, South Africa, South Sudan, Sudan, Zambia
+**Row counts:** 203,125 (v1.0) → 217,487 (v1.2) | Net +14,362 rows
+**Changes:** 36,800 rows added · 22,438 rows removed · 2,939 rows with revised values (>5%)
+**Countries affected:** Angola, Benin, Burkina Faso, Ethiopia, Kenya, Lesotho, Malawi, Mozambique, Somalia, South Africa, South Sudan, Sudan, Zambia
 
 ### Boundary file
 
@@ -36,6 +36,7 @@ Ethiopia's restructuring updates FNIDs from the `ET2014A…` series to `ET2021R�
 | Benin | New rows only | 1995–2023 |
 | Burkina Faso | New rows + removed rows + value revisions† | 1984–2023 |
 | Ethiopia | New rows + removed rows | 1993–2022 |
+| Kenya | New rows only | 2006–2011 |
 | Lesotho | New rows only | 2023–2024 |
 | Malawi | New rows only | 2024 |
 | Mozambique | Removed rows only | 2002–2022 |
@@ -91,6 +92,13 @@ Comprehensive reconstruction of the historical record. The update replaces prior
 | Vegetables & roots | Potato, Cabbage, Onions, Tomato, Beet, Taro, etc. | 2001–2021 |
 | New crops | Beans (Red), Mung bean, Yams, Carrots | 2013–2021 |
 | Removed entirely | Avocado, Lemon, Mango, Orange, Papaya, Pineapple | — |
+
+
+
+### Kenya
+The previously missing **2006–2011** subnational annual record is now filled (net +1,275 rows, all additions; no rows removed or revised). The gap was caused by annual data being tied to the `KE2007A2` and `KE2009A2` boundary delineations, which our pipeline did not connect. These series have been linked and harmonised onto the 47-unit `KE2013A1` admin structure — consistent with the source data, which is based on ~47 units throughout (the `KE2007A2` shapefile's 70 units were an artificial subdivision). *Maize Grain (Fresh)* was dropped at the source level due to limited observations (~49) and low relevance; the harmonised `Maize` series is unaffected. The new rows span 24 crops, including Maize, Beans (mixed), Sorghum, Millet, Wheat, Potato, and Banana
+([#94](https://github.com/HarvestStat/HarvestStat-Africa/issues/94),
+[#96](https://github.com/HarvestStat/HarvestStat-Africa/pull/96)).
 
 
 
