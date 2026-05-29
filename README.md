@@ -102,7 +102,7 @@ Processed datasets are available in the `public/` directory. Available files inc
 
 The dataset version is specified in the filename.
 
-The current release is **`v1.1`**, which includes subnational crop statistics for **33 countries**:
+The current release is **`v1.2`**, which includes subnational crop statistics for **33 countries**:
 
 - **Admin-1 level**:  
   Angola, Burundi, Central African Republic, Chad, Democratic Republic of the Congo, Ghana, Kenya, Lesotho, Liberia, Mali, Mauritania, Mozambique, Nigeria, South Africa, South Sudan, Sudan, Tanzania, Zimbabwe
