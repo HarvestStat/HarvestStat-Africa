@@ -98,7 +98,8 @@ Processed datasets are available in the `public/` directory. Available files inc
 - `README.md` – Dataset documentation  
 - `CHANGELOG.md` – Version history and updates  
 - `hvstat_africa_data_{version}.csv` – Final harmonized crop statistics  
-- `hvstat_africa_boundary_{version}.gpkg` – Subnational administrative boundary data  
+- `hvstat_africa_boundary_{version}.gpkg` – Subnational administrative boundary data (GeoPackage)  
+- `hvstat_africa_boundary_{version}_shp.zip` – Subnational administrative boundary data (zipped ESRI Shapefile)  
 
 The dataset version is specified in the filename.
 

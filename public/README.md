@@ -114,8 +114,9 @@ linked to crop statistics via `fnid`.
 | `admin_2`  | Second-level administrative unit name            |
 | `geometry` | Administrative boundary geometry                 |
 
-### **hvstat_africa_boundary_v1.2.shp**
-A shapefile version of FEWS NET administrative boundaries.
+### **hvstat_africa_boundary_v1.2_shp.zip**
+A zipped ESRI Shapefile version of FEWS NET administrative boundaries,
+bundling all shapefile components (`.shp`, `.shx`, `.dbf`, `.prj`, `.cpg`).
 The data structure is identical to the GeoPackage file.
 
 ### **fdw_raw_data_v1.2.zip**
