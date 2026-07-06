@@ -8,15 +8,20 @@ This project follows a dataset-oriented versioning scheme:
 - **Major versions (x.0)** indicate substantial data updates, schema changes, or new raw data sources.
 
 ## [1.2] - 2026-05-05
-**Row counts:** 203,125 (v1.0) → 217,487 (v1.2) | Net +14,362 rows
-**Changes:** 36,800 rows added · 22,438 rows removed · 2,939 rows with revised values (>5%)
-**Countries affected:** Angola, Benin, Burkina Faso, Ethiopia, Kenya, Lesotho, Malawi, Mozambique, Somalia, South Africa, South Sudan, Sudan, Zambia
+
+### Summary
+
+This release improves HarvestStat Africa’s data coverage, boundary consistency, and harmonization. Changes include new and backfilled records, selected re-ingestion of country datasets, and limited corrections or standardization of administrative names, crop names, and values. For most applications, users should use v1.2 as the most complete and current version of the dataset, while consulting the country-specific notes below when comparing results with earlier versions.
+
+- **Row counts:** 203,125 (v1.0) → 217,487 (v1.2) | Net +14,362 rows
+- **Changes:** 36,800 rows added · 22,438 rows removed · 2,939 rows with revised values (>5%)
+- **Countries affected:** Angola, Benin, Burkina Faso, Ethiopia, Kenya, Lesotho, Malawi, Mozambique, Somalia, South Africa, South Sudan, Sudan, Zambia
 
 ### Boundary file
 
-**Admin units:** 1,109 (v1.0) → 1,128 (v1.2) | Net +19 units
-**Schema:** New `country_co` column added in v1.2 containing ISO 2-letter country codes (e.g. `AO`, `ET`) — present for all countries.
-**Countries with changes:** 3
+- **Admin units:** 1,109 (v1.0) → 1,128 (v1.2) | Net +19 units
+- **Schema:** New `country_co` column added in v1.2 containing ISO 2-letter country codes (e.g. `AO`, `ET`) — present for all countries.
+- **Countries with changes:** 3
 
 | Country | Change type | Detail |
 |---|---|---|
@@ -145,7 +150,7 @@ Wholesale re-ingestion: old rows replaced across all affected crops. The crop `P
 
 
 ### South Africa
-Forward extension to 2023–2025 for all existing crops, plus Oats added as a new series (2013–2025). Shared rows show systematic yield corrections of 6–25% for Maize, Soybean, and Wheat across multiple years
+Forward extension to 2023–2025 for all existing crops, plus Oats added as a new series (2013–2025). Shared rows show systematic yield corrections of 6–25% for Maize, Soybean, and Wheat across multiple years.
 
 | Crop | New years |
 |---|---|
