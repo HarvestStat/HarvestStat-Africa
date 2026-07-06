@@ -119,10 +119,7 @@ A shapefile version of FEWS NET administrative boundaries.
 The data structure is identical to the GeoPackage file.
 
 ### **fdw_raw_data_v1.2.zip**
-A zipped archive containing raw FEWS NET Data Warehouse (FDW) data
-for 33 Sub-Saharan African countries.
-
-(Individual country CSV files are named using ISO 3166-1 alpha-2 codes.)
+This file is not included in the Dryad dataset. From v1.2 onward, the raw FEWS NET Data Warehouse (FDW) data archive used to develop HarvestStat Africa is provided through the [HarvestStat-Africa GitHub releases](https://github.com/HarvestStat/HarvestStat-Africa/releases) for reference and reproducibility purposes. Individual country CSV files are named using ISO 3166-1 alpha-2 codes.
 
 ---
 
@@ -130,6 +127,12 @@ for 33 Sub-Saharan African countries.
 Please refer to  
 [CHANGELOG.md](https://github.com/HarvestStat/HarvestStat-Africa/blob/main/public/CHANGELOG.md)
 for detailed version history and updates.
+
+---
+
+## Source data and derived dataset note
+
+HarvestStat Africa is a derived, harmonized dataset constructed from multiple original source documents and data products. The harmonized HarvestStat Africa data and boundary files are not a direct redistribution of the original source files or database records. The original source materials used to construct the dataset are listed in Table S1 of the Supplementary Information associated with the HarvestStat Africa paper.
 
 ---
 
