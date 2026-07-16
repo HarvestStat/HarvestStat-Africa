@@ -120,7 +120,10 @@ bundling all shapefile components (`.shp`, `.shx`, `.dbf`, `.prj`, `.cpg`).
 The data structure is identical to the GeoPackage file.
 
 ### **fdw_raw_data_v1.2.zip**
-This file is not included in the Dryad dataset. From v1.2 onward, the raw FEWS NET Data Warehouse (FDW) data archive used to develop HarvestStat Africa is provided through the [HarvestStat-Africa GitHub releases](https://github.com/HarvestStat/HarvestStat-Africa/releases) for reference and reproducibility purposes. Individual country CSV files are named using ISO 3166-1 alpha-2 codes.
+A zipped archive containing raw FEWS NET Data Warehouse (FDW) data
+for 33 Sub-Saharan African countries.
+
+(Individual country CSV files are named using ISO 3166-1 alpha-2 codes.)
 
 ---
 
